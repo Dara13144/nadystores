@@ -1,35 +1,79 @@
 {
   "users": [
     {
+      "id": "u0000000-0000-0000-0000-000000000001",
+      "email": "admin@digitalstore.com",
+      "password_hash": "$2a$10$LCbKVCVrhsRL7uMTtXA27uRomtntZwpT6qU4CFgxMjkmEifH68wwK",
+      "username": "superadmin",
+      "full_name": "Shiryu Admin",
+      "phone": null,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "role": "admin",
+      "status": "active",
+      "email_verified": true,
+      "google_id": null,
+      "created_at": "2026-09-22T21:38:59.487057+00:00",
+      "updated_at": "2026-09-22T21:38:59.487057+00:00"
+    },
+    {
+      "id": "6c3ce1a0-08f5-4569-b7e4-e97e186e1b54",
+      "email": "wallet.test.1790012169704@example.com",
+      "password_hash": "",
+      "username": "wallettest1790012169704_9520",
+      "full_name": "Test Wallet User",
+      "phone": null,
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150",
+      "role": "user",
+      "status": "active",
+      "email_verified": true,
+      "google_id": null,
+      "created_at": "2026-09-22T21:38:59.487057+00:00",
+      "updated_at": "2026-09-22T21:38:59.487057+00:00"
+    },
+    {
+      "id": "f79c34e2-9ee9-4ebf-95b1-6ed967108de8",
+      "email": "iqbalahmed88600@gmail.com",
+      "password_hash": null,
+      "username": "iqbalahmed886002474",
+      "full_name": "Iqbal Ahmed",
+      "phone": "",
+      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKDhw3tjYbQ_IDqe9A4GMmpUvkjYnCN__Qyo4foO2C2RcY2Ofo=s96-c",
+      "role": "user",
+      "status": "active",
+      "email_verified": true,
+      "google_id": "109015663613196056220",
+      "created_at": "2026-09-22T22:04:01.417+00:00",
+      "updated_at": "2026-09-22T22:04:01.417+00:00"
+    },
+    {
       "id": "u0000000-0000-0000-0000-000000000099",
       "email": "mdara9695@gmail.com",
-      "password_hash": "$2a$10$LCbKVCVrhsRL7uMTtXA27uRomtntZwpT6qU4CFgxMjkmEifH68wwK",
+      "password_hash": "$2a$10$4Wn9U438uj5fMb7yoCfNdOa0Am.r8vauIFdYtTKPoGGvnxw1EWCSi",
       "username": "mdara9695",
-      "full_name": "Mao Dara",
-      "phone": "",
-      "avatar": "/uploads/1790106980782-58cb043d.png",
+      "full_name": "MDara Admin",
+      "phone": "+855969500000",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
       "role": "admin",
       "status": "active",
       "email_verified": true,
       "google_id": "107288615453584527109",
-      "created_at": "2026-09-22T18:45:23.882Z",
-      "updated_at": "2026-09-22T20:37:29.133Z",
-      "wallet_balance": 68
+      "created_at": "2025-01-01T00:00:00+00:00",
+      "updated_at": "2025-01-01T00:00:00+00:00"
     },
     {
-      "id": "c3f3c212-b1bf-42ac-bf44-5d05b0006cf5",
-      "email": "leexingaming094@gmail.com",
-      "password_hash": null,
-      "username": "leexingaming0943492",
-      "full_name": "រីជាងភ្លើង Gamingរីជាងភ្លើង",
-      "phone": "",
-      "avatar": "https://lh3.googleusercontent.com/a/ACg8ocJ3xQign1O1WAZ7zaLhEkT_G3qmqD7RCBh6uLIVAGzzm3UEI5i9=s96-c",
+      "id": "u0000000-0000-0000-0000-000000000002",
+      "email": "user@digitalstore.com",
+      "password_hash": "$2a$10$4Wn9U438uj5fMb7yoCfNdOMGeLoVZTXUBrvHXPkPgBfKxZJfV/mKS",
+      "username": "demouser",
+      "full_name": "Alex Vance",
+      "phone": "+85598112233",
+      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=150",
       "role": "user",
       "status": "active",
       "email_verified": true,
-      "google_id": "102804412620492712894",
-      "created_at": "2026-09-22T20:37:49.535Z",
-      "updated_at": "2026-09-22T20:37:49.535Z"
+      "google_id": null,
+      "created_at": "2025-01-01T00:00:00+00:00",
+      "updated_at": "2025-01-01T00:00:00+00:00"
     }
   ],
   "categories": [
@@ -41,7 +85,9 @@
       "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=600",
       "icon": "Tv",
       "status": "active",
-      "sort_order": 1
+      "sort_order": 1,
+      "created_at": "2026-09-22T21:38:59.487057+00:00",
+      "updated_at": "2026-09-22T21:38:59.487057+00:00"
     },
     {
       "id": "c2",
@@ -51,7 +97,9 @@
       "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600",
       "icon": "Sparkles",
       "status": "active",
-      "sort_order": 2
+      "sort_order": 2,
+      "created_at": "2026-09-22T21:38:59.487057+00:00",
+      "updated_at": "2026-09-22T21:38:59.487057+00:00"
     },
     {
       "id": "c3",
@@ -61,7 +109,9 @@
       "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600",
       "icon": "Bot",
       "status": "active",
-      "sort_order": 3
+      "sort_order": 3,
+      "created_at": "2026-09-22T21:38:59.487057+00:00",
+      "updated_at": "2026-09-22T21:38:59.487057+00:00"
     },
     {
       "id": "c4",
@@ -71,7 +121,9 @@
       "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600",
       "icon": "ShieldCheck",
       "status": "active",
-      "sort_order": 4
+      "sort_order": 4,
+      "created_at": "2026-09-22T21:38:59.487057+00:00",
+      "updated_at": "2026-09-22T21:38:59.487057+00:00"
     },
     {
       "id": "c5",
@@ -81,7 +133,9 @@
       "image": "https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=600",
       "icon": "Music",
       "status": "active",
-      "sort_order": 5
+      "sort_order": 5,
+      "created_at": "2026-09-22T21:38:59.487057+00:00",
+      "updated_at": "2026-09-22T21:38:59.487057+00:00"
     },
     {
       "id": "c6",
@@ -91,167 +145,559 @@
       "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=600",
       "icon": "Gamepad2",
       "status": "active",
-      "sort_order": 6
+      "sort_order": 6,
+      "created_at": "2026-09-22T21:38:59.487057+00:00",
+      "updated_at": "2026-09-22T21:38:59.487057+00:00"
     }
   ],
   "products": [
     {
-      "id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "name": "Gemini AI",
-      "slug": "gemini-ai",
-      "description": "High speed instant automated delivery. Enjoy premium perks without interruptions.\n\n• Ultra HD 4K Quality\n• 100% Private Profile\n• Full term warranty guaranteed",
-      "short_description": "",
-      "category_id": "c3",
-      "price": 2.5,
-      "compare_price": 20.99,
+      "id": "p1",
+      "name": "CapCut Pro (Private Account)",
+      "slug": "capcut-pro",
+      "description": "CapCut Pro Private Account សម្រាប់ Edit វីដេអូកម្រិតខ្ពស់។ Maximum login for 1 private account is 1 device. ទទួលបានគណនី Email + Password ភ្លាមៗបន្ទាប់ពីទូទាត់។",
+      "short_description": "CapCut Pro Private Account - Maximum 1 device, instant delivery.",
+      "category_id": "c2",
+      "price": 0.5,
+      "compare_price": 1,
       "currency": "USD",
-      "product_type": "License",
+      "product_type": "Account",
       "delivery_type": "Automatic",
-      "duration": "18 Month",
-      "image": "/uploads/1790104356512-d05f1df4.png",
-      "gallery": [
-        "/uploads/1790104340165-da2f3b3d.png"
-      ],
-      "stock_count": 1,
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 15,
       "status": "active",
-      "featured": false,
-      "popular": false,
+      "featured": true,
+      "popular": true,
+      "rating": 4.9,
+      "reviews_count": 39,
       "is_digital": true,
       "features": [
-        "Instant automated delivery 24/7",
-        "Full term replacement guarantee",
-        "Ultra HD 4K Streaming / Premium Access"
+        "Auto Captions VIP",
+        "Smooth Slow-Motion",
+        "All Pro Transitions",
+        "Instant Auto Delivery"
       ],
-      "faq": [
-        {
-          "q": "How fast is delivery?",
-          "a": "Credentials appear instantly on your screen upon checkout completion."
-        }
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p2",
+      "name": "YouTube Premium (Ad-Free + Background Play)",
+      "slug": "youtube-premium",
+      "description": "គណនី YouTube Premium ថ្មី (New Account)។ អ្នកនឹងទទួលបាន Email + Password សម្រាប់ចូលប្រើប្រាស់។ គ្មានការរំខានដោយពាណិជ្ជកម្ម និង Background Play នៅពេលបិទអេក្រង់។",
+      "short_description": "គណនី YouTube Premium ថ្មី (New Account) គ្មាន Ads និង Background Play.",
+      "category_id": "c1",
+      "price": 1.5,
+      "compare_price": 4.99,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 20,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 4.8,
+      "reviews_count": 48,
+      "is_digital": true,
+      "features": [
+        "Ad-free videos",
+        "Play in background",
+        "YouTube Music Premium included",
+        "Instant Delivery"
       ],
-      "variants": [
-        {
-          "id": "1y",
-          "name": "18 Month",
-          "duration": "18 Month",
-          "price": 2.5,
-          "compare_price": 19.99,
-          "badge": "Best Value"
-        }
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p3",
+      "name": "Netflix Premium 4K UHD (Private Profile)",
+      "slug": "netflix-premium",
+      "description": "បន្ទាប់ពីការទូទាត់ខ្ញុំនឹងផ្តល់ឱ្យ អ៊ីមែល និងពាក្យសម្ងាត់ ដូច្នេះអ្នកអាចចូលបាន។ ធានាពេញមួយខែជាមួយ Private PIN Profile ផ្ទាល់ខ្លួន 4K Ultra HD.",
+      "short_description": "Private 4K profile with personal PIN. Instant credentials & full warranty.",
+      "category_id": "c1",
+      "price": 2.5,
+      "compare_price": 9.99,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 12,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 5,
+      "reviews_count": 52,
+      "is_digital": true,
+      "features": [
+        "Ultra HD 4K & Spatial Audio",
+        "Private dedicated profile & PIN",
+        "Works on TV, Mobile, PC",
+        "Full Month Warranty"
       ],
-      "created_at": "2026-09-22T19:11:55.930Z",
-      "updated_at": "2026-09-22T20:08:44.830Z"
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p4",
+      "name": "Canva Pro (EDU / Pro Lifetime)",
+      "slug": "canva-pro",
+      "description": "រីករាយជាមួយលក្ខណៈពិសេស Canva Pro & EDU។ Brand Kits, Background Remover, Magic Eraser, និង Premium templates រាប់លាន។",
+      "short_description": "Full Canva Pro design perks, brand kit, background remover.",
+      "category_id": "c2",
+      "price": 0.5,
+      "compare_price": 2,
+      "currency": "USD",
+      "product_type": "Subscription",
+      "delivery_type": "Automatic",
+      "duration": "1 Year",
+      "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 30,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 4.7,
+      "reviews_count": 26,
+      "is_digital": true,
+      "features": [
+        "100M+ Premium Stock Photos",
+        "Instant Background Remover",
+        "Magic Switch AI Tools",
+        "Instant Activation"
+      ],
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p5",
+      "name": "Alight Motion Premium VIP",
+      "slug": "alight-motion-premium",
+      "description": "Alight Motion Premium គ្មាន Watermark, គាំទ្រ XML Presets និង Motion Graphics លំដាប់ខ្ពស់។",
+      "short_description": "No watermark, export 4K 60FPS, XML presets supported.",
+      "category_id": "c2",
+      "price": 2.99,
+      "compare_price": 5.99,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Year",
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 8,
+      "status": "active",
+      "featured": false,
+      "popular": true,
+      "rating": 4.8,
+      "reviews_count": 14,
+      "is_digital": true,
+      "features": [
+        "No watermark on export",
+        "Full XML preset import",
+        "Vector graphics support",
+        "Instant Delivery"
+      ],
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p6",
+      "name": "Gemini AI Pro & Advanced",
+      "slug": "gemini-ai-pro",
+      "description": "Google Gemini 1.5 Pro with 1M+ context window, deep reasoning, code generation, and direct workspace integration.",
+      "short_description": "Gemini 1.5 Pro 1M context, multimodal code & text intelligence.",
+      "category_id": "c3",
+      "price": 7.99,
+      "compare_price": 15,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 10,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 4.9,
+      "reviews_count": 22,
+      "is_digital": true,
+      "features": [
+        "1 Million token context",
+        "Fast response generation",
+        "Python code execution",
+        "Full account login"
+      ],
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p7",
+      "name": "Wink VIP Video Retouching",
+      "slug": "wink-vip",
+      "description": "Wink VIP video quality enhancer, 4K face retouching, AI noise removal, and frame rate enhancement.",
+      "short_description": "AI 4K quality enhancer & video retouching VIP access.",
+      "category_id": "c2",
+      "price": 0.49,
+      "compare_price": 1,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1534972195531-a756b1146f35?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 14,
+      "status": "active",
+      "featured": false,
+      "popular": true,
+      "rating": 4.8,
+      "reviews_count": 19,
+      "is_digital": true,
+      "features": [
+        "4K Video Quality Enhancer",
+        "AI Face Retouching VIP",
+        "Auto Cut Background",
+        "Instant Delivery"
+      ],
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p8",
+      "name": "HBO Max (Max Premium)",
+      "slug": "hbo-max",
+      "description": "Stream Warner Bros blockbuster movies, House of the Dragon, DC universe, and Discovery shows in 4K.",
+      "short_description": "Blockbuster movies & 4K UHD HBO Max private access.",
+      "category_id": "c1",
+      "price": 1.99,
+      "compare_price": 4.99,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 9,
+      "status": "active",
+      "featured": false,
+      "popular": true,
+      "rating": 4.9,
+      "reviews_count": 18,
+      "is_digital": true,
+      "features": [
+        "Full 4K Ultra HD playback",
+        "House of the Dragon & DC",
+        "Ad-free streaming",
+        "Full replacement warranty"
+      ],
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p9",
+      "name": "Amazon Prime Video Private",
+      "slug": "prime-video",
+      "description": "Amazon Prime Video private profile. Stream The Boys, Rings of Power, and global cinema in 4K HDR.",
+      "short_description": "The Boys, Rings of Power in 4K HDR. Instant credentials.",
+      "category_id": "c1",
+      "price": 0.75,
+      "compare_price": 1,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1585951237318-9ea5e175b891?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 16,
+      "status": "active",
+      "featured": false,
+      "popular": true,
+      "rating": 4.7,
+      "reviews_count": 12,
+      "is_digital": true,
+      "features": [
+        "4K Ultra HD & HDR",
+        "Prime exclusive originals",
+        "X-Ray movie trivia",
+        "Instant Delivery"
+      ],
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p10",
+      "name": "VPN Nord (2-Year Ultra Security)",
+      "slug": "vpn-nord",
+      "description": "VPN Nord AES-256 encryption, 6400+ high-speed servers in 111 countries, Threat Protection, and zero logs.",
+      "short_description": "Military AES-256 encryption, 6400+ global servers, zero logs.",
+      "category_id": "c4",
+      "price": 1.5,
+      "compare_price": 3.5,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 11,
+      "status": "active",
+      "featured": false,
+      "popular": true,
+      "rating": 4.9,
+      "reviews_count": 31,
+      "is_digital": true,
+      "features": [
+        "Connect on PC, Android, iOS",
+        "Zero logs audited",
+        "Unblock any geo-restriction",
+        "Instant delivery"
+      ],
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p11",
+      "name": "Spotify Premium Individual",
+      "slug": "spotify-premium",
+      "description": "Ad-free 320kbps extreme audio streaming, offline song downloads, and unlimited skips on mobile and desktop.",
+      "short_description": "Zero ads, unlimited skips, offline song downloads.",
+      "category_id": "c5",
+      "price": 2.5,
+      "compare_price": 6.99,
+      "currency": "USD",
+      "product_type": "Subscription",
+      "delivery_type": "Automatic",
+      "duration": "3 Months",
+      "image": "https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 18,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 4.8,
+      "reviews_count": 42,
+      "is_digital": true,
+      "features": [
+        "Zero advertisements",
+        "320kbps Extreme audio",
+        "Offline song cache",
+        "Direct account activation"
+      ],
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
+    },
+    {
+      "id": "p12",
+      "name": "Discord Nitro 1-Year Full Gift Link",
+      "slug": "discord-nitro",
+      "description": "Discord Nitro with 2 Server Boosts, 500MB upload limits, custom emojis anywhere, and 4K 60FPS streaming.",
+      "short_description": "2 Server boosts, 500MB uploads, HD streaming & custom emojis.",
+      "category_id": "c6",
+      "price": 4.99,
+      "compare_price": 9.99,
+      "currency": "USD",
+      "product_type": "Gift Card",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=600&auto=format&fit=crop",
+      "gallery": [],
+      "stock_count": 15,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 4.9,
+      "reviews_count": 29,
+      "is_digital": true,
+      "features": [
+        "Direct gift link redemption",
+        "2 Server Boosts included",
+        "Custom emojis globally",
+        "Instant automatic delivery"
+      ],
+      "faq": [],
+      "download_file_id": null,
+      "created_at": "2026-09-22T22:07:15.093562+00:00",
+      "updated_at": "2026-09-22T22:07:15.093562+00:00"
     }
   ],
   "digital_stock": [
     {
-      "id": "b6790ee6-84e6-4117-8c76-6ed842a21aeb",
-      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
-      "type": "Link",
-      "status": "sold",
-      "created_at": "2026-09-22T19:46:48.515Z",
-      "order_id": "11b9c415-de6a-4818-82c7-ff54f9daa49b",
-      "sold_at": "2026-09-22T19:47:00.463Z",
-      "updated_at": "2026-09-22T19:47:00.463Z"
+      "id": "s1",
+      "product_id": "p1",
+      "value": "capcut.pro01@streamvault.co|CapCutPass#9921",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
     },
     {
-      "id": "f5bcf541-e1d7-41c2-8b15-f03b60bd5f03",
-      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
-      "type": "Link",
-      "status": "sold",
-      "created_at": "2026-09-22T19:47:23.296Z",
-      "order_id": "1993e4e7-052d-46d6-8bea-e0887ddef577",
-      "sold_at": "2026-09-22T19:47:35.661Z",
-      "updated_at": "2026-09-22T19:47:35.661Z"
+      "id": "s2",
+      "product_id": "p1",
+      "value": "capcut.pro02@streamvault.co|CapCutPass#4412",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
     },
     {
-      "id": "1577a596-8052-4a3a-b2ef-3edc3ce78a41",
-      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q11",
-      "type": "Link",
-      "status": "sold",
-      "created_at": "2026-09-22T19:47:23.297Z",
-      "order_id": "f114124c-3433-49ec-9ed9-d1811d861fa9",
-      "sold_at": "2026-09-22T19:47:46.757Z",
-      "updated_at": "2026-09-22T19:47:46.757Z"
+      "id": "s3",
+      "product_id": "p2",
+      "value": "yt.premium01@cloudpass.io|StreamVideo$881",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
     },
     {
-      "id": "62d0f8a3-940e-42c1-af3e-67ede2f1a35c",
-      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q11",
-      "type": "Link",
-      "status": "sold",
-      "created_at": "2026-09-22T19:57:31.857Z",
-      "order_id": "3f133e04-3edb-4ae5-b32b-73768c20060d",
-      "sold_at": "2026-09-22T19:59:37.335Z",
-      "updated_at": "2026-09-22T19:59:37.335Z"
+      "id": "s4",
+      "product_id": "p2",
+      "value": "yt.premium02@cloudpass.io|StreamVideo$882",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
     },
     {
-      "id": "6a6ff2c5-173b-40a3-a442-8b3c4c0363d0",
-      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q1122",
-      "type": "Link",
-      "status": "sold",
-      "created_at": "2026-09-22T19:57:31.858Z",
-      "order_id": "3f133e04-3edb-4ae5-b32b-73768c20060d",
-      "sold_at": "2026-09-22T19:59:37.336Z",
-      "updated_at": "2026-09-22T19:59:37.336Z"
+      "id": "s5",
+      "product_id": "p3",
+      "value": "net.vip.alpha@streamvault.co|CinemaPass#9921|Profile: 3 (PIN: 1842)",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
     },
     {
-      "id": "38a80514-d14a-4c72-9923-337b1d80b0e9",
-      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q1133",
-      "type": "Link",
-      "status": "sold",
-      "created_at": "2026-09-22T19:57:31.859Z",
-      "order_id": "845ce7cb-12d2-4887-82b7-b9dcc0555915",
-      "sold_at": "2026-09-22T20:01:16.630Z",
-      "updated_at": "2026-09-22T20:01:16.630Z"
+      "id": "s6",
+      "product_id": "p3",
+      "value": "net.vip.bravo@streamvault.co|CinemaPass#4412|Profile: 2 (PIN: 9021)",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
     },
     {
-      "id": "479c261d-241d-45e4-8cff-072ca12ebe11",
-      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q11",
+      "id": "s7",
+      "product_id": "p4",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-7781-SHIRYU",
       "type": "Link",
-      "status": "sold",
-      "created_at": "2026-09-22T20:01:58.361Z",
-      "order_id": "850b1f14-4782-43df-98dc-af142d26b466",
-      "sold_at": "2026-09-22T20:02:10.734Z",
-      "updated_at": "2026-09-22T20:02:10.734Z"
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
     },
     {
-      "id": "ab4662b7-f0ec-4837-8725-698d6ecb5991",
-      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q22",
-      "type": "Link",
-      "status": "sold",
-      "created_at": "2026-09-22T20:01:58.362Z",
-      "order_id": "61aa2216-6fd2-4c30-8d6d-d0877f7306a6",
-      "sold_at": "2026-09-22T20:02:25.060Z",
-      "updated_at": "2026-09-22T20:02:25.060Z"
+      "id": "s8",
+      "product_id": "p5",
+      "value": "alight.vip01@streamvault.co|MotionDesign#99",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
     },
     {
-      "id": "cf9f10a0-b697-4c91-a380-62c928e882b1",
-      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q33",
-      "type": "Link",
-      "status": "sold",
-      "created_at": "2026-09-22T20:01:58.363Z",
-      "order_id": "f3c6d11b-701b-4c6b-bd32-74fc71ce07b0",
-      "sold_at": "2026-09-22T20:07:20.432Z",
-      "updated_at": "2026-09-22T20:07:20.432Z"
+      "id": "s9",
+      "product_id": "p6",
+      "value": "ai.gemini01@neuralmail.net|GoogleAiPass$2026",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
     },
     {
-      "id": "d934ba0c-2f1e-4726-adc6-47c629b9462e",
-      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
-      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q33",
+      "id": "s10",
+      "product_id": "p7",
+      "value": "wink.vip01@streamvault.co|RetouchVideo#77",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
+    },
+    {
+      "id": "s11",
+      "product_id": "p8",
+      "value": "hbo.max01@streamvault.co|WarnerCinema#321",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
+    },
+    {
+      "id": "s12",
+      "product_id": "p9",
+      "value": "prime.video01@streamvault.co|AmazonPass#551",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
+    },
+    {
+      "id": "s13",
+      "product_id": "p10",
+      "value": "vpn.nord.pro99@safezone.org|NordUltraSecure#321",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
+    },
+    {
+      "id": "s14",
+      "product_id": "p11",
+      "value": "spot.vip.user1@tuneshub.me|AudioKing99!",
+      "type": "Account",
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
+    },
+    {
+      "id": "s15",
+      "product_id": "p12",
+      "value": "https://discord.gift/XQ99-KLM2-PV78-SHIRYU",
       "type": "Link",
-      "status": "sold",
-      "created_at": "2026-09-22T20:08:44.829Z",
-      "order_id": "2e2c3e19-0af7-4a3d-b042-4c476e5e6622",
-      "sold_at": "2026-09-22T20:08:58.341Z",
-      "updated_at": "2026-09-22T20:08:58.341Z"
+      "status": "available",
+      "order_id": null,
+      "sold_at": null,
+      "created_at": "2026-09-22T22:07:15.299066+00:00"
     }
   ],
   "coupons": [
@@ -263,9 +709,10 @@
       "minimum_amount": 0.5,
       "maximum_discount": 15,
       "usage_limit": 500,
-      "used_count": 0,
-      "expires_at": "2027-12-31T23:59:59Z",
-      "active": true
+      "used_count": 14,
+      "expires_at": "2027-12-31T23:59:59+00:00",
+      "active": true,
+      "created_at": "2026-09-22T21:38:59.487057+00:00"
     },
     {
       "id": "cp2",
@@ -275,9 +722,10 @@
       "minimum_amount": 1,
       "maximum_discount": 10,
       "usage_limit": 200,
-      "used_count": 0,
-      "expires_at": "2027-12-31T23:59:59Z",
-      "active": true
+      "used_count": 8,
+      "expires_at": "2027-12-31T23:59:59+00:00",
+      "active": true,
+      "created_at": "2026-09-22T21:38:59.487057+00:00"
     },
     {
       "id": "cp3",
@@ -287,9 +735,10 @@
       "minimum_amount": 0.5,
       "maximum_discount": 10,
       "usage_limit": 1000,
-      "used_count": 0,
-      "expires_at": "2027-12-31T23:59:59Z",
-      "active": true
+      "used_count": 2,
+      "expires_at": "2027-12-31T23:59:59+00:00",
+      "active": true,
+      "created_at": "2026-09-22T21:38:59.487057+00:00"
     }
   ],
   "orders": [
@@ -311,8 +760,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-836869",
       "coupon_code": null,
-      "created_at": "2026-09-22T19:29:53.367Z",
-      "updated_at": "2026-09-22T19:29:53.374Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T19:29:53.367+00:00",
+      "updated_at": "2026-09-22T19:29:53.374+00:00"
     },
     {
       "id": "a6db3f54-7d67-415a-b38c-741c154d31e3",
@@ -332,8 +782,9 @@
       "payment_method": "aba_payway",
       "transaction_id": "ABA_ORD-20260922-234563_1790105463446",
       "coupon_code": null,
-      "created_at": "2026-09-22T19:31:03.444Z",
-      "updated_at": "2026-09-22T19:31:03.446Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T19:31:03.444+00:00",
+      "updated_at": "2026-09-22T19:31:03.446+00:00"
     },
     {
       "id": "5070895c-18a4-4186-9426-adc03f0e0632",
@@ -353,8 +804,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-451651",
       "coupon_code": null,
-      "created_at": "2026-09-22T19:39:47.330Z",
-      "updated_at": "2026-09-22T19:39:47.336Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T19:39:47.33+00:00",
+      "updated_at": "2026-09-22T19:39:47.336+00:00"
     },
     {
       "id": "11b9c415-de6a-4818-82c7-ff54f9daa49b",
@@ -374,8 +826,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-290151",
       "coupon_code": null,
-      "created_at": "2026-09-22T19:47:00.458Z",
-      "updated_at": "2026-09-22T19:47:00.465Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T19:47:00.458+00:00",
+      "updated_at": "2026-09-22T19:47:00.465+00:00"
     },
     {
       "id": "1993e4e7-052d-46d6-8bea-e0887ddef577",
@@ -395,8 +848,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-735491",
       "coupon_code": null,
-      "created_at": "2026-09-22T19:47:35.657Z",
-      "updated_at": "2026-09-22T19:47:35.662Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T19:47:35.657+00:00",
+      "updated_at": "2026-09-22T19:47:35.662+00:00"
     },
     {
       "id": "f114124c-3433-49ec-9ed9-d1811d861fa9",
@@ -416,8 +870,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-468149",
       "coupon_code": null,
-      "created_at": "2026-09-22T19:47:46.753Z",
-      "updated_at": "2026-09-22T19:47:46.759Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T19:47:46.753+00:00",
+      "updated_at": "2026-09-22T19:47:46.759+00:00"
     },
     {
       "id": "3f133e04-3edb-4ae5-b32b-73768c20060d",
@@ -437,8 +892,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-120259",
       "coupon_code": null,
-      "created_at": "2026-09-22T19:59:37.330Z",
-      "updated_at": "2026-09-22T19:59:37.338Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T19:59:37.33+00:00",
+      "updated_at": "2026-09-22T19:59:37.338+00:00"
     },
     {
       "id": "845ce7cb-12d2-4887-82b7-b9dcc0555915",
@@ -458,8 +914,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-500885",
       "coupon_code": null,
-      "created_at": "2026-09-22T20:01:16.625Z",
-      "updated_at": "2026-09-22T20:01:16.632Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T20:01:16.625+00:00",
+      "updated_at": "2026-09-22T20:01:16.632+00:00"
     },
     {
       "id": "850b1f14-4782-43df-98dc-af142d26b466",
@@ -479,8 +936,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-360009",
       "coupon_code": null,
-      "created_at": "2026-09-22T20:02:10.728Z",
-      "updated_at": "2026-09-22T20:02:10.736Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T20:02:10.728+00:00",
+      "updated_at": "2026-09-22T20:02:10.736+00:00"
     },
     {
       "id": "61aa2216-6fd2-4c30-8d6d-d0877f7306a6",
@@ -500,8 +958,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-210625",
       "coupon_code": null,
-      "created_at": "2026-09-22T20:02:25.055Z",
-      "updated_at": "2026-09-22T20:02:25.062Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T20:02:25.055+00:00",
+      "updated_at": "2026-09-22T20:02:25.062+00:00"
     },
     {
       "id": "b9134926-75db-4542-ac14-184ba3fc2235",
@@ -521,8 +980,9 @@
       "payment_method": "aba_payway",
       "transaction_id": "ABA_ORD-20260922-420011_1790107418304",
       "coupon_code": null,
-      "created_at": "2026-09-22T20:03:38.300Z",
-      "updated_at": "2026-09-22T20:03:38.304Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T20:03:38.3+00:00",
+      "updated_at": "2026-09-22T20:03:38.304+00:00"
     },
     {
       "id": "f3c6d11b-701b-4c6b-bd32-74fc71ce07b0",
@@ -542,8 +1002,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-778456",
       "coupon_code": null,
-      "created_at": "2026-09-22T20:07:20.425Z",
-      "updated_at": "2026-09-22T20:07:20.434Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T20:07:20.425+00:00",
+      "updated_at": "2026-09-22T20:07:20.434+00:00"
     },
     {
       "id": "2e2c3e19-0af7-4a3d-b042-4c476e5e6622",
@@ -563,8 +1024,9 @@
       "payment_method": "wallet",
       "transaction_id": "PAY-ORD-20260922-187163",
       "coupon_code": null,
-      "created_at": "2026-09-22T20:08:58.335Z",
-      "updated_at": "2026-09-22T20:08:58.343Z"
+      "internal_notes": null,
+      "created_at": "2026-09-22T20:08:58.335+00:00",
+      "updated_at": "2026-09-22T20:08:58.343+00:00"
     }
   ],
   "order_items": [
@@ -814,34 +1276,54 @@
   ],
   "wallets": [
     {
-      "id": "w_admin_99",
+      "id": "w99",
       "user_id": "u0000000-0000-0000-0000-000000000099",
-      "balance": 68,
+      "balance": 500,
       "currency": "USD",
-      "total_deposited": 100.5,
-      "total_spent": 32.5,
-      "created_at": "2026-09-22T18:45:23.882Z",
-      "updated_at": "2026-09-22T20:23:06.721Z"
+      "total_deposited": 500,
+      "total_spent": 0,
+      "created_at": "2026-09-22T21:38:59.487057+00:00",
+      "updated_at": "2026-09-22T21:38:59.487057+00:00"
     },
     {
-      "id": "c3ca11ca-e042-4d04-9e4b-9bafe9b959d4",
-      "user_id": "6c02abc1-83c0-42be-860d-a6bab82f6483",
+      "id": "0eda1e0f-b69c-4f64-a1c5-8ff123afe763",
+      "user_id": "6c3ce1a0-08f5-4569-b7e4-e97e186e1b54",
+      "balance": 15,
+      "currency": "USD",
+      "total_deposited": 22.99,
+      "total_spent": 7.99,
+      "created_at": "2026-09-22T21:38:59.487057+00:00",
+      "updated_at": "2026-09-22T21:38:59.487057+00:00"
+    },
+    {
+      "id": "b22626eb-4e22-456e-9b12-4221dc61d6f8",
+      "user_id": "f79c34e2-9ee9-4ebf-95b1-6ed967108de8",
       "balance": 0,
       "currency": "USD",
       "total_deposited": 0,
       "total_spent": 0,
-      "created_at": "2026-09-22T18:53:00.901Z",
-      "updated_at": "2026-09-22T18:53:00.901Z"
+      "created_at": "2026-09-22T22:04:01.419+00:00",
+      "updated_at": "2026-09-22T22:04:01.419+00:00"
     },
     {
-      "id": "a307e705-2fc4-4e8f-be62-6bbebca48d59",
-      "user_id": "c3f3c212-b1bf-42ac-bf44-5d05b0006cf5",
-      "balance": 0,
+      "id": "w1",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "balance": 500,
       "currency": "USD",
-      "total_deposited": 0,
+      "total_deposited": 500,
       "total_spent": 0,
-      "created_at": "2026-09-22T20:37:49.536Z",
-      "updated_at": "2026-09-22T20:37:49.536Z"
+      "created_at": "2025-01-01T00:00:00+00:00",
+      "updated_at": "2025-01-01T00:00:00+00:00"
+    },
+    {
+      "id": "w2",
+      "user_id": "u0000000-0000-0000-0000-000000000002",
+      "balance": 85.5,
+      "currency": "USD",
+      "total_deposited": 100,
+      "total_spent": 14.5,
+      "created_at": "2025-01-01T00:00:00+00:00",
+      "updated_at": "2025-01-01T00:00:00+00:00"
     }
   ],
   "wallet_transactions": [
