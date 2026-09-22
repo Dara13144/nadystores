@@ -1,0 +1,3723 @@
+{
+  "users": [
+    {
+      "id": "u0000000-0000-0000-0000-000000000001",
+      "email": "admin@digitalstore.com",
+      "password_hash": "$2a$10$LCbKVCVrhsRL7uMTtXA27uRomtntZwpT6qU4CFgxMjkmEifH68wwK",
+      "username": "superadmin",
+      "full_name": "Shiryu Admin",
+      "phone": "+85512999888",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+      "role": "admin",
+      "status": "active",
+      "email_verified": true,
+      "created_at": "2025-01-01T00:00:00.000Z",
+      "updated_at": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "u0000000-0000-0000-0000-000000000002",
+      "email": "user@digitalstore.com",
+      "password_hash": "$2a$10$LCbKVCVrhsRL7uMTtXA27uFF.4ekMmsFQAJMyfq6lPrJ2uy4wkmwO",
+      "username": "demouser",
+      "full_name": "Alex Vance",
+      "phone": "+85598112233",
+      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=150",
+      "role": "user",
+      "status": "active",
+      "email_verified": true,
+      "created_at": "2025-01-01T00:00:00.000Z",
+      "updated_at": "2025-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "6c3ce1a0-08f5-4569-b7e4-e97e186e1b54",
+      "email": "wallet.test.1790012169704@example.com",
+      "password_hash": "",
+      "username": "wallettest1790012169704_9520",
+      "full_name": "Test Wallet User",
+      "phone": "",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=wallettest1790012169704_9520",
+      "role": "user",
+      "status": "active",
+      "email_verified": true,
+      "created_at": "2026-09-21T17:36:09.732Z",
+      "updated_at": "2026-09-21T17:36:09.732Z"
+    },
+    {
+      "id": "25fd9f91-4116-4447-9426-0630b2c41b6c",
+      "email": "sokha.heng.kh@gmail.com",
+      "password_hash": null,
+      "username": "sokhahengkh1655",
+      "full_name": "Sokha Heng",
+      "phone": "",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+      "role": "user",
+      "status": "active",
+      "email_verified": true,
+      "google_id": "10928374650192837465",
+      "created_at": "2026-09-21T18:31:48.858Z",
+      "updated_at": "2026-09-21T18:31:48.858Z"
+    },
+    {
+      "id": "5d7fac52-d7ba-4cc8-9f59-20b416645526",
+      "email": "google.tester.1790015643516@gmail.com",
+      "password_hash": null,
+      "username": "googletester17900156435166869",
+      "full_name": "Antigravity Google User",
+      "phone": "",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=150",
+      "role": "user",
+      "status": "active",
+      "email_verified": true,
+      "google_id": "gid_1790015643522",
+      "created_at": "2026-09-21T18:34:03.601Z",
+      "updated_at": "2026-09-21T18:34:03.601Z"
+    },
+    {
+      "id": "ad8448f3-5d98-4ae8-b7ce-4918db80a49e",
+      "email": "customer@nadystore.com",
+      "password_hash": "",
+      "username": "customer_5574",
+      "full_name": "Customer",
+      "phone": "",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=customer_5574",
+      "role": "user",
+      "status": "active",
+      "email_verified": true,
+      "created_at": "2026-09-22T02:24:53.892Z",
+      "updated_at": "2026-09-22T02:24:53.892Z"
+    },
+    {
+      "id": "c4e89e6f-e475-444a-babd-565db9424359",
+      "email": "alex.vance.dev@gmail.com",
+      "password_hash": null,
+      "username": "alexvancedev5789",
+      "full_name": "Alex Vance",
+      "phone": "",
+      "avatar": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=150",
+      "role": "user",
+      "status": "active",
+      "email_verified": true,
+      "google_id": "google_1790045768560",
+      "created_at": "2026-09-22T02:56:08.573Z",
+      "updated_at": "2026-09-22T02:56:08.573Z"
+    },
+    {
+      "id": "8b808ed1-aa67-4132-bede-9fabfc684202",
+      "email": "testuser_1790046194903@example.com",
+      "password_hash": "$2a$10$x1Z8cKMl88wV.JhJTNo1kOmUjXk/qVlY.6f5Snj/Ja7tYiFKw8ZGy",
+      "username": "testuser_1790046194903",
+      "full_name": "Test Buyer",
+      "phone": "",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=testuser_1790046194903",
+      "role": "user",
+      "status": "active",
+      "email_verified": false,
+      "created_at": "2026-09-22T03:03:15.016Z",
+      "updated_at": "2026-09-22T03:03:15.016Z"
+    },
+    {
+      "id": "cd40e03f-bc38-4714-9305-40638e5f9f41",
+      "email": "testuser_1790046201401@example.com",
+      "password_hash": "$2a$10$VFS7JdduzP0KZEq6s/6GvOWoWrsvcJE517Cmlc1LD6.ghmjTISF9G",
+      "username": "testuser_1790046201401",
+      "full_name": "Test Buyer",
+      "phone": "",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=testuser_1790046201401",
+      "role": "user",
+      "status": "active",
+      "email_verified": false,
+      "created_at": "2026-09-22T03:03:21.514Z",
+      "updated_at": "2026-09-22T03:03:21.514Z"
+    },
+    {
+      "id": "acb42184-27c5-4d29-ae84-5fdaeca263e1",
+      "email": "buyer_1790046207240@example.com",
+      "password_hash": "$2a$10$itp730Nu2mqQe7leDIVYIemDzGa4NskIdvHQCBC6lAKJg8n1O.yd2",
+      "username": "buyer_1790046207240",
+      "full_name": "Valid Buyer",
+      "phone": "",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=buyer_1790046207240",
+      "role": "user",
+      "status": "active",
+      "email_verified": false,
+      "created_at": "2026-09-22T03:03:27.309Z",
+      "updated_at": "2026-09-22T03:03:27.309Z"
+    },
+    {
+      "id": "1a37544b-519a-4632-9a69-6948606b9353",
+      "email": "test.user@gmail.com",
+      "password_hash": null,
+      "username": "testuser5922",
+      "full_name": "Test Google User",
+      "phone": "",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=test.user",
+      "role": "user",
+      "status": "active",
+      "email_verified": true,
+      "google_id": "google_1790093643809",
+      "created_at": "2026-09-22T16:14:03.810Z",
+      "updated_at": "2026-09-22T16:14:03.810Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "c1",
+      "name": "Movie / TV / Show",
+      "slug": "movie-tv-show",
+      "description": "Ultra HD 4K streaming accounts for Netflix, Prime Video, HBO Max with instant automatic delivery.",
+      "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=600",
+      "icon": "Tv",
+      "status": "active",
+      "sort_order": 1
+    },
+    {
+      "id": "c2",
+      "name": "Designing / Video Editing",
+      "slug": "designing-video-editing",
+      "description": "CapCut Pro, Canva Pro, Alight Motion, and Wink VIP editing subscriptions.",
+      "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600",
+      "icon": "Sparkles",
+      "status": "active",
+      "sort_order": 2
+    },
+    {
+      "id": "c3",
+      "name": "Ai / ChatBot",
+      "slug": "ai-chatbot",
+      "description": "Gemini AI Pro, ChatGPT Plus, and advanced intelligence tokens.",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600",
+      "icon": "Bot",
+      "status": "active",
+      "sort_order": 3
+    },
+    {
+      "id": "c4",
+      "name": "VPN / Security",
+      "slug": "vpn-security",
+      "description": "High-speed VPN Nord, ExpressVPN, and private proxies for encrypted safe browsing.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600",
+      "icon": "ShieldCheck",
+      "status": "active",
+      "sort_order": 4
+    },
+    {
+      "id": "c5",
+      "name": "Music & Audio",
+      "slug": "music",
+      "description": "Spotify Premium, YouTube Music ad-free high bitrate audio accounts.",
+      "image": "https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=600",
+      "icon": "Music",
+      "status": "active",
+      "sort_order": 5
+    },
+    {
+      "id": "c6",
+      "name": "Subscription & Gaming",
+      "slug": "subscription",
+      "description": "Discord Nitro, Telegram Premium, Steam and Game Pass subscriptions.",
+      "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=600",
+      "icon": "Gamepad2",
+      "status": "active",
+      "sort_order": 6
+    }
+  ],
+  "products": [
+    {
+      "id": "p_gemini_pro",
+      "name": "Gemini AI Pro 18 Free Gift Cards",
+      "slug": "gemini-ai-pro",
+      "description": "Google Gemini 1.5 Pro & Advanced VIP Bundle ជាមួយ 18 Free Gift Cards Included! សមត្ថភាពវិភាគកូដ, 1M+ Context Window, Multimodal Vision និងការឆ្លើយតបឆ្លាតវៃបំផុត។ ទទួលបានកូដកាដូ Gift Cards ចំនួន 18 សន្លឹកភ្លាមៗបន្ទាប់ពី Checkout ដោយស្វ័យប្រវត្តិ។",
+      "short_description": "Gemini AI Pro 18 Free Gift Cards Bundle. 1M+ context window, deep reasoning & instant code delivery.",
+      "category_id": "c3",
+      "price": 7.99,
+      "compare_price": 24.99,
+      "currency": "USD",
+      "product_type": "Gift Card",
+      "delivery_type": "Automatic",
+      "duration": "18 Free Gift Cards (1 Year VIP Access)",
+      "image": "/uploads/gemini-ai-pro-18-giftcards.png",
+      "gallery": [
+        "/uploads/gemini-ai-pro-18-giftcards.png"
+      ],
+      "stock_count": 18,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 5,
+      "reviews_count": 58,
+      "is_digital": true,
+      "features": [
+        "18 Free Gift Cards / Redeem Activation Keys",
+        "Google Gemini 1.5 Pro & Advanced Intelligence",
+        "1 Million Token Context Window & Multimodal Vision",
+        "Python Workspace Execution & Deep Reasoning",
+        "Instant Automatic Delivery to Screen & Email"
+      ],
+      "faq": [
+        {
+          "q": "How do I redeem my 18 Free Gift Cards?",
+          "a": "Each gift card key is delivered automatically to your screen and order history right after checkout. Simply click Reveal Credentials and apply the gift voucher code on the Google Gemini redeem portal."
+        },
+        {
+          "q": "Are the gift cards stackable or shareable with friends?",
+          "a": "Yes! All 18 gift cards can be redeemed consecutively on your own account or shared individually with family and team members."
+        },
+        {
+          "q": "Is delivery instant?",
+          "a": "Yes, our automated stock system dispatches your codes in less than 2 seconds!"
+        }
+      ],
+      "created_at": "2026-09-21T16:49:59.894Z",
+      "updated_at": "2026-09-21T18:29:36.233Z",
+      "variants": [
+        {
+          "id": "1m",
+          "name": "1 ខែ (1 Month Private - 1 Device)",
+          "duration": "1 Month",
+          "price": 7.99,
+          "compare_price": 9.99,
+          "badge": ""
+        },
+        {
+          "id": "3m",
+          "name": "3 ខែ (3 Months Private)",
+          "duration": "3 Months",
+          "price": 21.57,
+          "compare_price": 26.99,
+          "badge": "Save 10%"
+        },
+        {
+          "id": "6m",
+          "name": "6 ខែ (6 Months Individual Private)",
+          "duration": "6 Months",
+          "price": 39.95,
+          "compare_price": 49.99,
+          "badge": "Popular"
+        },
+        {
+          "id": "1y",
+          "name": "1 ឆ្នាំ (1 Year Full Term Guarantee)",
+          "duration": "1 Year",
+          "price": 75.91,
+          "compare_price": 99.99,
+          "badge": "Best Value"
+        }
+      ]
+    },
+    {
+      "id": "p_capcut",
+      "name": "CapCut Pro (Private Account)",
+      "slug": "capcut-pro",
+      "description": "CapCut Pro Private Account សម្រាប់ Edit វីដេអូកម្រិតខ្ពស់។ Maximum login for 1 private account is 1 device. ទទួលបានគណនី Email + Password ភ្លាមៗបន្ទាប់ពីទូទាត់។",
+      "short_description": "CapCut Pro Private Account - Maximum 1 device, instant delivery.",
+      "category_id": "c2",
+      "price": 0.5,
+      "compare_price": 1,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&auto=format&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&auto=format&fit=crop"
+      ],
+      "stock_count": 10,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 4.9,
+      "reviews_count": 39,
+      "is_digital": true,
+      "features": [
+        "Auto Captions VIP",
+        "Smooth Slow-Motion",
+        "All Pro Transitions",
+        "Instant Auto Delivery"
+      ],
+      "faq": [
+        {
+          "q": "How many devices can login?",
+          "a": "Maximum 1 device per account."
+        }
+      ],
+      "created_at": "2026-09-21T16:49:59.895Z",
+      "updated_at": "2026-09-21T16:49:59.895Z"
+    },
+    {
+      "id": "p_youtube",
+      "name": "YouTube Premium (Ad-Free + Background Play)",
+      "slug": "youtube-premium",
+      "description": "គណនី YouTube Premium ថ្មី (New Account)។ អ្នកនឹងទទួលបាន Email + Password សម្រាប់ចូលប្រើប្រាស់។ គ្មានការរំខានដោយពាណិជ្ជកម្ម និង Background Play នៅពេលបិទអេក្រង់។",
+      "short_description": "គណនី YouTube Premium ថ្មី (New Account) គ្មាន Ads និង Background Play.",
+      "category_id": "c1",
+      "price": 1.5,
+      "compare_price": 4.99,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&auto=format&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&auto=format&fit=crop"
+      ],
+      "stock_count": 10,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 4.8,
+      "reviews_count": 48,
+      "is_digital": true,
+      "features": [
+        "Ad-free videos",
+        "Play in background",
+        "YouTube Music Premium included",
+        "Instant Delivery"
+      ],
+      "faq": [
+        {
+          "q": "Does it include YouTube Music?",
+          "a": "Yes, full YouTube Music Premium is included."
+        }
+      ],
+      "created_at": "2026-09-21T16:49:59.895Z",
+      "updated_at": "2026-09-21T16:49:59.895Z"
+    },
+    {
+      "id": "p_netflix",
+      "name": "Netflix Premium 4K UHD (Private Profile)",
+      "slug": "netflix-premium",
+      "description": "បន្ទាប់ពីការទូទាត់ខ្ញុំនឹងផ្តល់ឱ្យ អ៊ីមែល និងពាក្យសម្ងាត់ ដូច្នេះអ្នកអាចចូលបាន។ ធានាពេញមួយខែជាមួយ Private PIN Profile ផ្ទាល់ខ្លួន 4K Ultra HD.",
+      "short_description": "Private 4K profile with personal PIN. Instant credentials & full warranty.",
+      "category_id": "c1",
+      "price": 2.5,
+      "compare_price": 9.99,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=600&auto=format&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=600&auto=format&fit=crop"
+      ],
+      "stock_count": 10,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 5,
+      "reviews_count": 52,
+      "is_digital": true,
+      "features": [
+        "Ultra HD 4K & Spatial Audio",
+        "Private dedicated profile & PIN",
+        "Works on TV, Mobile, PC",
+        "Full Month Warranty"
+      ],
+      "faq": [
+        {
+          "q": "Can I change my profile PIN?",
+          "a": "Yes, you can set your own 4-digit PIN."
+        }
+      ],
+      "created_at": "2026-09-21T16:49:59.895Z",
+      "updated_at": "2026-09-21T16:49:59.895Z"
+    },
+    {
+      "id": "p_canva",
+      "name": "Canva Pro (EDU / Pro Lifetime)",
+      "slug": "canva-pro",
+      "description": "រីករាយជាមួយលក្ខណៈពិសេស Canva Pro & EDU។ Brand Kits, Background Remover, Magic Eraser, និង Premium templates រាប់លាន។",
+      "short_description": "Full Canva Pro design perks, brand kit, background remover.",
+      "category_id": "c2",
+      "price": 0.5,
+      "compare_price": 2,
+      "currency": "USD",
+      "product_type": "Subscription",
+      "delivery_type": "Automatic",
+      "duration": "1 Year",
+      "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&auto=format&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&auto=format&fit=crop"
+      ],
+      "stock_count": 10,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 4.7,
+      "reviews_count": 26,
+      "is_digital": true,
+      "features": [
+        "100M+ Premium Stock Photos",
+        "Instant Background Remover",
+        "Magic Switch AI Tools",
+        "Instant Activation"
+      ],
+      "faq": [
+        {
+          "q": "Can I use my existing Canva account?",
+          "a": "Yes, an invite link is provided to join the Pro team."
+        }
+      ],
+      "created_at": "2026-09-21T16:49:59.895Z",
+      "updated_at": "2026-09-21T16:49:59.895Z"
+    },
+    {
+      "id": "p_alight",
+      "name": "Alight Motion Premium VIP",
+      "slug": "alight-motion-premium",
+      "description": "Alight Motion Premium គ្មាន Watermark, គាំទ្រ XML Presets និង Motion Graphics លំដាប់ខ្ពស់។",
+      "short_description": "No watermark, export 4K 60FPS, XML presets supported.",
+      "category_id": "c2",
+      "price": 2.99,
+      "compare_price": 5.99,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Year",
+      "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop"
+      ],
+      "stock_count": 10,
+      "status": "active",
+      "featured": false,
+      "popular": true,
+      "rating": 4.8,
+      "reviews_count": 14,
+      "is_digital": true,
+      "features": [
+        "No watermark on export",
+        "Full XML preset import",
+        "Vector graphics support",
+        "Instant Delivery"
+      ],
+      "faq": [],
+      "created_at": "2026-09-21T16:49:59.895Z",
+      "updated_at": "2026-09-21T16:49:59.895Z"
+    },
+    {
+      "id": "p_vpn",
+      "name": "VPN Nord (2-Year Ultra Security)",
+      "slug": "vpn-nord",
+      "description": "VPN Nord AES-256 encryption, 6400+ high-speed servers in 111 countries, Threat Protection, and zero logs.",
+      "short_description": "Military AES-256 encryption, 6400+ global servers, zero logs.",
+      "category_id": "c4",
+      "price": 1.5,
+      "compare_price": 3.5,
+      "currency": "USD",
+      "product_type": "Account",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&auto=format&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&auto=format&fit=crop"
+      ],
+      "stock_count": 10,
+      "status": "active",
+      "featured": false,
+      "popular": true,
+      "rating": 4.9,
+      "reviews_count": 31,
+      "is_digital": true,
+      "features": [
+        "Connect on PC, Android, iOS",
+        "Zero logs audited",
+        "Unblock any geo-restriction",
+        "Instant delivery"
+      ],
+      "faq": [],
+      "created_at": "2026-09-21T16:49:59.895Z",
+      "updated_at": "2026-09-21T16:49:59.895Z"
+    },
+    {
+      "id": "p_spotify",
+      "name": "Spotify Premium Individual",
+      "slug": "spotify-premium",
+      "description": "Ad-free 320kbps extreme audio streaming, offline song downloads, and unlimited skips on mobile and desktop.",
+      "short_description": "Zero ads, unlimited skips, offline song downloads.",
+      "category_id": "c5",
+      "price": 2.5,
+      "compare_price": 6.99,
+      "currency": "USD",
+      "product_type": "Subscription",
+      "delivery_type": "Automatic",
+      "duration": "3 Months",
+      "image": "https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=600&auto=format&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=600&auto=format&fit=crop"
+      ],
+      "stock_count": 10,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 4.8,
+      "reviews_count": 42,
+      "is_digital": true,
+      "features": [
+        "Zero advertisements",
+        "320kbps Extreme audio",
+        "Offline song cache",
+        "Direct account activation"
+      ],
+      "faq": [],
+      "created_at": "2026-09-21T16:49:59.895Z",
+      "updated_at": "2026-09-21T16:49:59.895Z"
+    },
+    {
+      "id": "p_discord",
+      "name": "Discord Nitro 1-Year Full Gift Link",
+      "slug": "discord-nitro",
+      "description": "Discord Nitro with 2 Server Boosts, 500MB upload limits, custom emojis anywhere, and 4K 60FPS streaming.",
+      "short_description": "2 Server boosts, 500MB uploads, HD streaming & custom emojis.",
+      "category_id": "c6",
+      "price": 4.99,
+      "compare_price": 9.99,
+      "currency": "USD",
+      "product_type": "Gift Card",
+      "delivery_type": "Automatic",
+      "duration": "1 Month",
+      "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=600&auto=format&fit=crop",
+      "gallery": [
+        "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=600&auto=format&fit=crop"
+      ],
+      "stock_count": 10,
+      "status": "active",
+      "featured": true,
+      "popular": true,
+      "rating": 4.9,
+      "reviews_count": 29,
+      "is_digital": true,
+      "features": [
+        "Direct gift link redemption",
+        "2 Server Boosts included",
+        "Custom emojis globally",
+        "Instant automatic delivery"
+      ],
+      "faq": [],
+      "created_at": "2026-09-21T16:49:59.895Z",
+      "updated_at": "2026-09-21T16:49:59.895Z"
+    }
+  ],
+  "digital_stock": [
+    {
+      "id": "s_gemini_1",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-1000-1X9W | PIN: 1100",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "21a72170-7cc4-44d1-bb3d-7424db933ce5",
+      "sold_at": "2026-09-21T16:52:59.548Z",
+      "updated_at": "2026-09-21T16:52:59.548Z"
+    },
+    {
+      "id": "s_gemini_2",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-1473-I0T7 | PIN: 1107",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "18a053a8-d069-4f25-a00c-33423fb61ca9",
+      "sold_at": "2026-09-21T17:36:09.742Z",
+      "updated_at": "2026-09-21T17:36:09.742Z"
+    },
+    {
+      "id": "s_gemini_3",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-1946-029J | PIN: 1114",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "08093d4e-4997-4a10-80aa-04a7eebf5c61",
+      "sold_at": "2026-09-21T17:50:43.920Z",
+      "updated_at": "2026-09-21T17:50:43.920Z"
+    },
+    {
+      "id": "s_gemini_4",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-2419-YZ00 | PIN: 1121",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "08093d4e-4997-4a10-80aa-04a7eebf5c61",
+      "sold_at": "2026-09-21T17:50:43.922Z",
+      "updated_at": "2026-09-21T17:50:43.922Z"
+    },
+    {
+      "id": "s_gemini_5",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-2892-8IMA | PIN: 1128",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "73e8d4cf-3fca-4444-b77f-46df0c84d947",
+      "sold_at": "2026-09-21T17:57:47.323Z",
+      "updated_at": "2026-09-21T17:57:47.323Z"
+    },
+    {
+      "id": "s_gemini_6",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-3365-FVW8 | PIN: 1135",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "1c722d15-7974-495d-93f5-4d82c4d3b77c",
+      "sold_at": "2026-09-21T18:23:00.031Z",
+      "updated_at": "2026-09-21T18:23:00.031Z"
+    },
+    {
+      "id": "s_gemini_7",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-3838-WO94 | PIN: 1142",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "1c722d15-7974-495d-93f5-4d82c4d3b77c",
+      "sold_at": "2026-09-21T18:23:00.032Z",
+      "updated_at": "2026-09-21T18:23:00.032Z"
+    },
+    {
+      "id": "s_gemini_8",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-4311-DN2V | PIN: 1149",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "2bf546d8-c99a-440f-ad5c-7775284e083f",
+      "sold_at": "2026-09-21T18:23:14.966Z",
+      "updated_at": "2026-09-21T18:23:14.966Z"
+    },
+    {
+      "id": "s_gemini_9",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-4784-98XN | PIN: 1156",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "437c262f-7b4c-4215-886b-9af8c58db159",
+      "sold_at": "2026-09-22T02:24:53.901Z",
+      "updated_at": "2026-09-22T02:24:53.901Z"
+    },
+    {
+      "id": "s_gemini_10",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-5257-KAAV | PIN: 1163",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "33ab294b-7ad7-4599-8fe6-be6f2cf68931",
+      "sold_at": "2026-09-22T02:56:15.949Z",
+      "updated_at": "2026-09-22T02:56:15.949Z"
+    },
+    {
+      "id": "s_gemini_11",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-5730-GVV3 | PIN: 1170",
+      "type": "Gift Card",
+      "status": "sold",
+      "order_id": "3d60366e-c740-420a-8523-a59b6810de4c",
+      "sold_at": "2026-09-22T03:03:27.334Z",
+      "updated_at": "2026-09-22T03:03:27.334Z"
+    },
+    {
+      "id": "s_gemini_12",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-6203-8OB8 | PIN: 1177",
+      "type": "Gift Card",
+      "status": "available"
+    },
+    {
+      "id": "s_gemini_13",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-6676-MSU5 | PIN: 1184",
+      "type": "Gift Card",
+      "status": "available"
+    },
+    {
+      "id": "s_gemini_14",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-7149-I1VI | PIN: 1191",
+      "type": "Gift Card",
+      "status": "available"
+    },
+    {
+      "id": "s_gemini_15",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-7622-DSG1 | PIN: 1198",
+      "type": "Gift Card",
+      "status": "available"
+    },
+    {
+      "id": "s_gemini_16",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-8095-BHWN | PIN: 1205",
+      "type": "Gift Card",
+      "status": "available"
+    },
+    {
+      "id": "s_gemini_17",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-8568-D9CQ | PIN: 1212",
+      "type": "Gift Card",
+      "status": "available"
+    },
+    {
+      "id": "s_gemini_18",
+      "product_id": "p_gemini_pro",
+      "value": "GEMINI-PRO-18GIFT-9041-CTB1 | PIN: 1219",
+      "type": "Gift Card",
+      "status": "available"
+    },
+    {
+      "id": "s_capcut_1",
+      "product_id": "p_capcut",
+      "value": "capcut.user1@streamvault.co|CapCutPass#3000",
+      "type": "Account",
+      "status": "sold",
+      "order_id": "79e4c36d-8a45-411b-b8d9-068b14a3ec4b",
+      "sold_at": "2026-09-21T17:50:55.021Z",
+      "updated_at": "2026-09-21T17:50:55.021Z"
+    },
+    {
+      "id": "s_capcut_2",
+      "product_id": "p_capcut",
+      "value": "capcut.user2@streamvault.co|CapCutPass#3019",
+      "type": "Account",
+      "status": "sold",
+      "order_id": "457d4c51-39ba-489c-a275-85eaba471df5",
+      "sold_at": "2026-09-22T02:25:02.277Z",
+      "updated_at": "2026-09-22T02:25:02.277Z"
+    },
+    {
+      "id": "s_capcut_3",
+      "product_id": "p_capcut",
+      "value": "capcut.user3@streamvault.co|CapCutPass#3038",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_capcut_4",
+      "product_id": "p_capcut",
+      "value": "capcut.user4@streamvault.co|CapCutPass#3057",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_capcut_5",
+      "product_id": "p_capcut",
+      "value": "capcut.user5@streamvault.co|CapCutPass#3076",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_capcut_6",
+      "product_id": "p_capcut",
+      "value": "capcut.user6@streamvault.co|CapCutPass#3095",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_capcut_7",
+      "product_id": "p_capcut",
+      "value": "capcut.user7@streamvault.co|CapCutPass#3114",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_capcut_8",
+      "product_id": "p_capcut",
+      "value": "capcut.user8@streamvault.co|CapCutPass#3133",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_capcut_9",
+      "product_id": "p_capcut",
+      "value": "capcut.user9@streamvault.co|CapCutPass#3152",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_capcut_10",
+      "product_id": "p_capcut",
+      "value": "capcut.user10@streamvault.co|CapCutPass#3171",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_yt_1",
+      "product_id": "p_youtube",
+      "value": "yt.premium1@cloudpass.io|StreamVideo$800",
+      "type": "Account",
+      "status": "sold",
+      "order_id": "a9c3d7e9-45fa-4f74-b63c-99d5b14d3664",
+      "sold_at": "2026-09-22T02:24:43.132Z",
+      "updated_at": "2026-09-22T02:24:43.132Z"
+    },
+    {
+      "id": "s_yt_2",
+      "product_id": "p_youtube",
+      "value": "yt.premium2@cloudpass.io|StreamVideo$811",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_yt_3",
+      "product_id": "p_youtube",
+      "value": "yt.premium3@cloudpass.io|StreamVideo$822",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_yt_4",
+      "product_id": "p_youtube",
+      "value": "yt.premium4@cloudpass.io|StreamVideo$833",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_yt_5",
+      "product_id": "p_youtube",
+      "value": "yt.premium5@cloudpass.io|StreamVideo$844",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_yt_6",
+      "product_id": "p_youtube",
+      "value": "yt.premium6@cloudpass.io|StreamVideo$855",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_yt_7",
+      "product_id": "p_youtube",
+      "value": "yt.premium7@cloudpass.io|StreamVideo$866",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_yt_8",
+      "product_id": "p_youtube",
+      "value": "yt.premium8@cloudpass.io|StreamVideo$877",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_yt_9",
+      "product_id": "p_youtube",
+      "value": "yt.premium9@cloudpass.io|StreamVideo$888",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_yt_10",
+      "product_id": "p_youtube",
+      "value": "yt.premium10@cloudpass.io|StreamVideo$899",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_net_1",
+      "product_id": "p_netflix",
+      "value": "net.vip1@streamvault.co|CinemaPass#4000|Profile: 1 (PIN: 1000)",
+      "type": "Account",
+      "status": "sold",
+      "order_id": "7ae61710-78db-4bea-a85d-2ac46c0567a7",
+      "sold_at": "2026-09-21T17:55:44.916Z",
+      "updated_at": "2026-09-21T17:55:44.916Z"
+    },
+    {
+      "id": "s_net_2",
+      "product_id": "p_netflix",
+      "value": "net.vip2@streamvault.co|CinemaPass#4023|Profile: 2 (PIN: 1073)",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_net_3",
+      "product_id": "p_netflix",
+      "value": "net.vip3@streamvault.co|CinemaPass#4046|Profile: 3 (PIN: 1146)",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_net_4",
+      "product_id": "p_netflix",
+      "value": "net.vip4@streamvault.co|CinemaPass#4069|Profile: 4 (PIN: 1219)",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_net_5",
+      "product_id": "p_netflix",
+      "value": "net.vip5@streamvault.co|CinemaPass#4092|Profile: 1 (PIN: 1292)",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_net_6",
+      "product_id": "p_netflix",
+      "value": "net.vip6@streamvault.co|CinemaPass#4115|Profile: 2 (PIN: 1365)",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_net_7",
+      "product_id": "p_netflix",
+      "value": "net.vip7@streamvault.co|CinemaPass#4138|Profile: 3 (PIN: 1438)",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_net_8",
+      "product_id": "p_netflix",
+      "value": "net.vip8@streamvault.co|CinemaPass#4161|Profile: 4 (PIN: 1511)",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_net_9",
+      "product_id": "p_netflix",
+      "value": "net.vip9@streamvault.co|CinemaPass#4184|Profile: 1 (PIN: 1584)",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_net_10",
+      "product_id": "p_netflix",
+      "value": "net.vip10@streamvault.co|CinemaPass#4207|Profile: 2 (PIN: 1657)",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_canva_1",
+      "product_id": "p_canva",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8000-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_canva_2",
+      "product_id": "p_canva",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8037-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_canva_3",
+      "product_id": "p_canva",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8074-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_canva_4",
+      "product_id": "p_canva",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8111-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_canva_5",
+      "product_id": "p_canva",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8148-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_canva_6",
+      "product_id": "p_canva",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8185-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_canva_7",
+      "product_id": "p_canva",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8222-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_canva_8",
+      "product_id": "p_canva",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8259-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_canva_9",
+      "product_id": "p_canva",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8296-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_canva_10",
+      "product_id": "p_canva",
+      "value": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8333-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_alight_1",
+      "product_id": "p_alight",
+      "value": "alight.vip1@streamvault.co|MotionDesign#90",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_alight_2",
+      "product_id": "p_alight",
+      "value": "alight.vip2@streamvault.co|MotionDesign#91",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_alight_3",
+      "product_id": "p_alight",
+      "value": "alight.vip3@streamvault.co|MotionDesign#92",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_alight_4",
+      "product_id": "p_alight",
+      "value": "alight.vip4@streamvault.co|MotionDesign#93",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_alight_5",
+      "product_id": "p_alight",
+      "value": "alight.vip5@streamvault.co|MotionDesign#94",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_alight_6",
+      "product_id": "p_alight",
+      "value": "alight.vip6@streamvault.co|MotionDesign#95",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_alight_7",
+      "product_id": "p_alight",
+      "value": "alight.vip7@streamvault.co|MotionDesign#96",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_alight_8",
+      "product_id": "p_alight",
+      "value": "alight.vip8@streamvault.co|MotionDesign#97",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_alight_9",
+      "product_id": "p_alight",
+      "value": "alight.vip9@streamvault.co|MotionDesign#98",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_alight_10",
+      "product_id": "p_alight",
+      "value": "alight.vip10@streamvault.co|MotionDesign#99",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_vpn_1",
+      "product_id": "p_vpn",
+      "value": "vpn.nord.pro1@safezone.org|NordUltraSecure#500",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_vpn_2",
+      "product_id": "p_vpn",
+      "value": "vpn.nord.pro2@safezone.org|NordUltraSecure#513",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_vpn_3",
+      "product_id": "p_vpn",
+      "value": "vpn.nord.pro3@safezone.org|NordUltraSecure#526",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_vpn_4",
+      "product_id": "p_vpn",
+      "value": "vpn.nord.pro4@safezone.org|NordUltraSecure#539",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_vpn_5",
+      "product_id": "p_vpn",
+      "value": "vpn.nord.pro5@safezone.org|NordUltraSecure#552",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_vpn_6",
+      "product_id": "p_vpn",
+      "value": "vpn.nord.pro6@safezone.org|NordUltraSecure#565",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_vpn_7",
+      "product_id": "p_vpn",
+      "value": "vpn.nord.pro7@safezone.org|NordUltraSecure#578",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_vpn_8",
+      "product_id": "p_vpn",
+      "value": "vpn.nord.pro8@safezone.org|NordUltraSecure#591",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_vpn_9",
+      "product_id": "p_vpn",
+      "value": "vpn.nord.pro9@safezone.org|NordUltraSecure#604",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_vpn_10",
+      "product_id": "p_vpn",
+      "value": "vpn.nord.pro10@safezone.org|NordUltraSecure#617",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_spot_1",
+      "product_id": "p_spotify",
+      "value": "spot.vip1@tuneshub.me|AudioKing#700",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_spot_2",
+      "product_id": "p_spotify",
+      "value": "spot.vip2@tuneshub.me|AudioKing#717",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_spot_3",
+      "product_id": "p_spotify",
+      "value": "spot.vip3@tuneshub.me|AudioKing#734",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_spot_4",
+      "product_id": "p_spotify",
+      "value": "spot.vip4@tuneshub.me|AudioKing#751",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_spot_5",
+      "product_id": "p_spotify",
+      "value": "spot.vip5@tuneshub.me|AudioKing#768",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_spot_6",
+      "product_id": "p_spotify",
+      "value": "spot.vip6@tuneshub.me|AudioKing#785",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_spot_7",
+      "product_id": "p_spotify",
+      "value": "spot.vip7@tuneshub.me|AudioKing#802",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_spot_8",
+      "product_id": "p_spotify",
+      "value": "spot.vip8@tuneshub.me|AudioKing#819",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_spot_9",
+      "product_id": "p_spotify",
+      "value": "spot.vip9@tuneshub.me|AudioKing#836",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_spot_10",
+      "product_id": "p_spotify",
+      "value": "spot.vip10@tuneshub.me|AudioKing#853",
+      "type": "Account",
+      "status": "available"
+    },
+    {
+      "id": "s_disc_1",
+      "product_id": "p_discord",
+      "value": "https://discord.gift/NITRO-18GIFT-1000-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_disc_2",
+      "product_id": "p_discord",
+      "value": "https://discord.gift/NITRO-18GIFT-1049-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_disc_3",
+      "product_id": "p_discord",
+      "value": "https://discord.gift/NITRO-18GIFT-1098-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_disc_4",
+      "product_id": "p_discord",
+      "value": "https://discord.gift/NITRO-18GIFT-1147-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_disc_5",
+      "product_id": "p_discord",
+      "value": "https://discord.gift/NITRO-18GIFT-1196-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_disc_6",
+      "product_id": "p_discord",
+      "value": "https://discord.gift/NITRO-18GIFT-1245-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_disc_7",
+      "product_id": "p_discord",
+      "value": "https://discord.gift/NITRO-18GIFT-1294-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_disc_8",
+      "product_id": "p_discord",
+      "value": "https://discord.gift/NITRO-18GIFT-1343-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_disc_9",
+      "product_id": "p_discord",
+      "value": "https://discord.gift/NITRO-18GIFT-1392-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    },
+    {
+      "id": "s_disc_10",
+      "product_id": "p_discord",
+      "value": "https://discord.gift/NITRO-18GIFT-1441-SHIRYU",
+      "type": "Link",
+      "status": "available"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "cp1",
+      "code": "PREMIUM10",
+      "type": "percentage",
+      "value": 10,
+      "minimum_amount": 0.5,
+      "maximum_discount": 15,
+      "usage_limit": 500,
+      "used_count": 14,
+      "expires_at": "2027-12-31T23:59:59Z",
+      "active": true
+    },
+    {
+      "id": "cp2",
+      "code": "NADY20",
+      "type": "percentage",
+      "value": 20,
+      "minimum_amount": 1,
+      "maximum_discount": 10,
+      "usage_limit": 200,
+      "used_count": 8,
+      "expires_at": "2027-12-31T23:59:59Z",
+      "active": true
+    },
+    {
+      "id": "cp3",
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "minimum_amount": 0.5,
+      "maximum_discount": 10,
+      "usage_limit": 1000,
+      "used_count": 2,
+      "expires_at": "2027-12-31T23:59:59Z",
+      "active": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "337f4f0f-9e7c-4b00-82f5-57bf2dfa553b",
+      "order_number": "ORD-20260921-968465",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "customer_email": "admin@digitalstore.com",
+      "customer_name": "superadmin",
+      "customer_phone": "+85512999888",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260921-968465",
+      "coupon_code": null,
+      "created_at": "2026-09-21T16:07:39.343Z",
+      "updated_at": "2026-09-21T16:07:39.348Z"
+    },
+    {
+      "id": "46944f83-d86b-42c4-8d53-1a3dfe79b67b",
+      "order_number": "ORD-20260921-576631",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "customer_email": "admin@digitalstore.com",
+      "customer_name": "superadmin",
+      "customer_phone": "+85512999888",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260921-576631",
+      "coupon_code": null,
+      "created_at": "2026-09-21T16:41:25.079Z",
+      "updated_at": "2026-09-21T16:41:25.087Z"
+    },
+    {
+      "id": "21a72170-7cc4-44d1-bb3d-7424db933ce5",
+      "order_number": "ORD-20260921-116757",
+      "user_id": null,
+      "customer_email": "gemini.test@example.com",
+      "customer_name": "",
+      "customer_phone": "012345678",
+      "subtotal": 7.99,
+      "discount": 0,
+      "fee": 0,
+      "total": 7.99,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "bakong_khqr",
+      "transaction_id": "TX_SIMULATED_TEST",
+      "coupon_code": null,
+      "created_at": "2026-09-21T16:52:21.480Z",
+      "updated_at": "2026-09-21T16:52:59.550Z"
+    },
+    {
+      "id": "23ee2140-83d7-4c9a-b313-69b4c49cf243",
+      "order_number": "ORD-20260921-284326",
+      "user_id": null,
+      "customer_email": "admin@digitalstore.com",
+      "customer_name": "superadmin",
+      "customer_phone": "+85512999888",
+      "subtotal": 15.98,
+      "discount": 0,
+      "fee": 0,
+      "total": 15.98,
+      "currency": "USD",
+      "status": "pending",
+      "payment_status": "pending",
+      "delivery_status": "pending",
+      "payment_method": "bakong_khqr",
+      "transaction_id": "KHQR_ORD-20260921-284326_711454",
+      "coupon_code": null,
+      "created_at": "2026-09-21T17:28:31.452Z",
+      "updated_at": "2026-09-21T17:28:31.454Z"
+    },
+    {
+      "id": "1e8cb278-9991-4fba-939a-185cda03ee3f",
+      "order_number": "ORD-20260921-113368",
+      "user_id": null,
+      "customer_email": "admin@digitalstore.com",
+      "customer_name": "superadmin",
+      "customer_phone": "+85512999888",
+      "subtotal": 7.99,
+      "discount": 0,
+      "fee": 0,
+      "total": 7.99,
+      "currency": "USD",
+      "status": "pending",
+      "payment_status": "pending",
+      "delivery_status": "pending",
+      "payment_method": "wallet",
+      "transaction_id": null,
+      "coupon_code": null,
+      "created_at": "2026-09-21T17:28:40.773Z",
+      "updated_at": "2026-09-21T17:28:40.773Z"
+    },
+    {
+      "id": "1df965a2-cc97-4233-bdc1-083234d45efb",
+      "order_number": "ORD-20260921-619156",
+      "user_id": null,
+      "customer_email": "admin@digitalstore.com",
+      "customer_name": "superadmin",
+      "customer_phone": "+85512999888",
+      "subtotal": 7.99,
+      "discount": 0,
+      "fee": 0,
+      "total": 7.99,
+      "currency": "USD",
+      "status": "pending",
+      "payment_status": "pending",
+      "delivery_status": "pending",
+      "payment_method": "wallet",
+      "transaction_id": null,
+      "coupon_code": null,
+      "created_at": "2026-09-21T17:28:48.996Z",
+      "updated_at": "2026-09-21T17:28:48.996Z"
+    },
+    {
+      "id": "18a053a8-d069-4f25-a00c-33423fb61ca9",
+      "order_number": "ORD-20260921-679883",
+      "user_id": "6c3ce1a0-08f5-4569-b7e4-e97e186e1b54",
+      "customer_email": "wallet.test.1790012169704@example.com",
+      "customer_name": "Test Wallet User",
+      "customer_phone": "",
+      "subtotal": 7.99,
+      "discount": 0,
+      "fee": 0,
+      "total": 7.99,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260921-679883",
+      "coupon_code": null,
+      "created_at": "2026-09-21T17:36:09.730Z",
+      "updated_at": "2026-09-21T17:36:09.744Z"
+    },
+    {
+      "id": "08093d4e-4997-4a10-80aa-04a7eebf5c61",
+      "order_number": "ORD-20260921-629237",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "customer_email": "admin@digitalstore.com",
+      "customer_name": "superadmin",
+      "customer_phone": "+85512999888",
+      "subtotal": 15.98,
+      "discount": 0,
+      "fee": 0,
+      "total": 15.98,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260921-629237",
+      "coupon_code": null,
+      "created_at": "2026-09-21T17:50:43.909Z",
+      "updated_at": "2026-09-21T17:50:43.924Z"
+    },
+    {
+      "id": "79e4c36d-8a45-411b-b8d9-068b14a3ec4b",
+      "order_number": "ORD-20260921-245826",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "customer_email": "admin@digitalstore.com",
+      "customer_name": "superadmin",
+      "customer_phone": "+85512999888",
+      "subtotal": 0.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 0.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260921-245826",
+      "coupon_code": null,
+      "created_at": "2026-09-21T17:50:55.013Z",
+      "updated_at": "2026-09-21T17:50:55.023Z"
+    },
+    {
+      "id": "7ae61710-78db-4bea-a85d-2ac46c0567a7",
+      "order_number": "ORD-20260921-210101",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "customer_email": "admin@digitalstore.com",
+      "customer_name": "superadmin",
+      "customer_phone": "+85512999888",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260921-210101",
+      "coupon_code": null,
+      "created_at": "2026-09-21T17:55:44.905Z",
+      "updated_at": "2026-09-21T17:55:44.919Z"
+    },
+    {
+      "id": "73e8d4cf-3fca-4444-b77f-46df0c84d947",
+      "order_number": "ORD-20260921-969700",
+      "user_id": "u0000000-0000-0000-0000-000000000002",
+      "customer_email": "user@digitalstore.com",
+      "customer_name": "Alex Vance",
+      "customer_phone": "",
+      "subtotal": 7.99,
+      "discount": 0,
+      "fee": 0,
+      "total": 7.99,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260921-969700",
+      "coupon_code": null,
+      "created_at": "2026-09-21T17:57:47.316Z",
+      "updated_at": "2026-09-21T17:57:47.325Z"
+    },
+    {
+      "id": "1c722d15-7974-495d-93f5-4d82c4d3b77c",
+      "order_number": "ORD-20260921-718026",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "customer_email": "admin@digitalstore.com",
+      "customer_name": "superadmin",
+      "customer_phone": "+85512999888",
+      "subtotal": 15.98,
+      "discount": 0,
+      "fee": 0,
+      "total": 15.98,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260921-718026",
+      "coupon_code": null,
+      "created_at": "2026-09-21T18:23:00.022Z",
+      "updated_at": "2026-09-21T18:23:00.034Z"
+    },
+    {
+      "id": "2bf546d8-c99a-440f-ad5c-7775284e083f",
+      "order_number": "ORD-20260921-828292",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "customer_email": "admin@digitalstore.com",
+      "customer_name": "superadmin",
+      "customer_phone": "+85512999888",
+      "subtotal": 7.99,
+      "discount": 0,
+      "fee": 0,
+      "total": 7.99,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260921-828292",
+      "coupon_code": null,
+      "created_at": "2026-09-21T18:23:14.957Z",
+      "updated_at": "2026-09-21T18:23:14.968Z"
+    },
+    {
+      "id": "a9c3d7e9-45fa-4f74-b63c-99d5b14d3664",
+      "order_number": "ORD-20260922-909448",
+      "user_id": null,
+      "customer_email": "customer@nadystore.com",
+      "customer_name": "Customer",
+      "customer_phone": "",
+      "subtotal": 1.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 1.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "aba_payway",
+      "transaction_id": "TX_1790043883119",
+      "coupon_code": null,
+      "created_at": "2026-09-22T02:24:36.071Z",
+      "updated_at": "2026-09-22T02:24:43.133Z"
+    },
+    {
+      "id": "437c262f-7b4c-4215-886b-9af8c58db159",
+      "order_number": "ORD-20260922-890667",
+      "user_id": "ad8448f3-5d98-4ae8-b7ce-4918db80a49e",
+      "customer_email": "customer@nadystore.com",
+      "customer_name": "Customer",
+      "customer_phone": "",
+      "subtotal": 7.99,
+      "discount": 0,
+      "fee": 0,
+      "total": 7.99,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-890667",
+      "coupon_code": null,
+      "created_at": "2026-09-22T02:24:53.888Z",
+      "updated_at": "2026-09-22T02:24:53.903Z"
+    },
+    {
+      "id": "457d4c51-39ba-489c-a275-85eaba471df5",
+      "order_number": "ORD-20260922-921300",
+      "user_id": "ad8448f3-5d98-4ae8-b7ce-4918db80a49e",
+      "customer_email": "customer@nadystore.com",
+      "customer_name": "Customer",
+      "customer_phone": "",
+      "subtotal": 0.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 0.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-921300",
+      "coupon_code": null,
+      "created_at": "2026-09-22T02:25:02.271Z",
+      "updated_at": "2026-09-22T02:25:02.278Z"
+    },
+    {
+      "id": "33ab294b-7ad7-4599-8fe6-be6f2cf68931",
+      "order_number": "ORD-20260922-867993",
+      "user_id": "c4e89e6f-e475-444a-babd-565db9424359",
+      "customer_email": "alex.vance.dev@gmail.com",
+      "customer_name": "alexvancedev5789",
+      "customer_phone": "",
+      "subtotal": 7.99,
+      "discount": 0,
+      "fee": 0,
+      "total": 7.99,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-867993",
+      "coupon_code": null,
+      "created_at": "2026-09-22T02:56:15.943Z",
+      "updated_at": "2026-09-22T02:56:15.951Z"
+    },
+    {
+      "id": "3d60366e-c740-420a-8523-a59b6810de4c",
+      "order_number": "ORD-20260922-734263",
+      "user_id": "acb42184-27c5-4d29-ae84-5fdaeca263e1",
+      "customer_email": "buyer_1790046207240@example.com",
+      "customer_name": "Valid Buyer",
+      "customer_phone": "",
+      "subtotal": 7.99,
+      "discount": 0,
+      "fee": 0,
+      "total": 7.99,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-734263",
+      "coupon_code": null,
+      "created_at": "2026-09-22T03:03:27.326Z",
+      "updated_at": "2026-09-22T03:03:27.335Z"
+    }
+  ],
+  "order_items": [
+    {
+      "id": "5c588a2f-f38a-4b24-871b-c7d969064648",
+      "order_id": "337f4f0f-9e7c-4b00-82f5-57bf2dfa553b",
+      "product_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "product_name": "Gemini AI ",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
+          "delivered_at": "2026-09-21T16:07:39.347Z"
+        }
+      ],
+      "created_at": "2026-09-21T16:07:39.343Z",
+      "updated_at": "2026-09-21T16:07:39.347Z"
+    },
+    {
+      "id": "6aaaf51f-0d94-44cb-b40e-e8b7a78891d1",
+      "order_id": "46944f83-d86b-42c4-8d53-1a3dfe79b67b",
+      "product_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "product_name": "Gemini AI 1.5 Pro & Advanced",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
+          "delivered_at": "2026-09-21T16:41:25.086Z"
+        }
+      ],
+      "created_at": "2026-09-21T16:41:25.080Z",
+      "updated_at": "2026-09-21T16:41:25.086Z"
+    },
+    {
+      "id": "31c90ef8-83b5-49c9-bdbf-272d5f7ced43",
+      "order_id": "21a72170-7cc4-44d1-bb3d-7424db933ce5",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "subtotal": 7.99,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-1000-1X9W | PIN: 1100",
+          "delivered_at": "2026-09-21T16:52:59.549Z"
+        }
+      ],
+      "created_at": "2026-09-21T16:52:21.482Z",
+      "updated_at": "2026-09-21T16:52:59.549Z"
+    },
+    {
+      "id": "ab75b2f3-f57b-42b5-bf65-5001f4a3eee5",
+      "order_id": "23ee2140-83d7-4c9a-b313-69b4c49cf243",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards",
+      "quantity": 2,
+      "unit_price": 7.99,
+      "subtotal": 15.98,
+      "delivery_type": "Automatic",
+      "delivered_data": [],
+      "created_at": "2026-09-21T17:28:31.453Z"
+    },
+    {
+      "id": "5d602202-6cde-4e54-a390-29dd3d5d958f",
+      "order_id": "1e8cb278-9991-4fba-939a-185cda03ee3f",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "subtotal": 7.99,
+      "delivery_type": "Automatic",
+      "delivered_data": [],
+      "created_at": "2026-09-21T17:28:40.774Z"
+    },
+    {
+      "id": "5345987c-cdc5-4e41-a0ec-0e48f3dd572e",
+      "order_id": "1df965a2-cc97-4233-bdc1-083234d45efb",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "subtotal": 7.99,
+      "delivery_type": "Automatic",
+      "delivered_data": [],
+      "created_at": "2026-09-21T17:28:48.997Z"
+    },
+    {
+      "id": "b467173b-6687-418f-90f5-9c311b4ac924",
+      "order_id": "18a053a8-d069-4f25-a00c-33423fb61ca9",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "subtotal": 7.99,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-1473-I0T7 | PIN: 1107",
+          "delivered_at": "2026-09-21T17:36:09.743Z"
+        }
+      ],
+      "created_at": "2026-09-21T17:36:09.731Z",
+      "updated_at": "2026-09-21T17:36:09.743Z"
+    },
+    {
+      "id": "46f68ccf-d1d1-421e-832d-bcbca23446f1",
+      "order_id": "08093d4e-4997-4a10-80aa-04a7eebf5c61",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards",
+      "quantity": 2,
+      "unit_price": 7.99,
+      "subtotal": 15.98,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-1946-029J | PIN: 1114",
+          "delivered_at": "2026-09-21T17:50:43.922Z"
+        },
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-2419-YZ00 | PIN: 1121",
+          "delivered_at": "2026-09-21T17:50:43.923Z"
+        }
+      ],
+      "created_at": "2026-09-21T17:50:43.910Z",
+      "updated_at": "2026-09-21T17:50:43.923Z"
+    },
+    {
+      "id": "5695fb62-36ef-46be-867f-187b215f2e78",
+      "order_id": "79e4c36d-8a45-411b-b8d9-068b14a3ec4b",
+      "product_id": "p_capcut",
+      "product_name": "CapCut Pro (Private Account)",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "subtotal": 0.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Account",
+          "value": "capcut.user1@streamvault.co|CapCutPass#3000",
+          "delivered_at": "2026-09-21T17:50:55.022Z"
+        }
+      ],
+      "created_at": "2026-09-21T17:50:55.014Z",
+      "updated_at": "2026-09-21T17:50:55.022Z"
+    },
+    {
+      "id": "0db4fd73-6927-4238-a397-0069acebae3f",
+      "order_id": "7ae61710-78db-4bea-a85d-2ac46c0567a7",
+      "product_id": "p_netflix",
+      "product_name": "Netflix Premium 4K UHD (Private Profile)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Account",
+          "value": "net.vip1@streamvault.co|CinemaPass#4000|Profile: 1 (PIN: 1000)",
+          "delivered_at": "2026-09-21T17:55:44.918Z"
+        }
+      ],
+      "created_at": "2026-09-21T17:55:44.907Z",
+      "updated_at": "2026-09-21T17:55:44.918Z"
+    },
+    {
+      "id": "d0804b43-14da-4d3c-bcb0-15e577b4a664",
+      "order_id": "73e8d4cf-3fca-4444-b77f-46df0c84d947",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "subtotal": 7.99,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-2892-8IMA | PIN: 1128",
+          "delivered_at": "2026-09-21T17:57:47.324Z"
+        }
+      ],
+      "created_at": "2026-09-21T17:57:47.317Z",
+      "updated_at": "2026-09-21T17:57:47.324Z"
+    },
+    {
+      "id": "ee920de8-dbdb-4905-b603-c86c8dd238b9",
+      "order_id": "1c722d15-7974-495d-93f5-4d82c4d3b77c",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards",
+      "quantity": 2,
+      "unit_price": 7.99,
+      "subtotal": 15.98,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-3365-FVW8 | PIN: 1135",
+          "delivered_at": "2026-09-21T18:23:00.032Z"
+        },
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-3838-WO94 | PIN: 1142",
+          "delivered_at": "2026-09-21T18:23:00.033Z"
+        }
+      ],
+      "created_at": "2026-09-21T18:23:00.024Z",
+      "updated_at": "2026-09-21T18:23:00.033Z"
+    },
+    {
+      "id": "1e5b64a4-6b33-466f-a977-a6c78f618351",
+      "order_id": "2bf546d8-c99a-440f-ad5c-7775284e083f",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "subtotal": 7.99,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-4311-DN2V | PIN: 1149",
+          "delivered_at": "2026-09-21T18:23:14.967Z"
+        }
+      ],
+      "created_at": "2026-09-21T18:23:14.959Z",
+      "updated_at": "2026-09-21T18:23:14.967Z"
+    },
+    {
+      "id": "5d273cb3-f005-4dfc-b896-b66ba94997dd",
+      "order_id": "a9c3d7e9-45fa-4f74-b63c-99d5b14d3664",
+      "product_id": "p_youtube",
+      "product_name": "YouTube Premium (Ad-Free + Background Play) (1 Month)",
+      "quantity": 1,
+      "unit_price": 1.5,
+      "subtotal": 1.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Account",
+          "value": "yt.premium1@cloudpass.io|StreamVideo$800",
+          "delivered_at": "2026-09-22T02:24:43.133Z"
+        }
+      ],
+      "created_at": "2026-09-22T02:24:36.071Z",
+      "updated_at": "2026-09-22T02:24:43.133Z"
+    },
+    {
+      "id": "8f3252f0-92d3-4902-b8fe-d69b40a138bc",
+      "order_id": "437c262f-7b4c-4215-886b-9af8c58db159",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards (18 Free Gift Cards (1 Year VIP Access))",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "subtotal": 7.99,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-4784-98XN | PIN: 1156",
+          "delivered_at": "2026-09-22T02:24:53.902Z"
+        }
+      ],
+      "created_at": "2026-09-22T02:24:53.890Z",
+      "updated_at": "2026-09-22T02:24:53.902Z"
+    },
+    {
+      "id": "e739fb03-7903-4792-aadb-769ee0e9f107",
+      "order_id": "457d4c51-39ba-489c-a275-85eaba471df5",
+      "product_id": "p_capcut",
+      "product_name": "CapCut Pro (Private Account) (1 Month)",
+      "quantity": 1,
+      "unit_price": 0.5,
+      "subtotal": 0.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Account",
+          "value": "capcut.user2@streamvault.co|CapCutPass#3019",
+          "delivered_at": "2026-09-22T02:25:02.278Z"
+        }
+      ],
+      "created_at": "2026-09-22T02:25:02.272Z",
+      "updated_at": "2026-09-22T02:25:02.278Z"
+    },
+    {
+      "id": "ab596877-308c-4170-8c18-bb48a2ce85bc",
+      "order_id": "33ab294b-7ad7-4599-8fe6-be6f2cf68931",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards (18 Free Gift Cards (1 Year VIP Access))",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "subtotal": 7.99,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-5257-KAAV | PIN: 1163",
+          "delivered_at": "2026-09-22T02:56:15.950Z"
+        }
+      ],
+      "created_at": "2026-09-22T02:56:15.944Z",
+      "updated_at": "2026-09-22T02:56:15.950Z"
+    },
+    {
+      "id": "3500e60a-6128-4174-a5eb-487c3ddba84c",
+      "order_id": "3d60366e-c740-420a-8523-a59b6810de4c",
+      "product_id": "p_gemini_pro",
+      "product_name": "Gemini AI Pro 18 Free Gift Cards (18 Free Gift Cards (1 Year VIP Access))",
+      "quantity": 1,
+      "unit_price": 7.99,
+      "subtotal": 7.99,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Gift Card",
+          "value": "GEMINI-PRO-18GIFT-5730-GVV3 | PIN: 1170",
+          "delivered_at": "2026-09-22T03:03:27.335Z"
+        }
+      ],
+      "created_at": "2026-09-22T03:03:27.328Z",
+      "updated_at": "2026-09-22T03:03:27.335Z"
+    }
+  ],
+  "wallets": [
+    {
+      "id": "w1",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "balance": 469.55,
+      "currency": "USD",
+      "total_deposited": 517.5,
+      "total_spent": 47.95,
+      "created_at": "2025-01-01T00:00:00.000Z",
+      "updated_at": "2026-09-21T18:23:14.961Z"
+    },
+    {
+      "id": "w2",
+      "user_id": "u0000000-0000-0000-0000-000000000002",
+      "balance": 107.51,
+      "currency": "USD",
+      "total_deposited": 130,
+      "total_spent": 22.49,
+      "created_at": "2025-01-01T00:00:00.000Z",
+      "updated_at": "2026-09-21T17:57:47.318Z"
+    },
+    {
+      "id": "0eda1e0f-b69c-4f64-a1c5-8ff123afe763",
+      "user_id": "6c3ce1a0-08f5-4569-b7e4-e97e186e1b54",
+      "balance": 15,
+      "currency": "USD",
+      "total_deposited": 22.99,
+      "total_spent": 7.99,
+      "created_at": "2026-09-21T17:36:09.734Z",
+      "updated_at": "2026-09-21T17:36:09.737Z"
+    },
+    {
+      "id": "973306d1-fbd6-4fdf-9f88-53054973befa",
+      "user_id": "25fd9f91-4116-4447-9426-0630b2c41b6c",
+      "balance": 10,
+      "currency": "USD",
+      "total_deposited": 10,
+      "total_spent": 0,
+      "created_at": "2026-09-21T18:31:48.860Z",
+      "updated_at": "2026-09-21T18:31:48.861Z"
+    },
+    {
+      "id": "313bb032-a52b-45f4-91f3-e6cfb745ab92",
+      "user_id": "5d7fac52-d7ba-4cc8-9f59-20b416645526",
+      "balance": 10,
+      "currency": "USD",
+      "total_deposited": 10,
+      "total_spent": 0,
+      "created_at": "2026-09-21T18:34:03.602Z",
+      "updated_at": "2026-09-21T18:34:03.603Z"
+    },
+    {
+      "id": "f4aeb320-5201-45c4-9dc1-af2194857abe",
+      "user_id": "ad8448f3-5d98-4ae8-b7ce-4918db80a49e",
+      "balance": 14.5,
+      "currency": "USD",
+      "total_deposited": 22.99,
+      "total_spent": 8.49,
+      "created_at": "2026-09-22T02:24:53.894Z",
+      "updated_at": "2026-09-22T02:25:02.274Z"
+    },
+    {
+      "id": "6a9093f4-2333-40f0-b407-abc07e67fc43",
+      "user_id": "c4e89e6f-e475-444a-babd-565db9424359",
+      "balance": 2.01,
+      "currency": "USD",
+      "total_deposited": 10,
+      "total_spent": 7.99,
+      "created_at": "2026-09-22T02:56:08.574Z",
+      "updated_at": "2026-09-22T02:56:15.945Z"
+    },
+    {
+      "id": "928a2b3d-90e8-4158-a1a4-0b1bc10534d0",
+      "user_id": "8b808ed1-aa67-4132-bede-9fabfc684202",
+      "balance": 10,
+      "currency": "USD",
+      "total_deposited": 10,
+      "total_spent": 0,
+      "created_at": "2026-09-22T03:03:15.017Z",
+      "updated_at": "2026-09-22T03:03:15.017Z"
+    },
+    {
+      "id": "540d7c56-23ab-49c2-b009-52a8b222fcd8",
+      "user_id": "cd40e03f-bc38-4714-9305-40638e5f9f41",
+      "balance": 10,
+      "currency": "USD",
+      "total_deposited": 10,
+      "total_spent": 0,
+      "created_at": "2026-09-22T03:03:21.515Z",
+      "updated_at": "2026-09-22T03:03:21.515Z"
+    },
+    {
+      "id": "209a01d0-3eb4-4bf5-96f2-19f71c021880",
+      "user_id": "acb42184-27c5-4d29-ae84-5fdaeca263e1",
+      "balance": 2.01,
+      "currency": "USD",
+      "total_deposited": 10,
+      "total_spent": 7.99,
+      "created_at": "2026-09-22T03:03:27.310Z",
+      "updated_at": "2026-09-22T03:03:27.329Z"
+    },
+    {
+      "id": "e5b4a0d3-267f-4b0f-aa2e-5df250a26f7d",
+      "user_id": "1a37544b-519a-4632-9a69-6948606b9353",
+      "balance": 10,
+      "currency": "USD",
+      "total_deposited": 10,
+      "total_spent": 0,
+      "created_at": "2026-09-22T16:14:03.811Z",
+      "updated_at": "2026-09-22T16:14:03.812Z"
+    }
+  ],
+  "wallet_transactions": [
+    {
+      "id": "wt1",
+      "user_id": "u0000000-0000-0000-0000-000000000002",
+      "type": "deposit",
+      "amount": 100,
+      "balance_before": 0,
+      "balance_after": 100,
+      "reference": "DEP-BAKONG-9912",
+      "status": "completed",
+      "description": "Initial balance deposit via Bakong KHQR",
+      "created_at": "2026-09-18T16:53:12.112Z"
+    },
+    {
+      "id": "cfcf80b1-5a63-4be7-97d2-49d2c826a467",
+      "user_id": "u0000000-0000-0000-0000-000000000002",
+      "type": "deposit",
+      "amount": 5,
+      "balance_before": 85.5,
+      "balance_after": 90.5,
+      "reference": "TOPUP-523799",
+      "status": "completed",
+      "description": "Wallet balance top-up via Bakong KHQR",
+      "created_at": "2026-09-20T17:32:03.800Z"
+    },
+    {
+      "id": "5714431d-df87-44e2-9ac9-41adfbceef76",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "type": "deposit",
+      "amount": 5,
+      "balance_before": 500,
+      "balance_after": 505,
+      "reference": "TOPUP-494315",
+      "status": "completed",
+      "description": "Wallet balance top-up via Bakong KHQR",
+      "created_at": "2026-09-21T15:28:14.316Z"
+    },
+    {
+      "id": "26198e05-48fd-4c9a-8491-05c8ffe20db7",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 505,
+      "balance_after": 502.5,
+      "reference": "PAY-ORD-20260921-968465",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260921-968465",
+      "created_at": "2026-09-21T16:07:39.344Z"
+    },
+    {
+      "id": "595cfbd6-e89d-4cc8-9543-f22d9ba05e13",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 502.5,
+      "balance_after": 500,
+      "reference": "PAY-ORD-20260921-576631",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260921-576631",
+      "created_at": "2026-09-21T16:41:25.083Z"
+    },
+    {
+      "id": "3ec2cccf-3941-45b6-83ce-3dea51a2caa8",
+      "user_id": "6c3ce1a0-08f5-4569-b7e4-e97e186e1b54",
+      "type": "deposit",
+      "amount": 22.99,
+      "balance_before": 0,
+      "balance_after": 22.99,
+      "reference": "AUTO-CREDIT-1790012169735",
+      "status": "completed",
+      "description": "Checkout Wallet Credit Bonus ($22.99)",
+      "created_at": "2026-09-21T17:36:09.736Z"
+    },
+    {
+      "id": "c0305f5c-7f56-4a47-b76f-5c2b52cebfee",
+      "user_id": "6c3ce1a0-08f5-4569-b7e4-e97e186e1b54",
+      "type": "purchase",
+      "amount": 7.99,
+      "balance_before": 22.99,
+      "balance_after": 15,
+      "reference": "PAY-ORD-20260921-679883",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260921-679883",
+      "created_at": "2026-09-21T17:36:09.738Z"
+    },
+    {
+      "id": "67f51348-baaf-468b-8a05-b5a09930f336",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "type": "purchase",
+      "amount": 15.98,
+      "balance_before": 500,
+      "balance_after": 484.02,
+      "reference": "PAY-ORD-20260921-629237",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260921-629237",
+      "created_at": "2026-09-21T17:50:43.916Z"
+    },
+    {
+      "id": "2c272adb-bf24-4bde-ac7a-0006649955a7",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "type": "purchase",
+      "amount": 0.5,
+      "balance_before": 484.02,
+      "balance_after": 483.52,
+      "reference": "PAY-ORD-20260921-245826",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260921-245826",
+      "created_at": "2026-09-21T17:50:55.017Z"
+    },
+    {
+      "id": "142ddbe3-b091-449a-9c92-90f9d7a9ecfa",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 483.52,
+      "balance_after": 481.02,
+      "reference": "PAY-ORD-20260921-210101",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260921-210101",
+      "created_at": "2026-09-21T17:55:44.910Z"
+    },
+    {
+      "id": "89d2880e-3af1-4c2b-9304-f01e80818cb7",
+      "user_id": "u0000000-0000-0000-0000-000000000002",
+      "type": "deposit",
+      "amount": 25,
+      "balance_before": 90.5,
+      "balance_after": 115.5,
+      "reference": "ADMIN-DEP-458849",
+      "status": "completed",
+      "description": "Admin VIP Test Bonus",
+      "created_at": "2026-09-21T17:57:38.851Z"
+    },
+    {
+      "id": "4607dead-0e5a-4571-ba3c-a508bc5953bb",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "type": "deposit",
+      "amount": 12.5,
+      "balance_before": 481.02,
+      "balance_after": 493.52,
+      "reference": "TOPUP-458881",
+      "status": "completed",
+      "description": "Wallet balance top-up via Bakong KHQR",
+      "created_at": "2026-09-21T17:57:38.882Z"
+    },
+    {
+      "id": "a3d7ac7a-be41-4b56-b72d-ec357a41a6bc",
+      "user_id": "u0000000-0000-0000-0000-000000000002",
+      "type": "purchase",
+      "amount": 7.99,
+      "balance_before": 115.5,
+      "balance_after": 107.51,
+      "reference": "PAY-ORD-20260921-969700",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260921-969700",
+      "created_at": "2026-09-21T17:57:47.319Z"
+    },
+    {
+      "id": "9fcc7de0-fa75-4025-bd8c-e064e51af3c7",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "type": "purchase",
+      "amount": 15.98,
+      "balance_before": 493.52,
+      "balance_after": 477.54,
+      "reference": "PAY-ORD-20260921-718026",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260921-718026",
+      "created_at": "2026-09-21T18:23:00.027Z"
+    },
+    {
+      "id": "0ef2990d-6636-4ad8-b097-561539cac2da",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "type": "purchase",
+      "amount": 7.99,
+      "balance_before": 477.54,
+      "balance_after": 469.55,
+      "reference": "PAY-ORD-20260921-828292",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260921-828292",
+      "created_at": "2026-09-21T18:23:14.962Z"
+    },
+    {
+      "id": "60914320-bfa1-4c31-bb18-2dcac84bb054",
+      "user_id": "25fd9f91-4116-4447-9426-0630b2c41b6c",
+      "type": "deposit",
+      "amount": 10,
+      "balance_before": 0,
+      "balance_after": 10,
+      "reference": "WELCOME-GOOGLE-508860",
+      "status": "completed",
+      "description": "Welcome gift credit bonus ($10.00) via Google Sign-In",
+      "created_at": "2026-09-21T18:31:48.862Z"
+    },
+    {
+      "id": "2abba1ab-f1fa-4fda-97c6-439a3826f70b",
+      "user_id": "5d7fac52-d7ba-4cc8-9f59-20b416645526",
+      "type": "deposit",
+      "amount": 10,
+      "balance_before": 0,
+      "balance_after": 10,
+      "reference": "WELCOME-GOOGLE-643602",
+      "status": "completed",
+      "description": "Welcome gift credit bonus ($10.00) via Google Sign-In",
+      "created_at": "2026-09-21T18:34:03.604Z"
+    },
+    {
+      "id": "97c95b41-33f4-4a6d-9e9c-649613be84ac",
+      "user_id": "ad8448f3-5d98-4ae8-b7ce-4918db80a49e",
+      "type": "deposit",
+      "amount": 22.99,
+      "balance_before": 0,
+      "balance_after": 22.99,
+      "reference": "AUTO-CREDIT-1790043893895",
+      "status": "completed",
+      "description": "Checkout Wallet Credit Bonus ($22.99)",
+      "created_at": "2026-09-22T02:24:53.896Z"
+    },
+    {
+      "id": "5ebe9c85-7b60-42b2-aee3-3b7f52da0c27",
+      "user_id": "ad8448f3-5d98-4ae8-b7ce-4918db80a49e",
+      "type": "purchase",
+      "amount": 7.99,
+      "balance_before": 22.99,
+      "balance_after": 15,
+      "reference": "PAY-ORD-20260922-890667",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260922-890667",
+      "created_at": "2026-09-22T02:24:53.898Z"
+    },
+    {
+      "id": "9f2c428d-d3ce-4c3e-a436-87a8d86bf520",
+      "user_id": "ad8448f3-5d98-4ae8-b7ce-4918db80a49e",
+      "type": "purchase",
+      "amount": 0.5,
+      "balance_before": 15,
+      "balance_after": 14.5,
+      "reference": "PAY-ORD-20260922-921300",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260922-921300",
+      "created_at": "2026-09-22T02:25:02.275Z"
+    },
+    {
+      "id": "dccd6f28-685e-4007-8c2c-d4b22b46e090",
+      "user_id": "c4e89e6f-e475-444a-babd-565db9424359",
+      "type": "deposit",
+      "amount": 10,
+      "balance_before": 0,
+      "balance_after": 10,
+      "reference": "WELCOME-GOOGLE-768574",
+      "status": "completed",
+      "description": "Welcome gift credit bonus ($10.00) via Google Sign-In",
+      "created_at": "2026-09-22T02:56:08.576Z"
+    },
+    {
+      "id": "4d0242af-cec9-4dfc-b7ef-49647a771913",
+      "user_id": "c4e89e6f-e475-444a-babd-565db9424359",
+      "type": "purchase",
+      "amount": 7.99,
+      "balance_before": 10,
+      "balance_after": 2.01,
+      "reference": "PAY-ORD-20260922-867993",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260922-867993",
+      "created_at": "2026-09-22T02:56:15.945Z"
+    },
+    {
+      "id": "cfe245ca-9e0f-4957-a704-8fde732e96cf",
+      "user_id": "8b808ed1-aa67-4132-bede-9fabfc684202",
+      "type": "deposit",
+      "amount": 10,
+      "balance_before": 0,
+      "balance_after": 10,
+      "reference": "WELCOME-BONUS",
+      "status": "completed",
+      "description": "Welcome Gift Credit ($10.00) for new user sign up",
+      "created_at": "2026-09-22T03:03:15.018Z"
+    },
+    {
+      "id": "d1b3cad0-a8c3-440e-9752-a147db28ac54",
+      "user_id": "cd40e03f-bc38-4714-9305-40638e5f9f41",
+      "type": "deposit",
+      "amount": 10,
+      "balance_before": 0,
+      "balance_after": 10,
+      "reference": "WELCOME-BONUS",
+      "status": "completed",
+      "description": "Welcome Gift Credit ($10.00) for new user sign up",
+      "created_at": "2026-09-22T03:03:21.516Z"
+    },
+    {
+      "id": "fd037138-82ba-45fd-814d-df5dbe749512",
+      "user_id": "acb42184-27c5-4d29-ae84-5fdaeca263e1",
+      "type": "deposit",
+      "amount": 10,
+      "balance_before": 0,
+      "balance_after": 10,
+      "reference": "WELCOME-BONUS",
+      "status": "completed",
+      "description": "Welcome Gift Credit ($10.00) for new user sign up",
+      "created_at": "2026-09-22T03:03:27.311Z"
+    },
+    {
+      "id": "40315793-a448-44fa-a532-ff287a8024ed",
+      "user_id": "acb42184-27c5-4d29-ae84-5fdaeca263e1",
+      "type": "purchase",
+      "amount": 7.99,
+      "balance_before": 10,
+      "balance_after": 2.01,
+      "reference": "PAY-ORD-20260922-734263",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260922-734263",
+      "created_at": "2026-09-22T03:03:27.330Z"
+    },
+    {
+      "id": "ad316367-00e3-4e0c-bf16-0ae177cc6a67",
+      "user_id": "1a37544b-519a-4632-9a69-6948606b9353",
+      "type": "deposit",
+      "amount": 10,
+      "balance_before": 0,
+      "balance_after": 10,
+      "reference": "WELCOME-GOOGLE-643811",
+      "status": "completed",
+      "description": "Welcome gift credit bonus ($10.00) via Google Sign-In",
+      "created_at": "2026-09-22T16:14:03.813Z"
+    }
+  ],
+  "payment_events": [
+    {
+      "id": "98db1cdc-6aa9-4584-ba6a-7f792d921f75",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260921-968465",
+      "order_id": "337f4f0f-9e7c-4b00-82f5-57bf2dfa553b",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260921-968465",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-21T16:07:39.345Z"
+    },
+    {
+      "id": "59d3fbc3-f5ef-4f3a-96c9-eaea38ed338a",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260921-576631",
+      "order_id": "46944f83-d86b-42c4-8d53-1a3dfe79b67b",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260921-576631",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-21T16:41:25.084Z"
+    },
+    {
+      "id": "e7ccd971-9194-4058-8853-128b76891efd",
+      "provider": "bakong_khqr",
+      "provider_tx_id": "TX_SIMULATED_TEST",
+      "order_id": "21a72170-7cc4-44d1-bb3d-7424db933ce5",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {},
+      "status": "processed",
+      "created_at": "2026-09-21T16:52:59.544Z"
+    },
+    {
+      "id": "947cdcbb-cf02-41de-98c1-3dad5da89e5d",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260921-679883",
+      "order_id": "18a053a8-d069-4f25-a00c-33423fb61ca9",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260921-679883",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-21T17:36:09.739Z"
+    },
+    {
+      "id": "9a9255ad-faa9-4210-a8b6-db9a22a2edac",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260921-629237",
+      "order_id": "08093d4e-4997-4a10-80aa-04a7eebf5c61",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260921-629237",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-21T17:50:43.917Z"
+    },
+    {
+      "id": "e6568afc-ec86-4860-bea9-997ef4bf35e1",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260921-245826",
+      "order_id": "79e4c36d-8a45-411b-b8d9-068b14a3ec4b",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260921-245826",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-21T17:50:55.018Z"
+    },
+    {
+      "id": "b67a4303-8bb8-4294-ab7d-73fc196e5a3e",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260921-210101",
+      "order_id": "7ae61710-78db-4bea-a85d-2ac46c0567a7",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260921-210101",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-21T17:55:44.912Z"
+    },
+    {
+      "id": "e4e9381d-f3e5-4aff-b41c-4dd53663ee99",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260921-969700",
+      "order_id": "73e8d4cf-3fca-4444-b77f-46df0c84d947",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260921-969700",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-21T17:57:47.321Z"
+    },
+    {
+      "id": "4732e70d-1f46-4053-909d-0a82af0c8d60",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260921-718026",
+      "order_id": "1c722d15-7974-495d-93f5-4d82c4d3b77c",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260921-718026",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-21T18:23:00.028Z"
+    },
+    {
+      "id": "1c6be829-ce49-4c59-86f1-36be7f13c4b7",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260921-828292",
+      "order_id": "2bf546d8-c99a-440f-ad5c-7775284e083f",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260921-828292",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-21T18:23:14.963Z"
+    },
+    {
+      "id": "b52322ee-23e4-4d19-82f6-ea0cc97201fe",
+      "provider": "aba_payway",
+      "provider_tx_id": "TX_1790043883119",
+      "order_id": "a9c3d7e9-45fa-4f74-b63c-99d5b14d3664",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "method": "aba_payway",
+        "verified": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T02:24:43.130Z"
+    },
+    {
+      "id": "519e8518-3603-4fc1-8b00-d916516b515f",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-890667",
+      "order_id": "437c262f-7b4c-4215-886b-9af8c58db159",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-890667",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T02:24:53.899Z"
+    },
+    {
+      "id": "122552f5-eb63-4a49-a4a9-5427dcc60963",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-921300",
+      "order_id": "457d4c51-39ba-489c-a275-85eaba471df5",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-921300",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T02:25:02.276Z"
+    },
+    {
+      "id": "1a095b31-e747-43b2-ab33-a6a642a82f01",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-867993",
+      "order_id": "33ab294b-7ad7-4599-8fe6-be6f2cf68931",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-867993",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T02:56:15.947Z"
+    },
+    {
+      "id": "5ab43ba4-28d1-46e1-8bc1-5ec9ba1fabbb",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-734263",
+      "order_id": "3d60366e-c740-420a-8523-a59b6810de4c",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-734263",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T03:03:27.331Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "r1",
+      "product_id": "p3",
+      "user_id": "u0000000-0000-0000-0000-000000000002",
+      "user_name": "Sophea K.",
+      "rating": 5,
+      "comment": "ទិញ Netflix 4K បានភ្លាមៗ ស្កេន Bakong KHQR ចប់ចេញ Credentials លើ Screen ភ្លាម។ សេវាកម្មរហ័ស 100%!",
+      "verified_purchase": true,
+      "created_at": "2026-09-17T16:53:12.112Z"
+    },
+    {
+      "id": "r2",
+      "product_id": "p1",
+      "user_id": "u0000000-0000-0000-0000-000000000002",
+      "user_name": "Mengly T.",
+      "rating": 5,
+      "comment": "CapCut Pro $0.50 ប្រើបានពេញ 1 ខែ ស្រួលកាត់ត Video ខ្លាំងណាស់!",
+      "verified_purchase": true,
+      "created_at": "2026-09-15T16:53:12.112Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "cd19635d-df1d-4556-8835-a7f8e027d6be",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "title": "Order #ORD-20260921-968465 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/337f4f0f-9e7c-4b00-82f5-57bf2dfa553b",
+      "created_at": "2026-09-21T16:07:39.348Z"
+    },
+    {
+      "id": "ce2238d2-38ce-4e2e-8c76-1b00aa83338e",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "title": "Order #ORD-20260921-576631 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/46944f83-d86b-42c4-8d53-1a3dfe79b67b",
+      "created_at": "2026-09-21T16:41:25.088Z"
+    },
+    {
+      "id": "1a8c52b3-b52b-48ae-971f-ae21a34e41d1",
+      "user_id": "6c3ce1a0-08f5-4569-b7e4-e97e186e1b54",
+      "title": "Order #ORD-20260921-679883 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/18a053a8-d069-4f25-a00c-33423fb61ca9",
+      "created_at": "2026-09-21T17:36:09.745Z"
+    },
+    {
+      "id": "f27686a0-2d0d-4de3-bc57-f5e26c47b42b",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "title": "Order #ORD-20260921-629237 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/08093d4e-4997-4a10-80aa-04a7eebf5c61",
+      "created_at": "2026-09-21T17:50:43.926Z"
+    },
+    {
+      "id": "983b371b-8d95-4210-beed-e09d475f4f32",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "title": "Order #ORD-20260921-245826 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/79e4c36d-8a45-411b-b8d9-068b14a3ec4b",
+      "created_at": "2026-09-21T17:50:55.024Z"
+    },
+    {
+      "id": "de28fbd7-e3c5-44ed-8e0d-335b3ee26a16",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "title": "Order #ORD-20260921-210101 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/7ae61710-78db-4bea-a85d-2ac46c0567a7",
+      "created_at": "2026-09-21T17:55:44.921Z"
+    },
+    {
+      "id": "a6c1edae-aaf3-4252-9c7d-871be4ce86c5",
+      "user_id": "u0000000-0000-0000-0000-000000000002",
+      "title": "Order #ORD-20260921-969700 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/73e8d4cf-3fca-4444-b77f-46df0c84d947",
+      "created_at": "2026-09-21T17:57:47.328Z"
+    },
+    {
+      "id": "05f86aaa-19f6-4457-b600-3f08fa7bbbdc",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "title": "Order #ORD-20260921-718026 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/1c722d15-7974-495d-93f5-4d82c4d3b77c",
+      "created_at": "2026-09-21T18:23:00.036Z"
+    },
+    {
+      "id": "f160bba6-26a0-4205-ae3b-77ef6cd800e5",
+      "user_id": "u0000000-0000-0000-0000-000000000001",
+      "title": "Order #ORD-20260921-828292 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/2bf546d8-c99a-440f-ad5c-7775284e083f",
+      "created_at": "2026-09-21T18:23:14.969Z"
+    },
+    {
+      "id": "fe220dd8-ddae-42ae-9030-f3260497422c",
+      "user_id": "ad8448f3-5d98-4ae8-b7ce-4918db80a49e",
+      "title": "Order #ORD-20260922-890667 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/437c262f-7b4c-4215-886b-9af8c58db159",
+      "created_at": "2026-09-22T02:24:53.904Z"
+    },
+    {
+      "id": "cf7bf662-9ebb-4192-aa87-6fa9ad000c3f",
+      "user_id": "ad8448f3-5d98-4ae8-b7ce-4918db80a49e",
+      "title": "Order #ORD-20260922-921300 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/457d4c51-39ba-489c-a275-85eaba471df5",
+      "created_at": "2026-09-22T02:25:02.279Z"
+    },
+    {
+      "id": "8814c1f1-0060-4b9c-b33c-da746a1bcc77",
+      "user_id": "c4e89e6f-e475-444a-babd-565db9424359",
+      "title": "Order #ORD-20260922-867993 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/33ab294b-7ad7-4599-8fe6-be6f2cf68931",
+      "created_at": "2026-09-22T02:56:15.951Z"
+    },
+    {
+      "id": "c4c7be1d-d40f-499a-ac21-61059b49b0d4",
+      "user_id": "8b808ed1-aa67-4132-bede-9fabfc684202",
+      "title": "Welcome Bonus Credited!",
+      "message": "$10.00 has been credited to your Digital Wallet to spend on any subscription.",
+      "type": "wallet",
+      "is_read": false,
+      "created_at": "2026-09-22T03:03:15.018Z"
+    },
+    {
+      "id": "c769cf4f-5ee0-4efe-ba77-bf9c38248e2c",
+      "user_id": "cd40e03f-bc38-4714-9305-40638e5f9f41",
+      "title": "Welcome Bonus Credited!",
+      "message": "$10.00 has been credited to your Digital Wallet to spend on any subscription.",
+      "type": "wallet",
+      "is_read": false,
+      "created_at": "2026-09-22T03:03:21.517Z"
+    },
+    {
+      "id": "a70f9f31-0e30-4ea5-8c92-f1938b415078",
+      "user_id": "acb42184-27c5-4d29-ae84-5fdaeca263e1",
+      "title": "Welcome Bonus Credited!",
+      "message": "$10.00 has been credited to your Digital Wallet to spend on any subscription.",
+      "type": "wallet",
+      "is_read": false,
+      "created_at": "2026-09-22T03:03:27.312Z"
+    },
+    {
+      "id": "0918cb4d-3ce8-442c-8565-d32444a8fb6e",
+      "user_id": "acb42184-27c5-4d29-ae84-5fdaeca263e1",
+      "title": "Order #ORD-20260922-734263 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/3d60366e-c740-420a-8523-a59b6810de4c",
+      "created_at": "2026-09-22T03:03:27.336Z"
+    }
+  ],
+  "support_tickets": [],
+  "audit_logs": [
+    {
+      "id": "d4d50750-d161-4d9a-9d4f-b6b7c1122719",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "ADD_STOCK_SINGLE",
+      "target_type": "STOCK",
+      "target_id": "p1",
+      "details": {
+        "stockId": "24fdf902-6aac-4313-9136-2c0b283415ce"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:28:02.523Z"
+    },
+    {
+      "id": "413a1193-b63a-483e-adde-36bdf20a7ee7",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "24fdf902-6aac-4313-9136-2c0b283415ce",
+      "details": {
+        "deletedValue": "testaccount@capcut.pro|CapcutSecret999!"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:28:02.535Z"
+    },
+    {
+      "id": "a306fe5d-1229-4927-a3f5-7b8a410d8c3f",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "ADD_STOCK_BULK",
+      "target_type": "STOCK",
+      "target_id": "p3",
+      "details": {
+        "count": 2
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:29:16.668Z"
+    },
+    {
+      "id": "5700ef66-67ca-430c-907d-8e6ba8cc4aca",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p1",
+      "details": {
+        "name": "CapCut Pro (Private Account)"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:27.788Z"
+    },
+    {
+      "id": "a5044583-0b41-4985-9332-11c764dd4401",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p2",
+      "details": {
+        "name": "YouTube Premium (Ad-Free + Background Play)"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:29.409Z"
+    },
+    {
+      "id": "b532feaf-7488-4fd5-a31d-1e99ceaca2f2",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p3",
+      "details": {
+        "name": "Netflix Premium 4K UHD (Private Profile)"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:31.528Z"
+    },
+    {
+      "id": "cedd2802-64e8-4084-a977-5fffb2585c2a",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p4",
+      "details": {
+        "name": "Canva Pro (EDU / Pro Lifetime)"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:34.129Z"
+    },
+    {
+      "id": "2f7d36bb-bca4-4f3a-95af-d235a68d1ab1",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p5",
+      "details": {
+        "name": "Alight Motion Premium VIP"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:36.056Z"
+    },
+    {
+      "id": "3ef294e1-45a3-475c-8e26-5b284d921ece",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p6",
+      "details": {
+        "name": "Gemini AI Pro & Advanced"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:37.680Z"
+    },
+    {
+      "id": "cfde675b-7783-4305-8c04-01c65c58186c",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p7",
+      "details": {
+        "name": "Wink VIP Video Retouching"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:39.473Z"
+    },
+    {
+      "id": "a0fb26f2-0bd8-4a08-a6f9-5ad5ed71fd3d",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p8",
+      "details": {
+        "name": "HBO Max (Max Premium)"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:41.233Z"
+    },
+    {
+      "id": "99613931-926b-4856-9f61-f3a935e6ca9c",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p9",
+      "details": {
+        "name": "Amazon Prime Video Private"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:42.905Z"
+    },
+    {
+      "id": "4f6e37ad-d9c4-47f7-bde6-6c2377f5112f",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p10",
+      "details": {
+        "name": "VPN Nord (2-Year Ultra Security)"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:44.697Z"
+    },
+    {
+      "id": "9d6fd91a-d80c-4af0-bd6b-d824822204e7",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p11",
+      "details": {
+        "name": "Spotify Premium Individual"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:46.697Z"
+    },
+    {
+      "id": "7458293c-76e5-4325-9669-b0da16e1093b",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p12",
+      "details": {
+        "name": "Discord Nitro 1-Year Full Gift Link"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T15:56:48.801Z"
+    },
+    {
+      "id": "d8990201-f8c4-4ae6-ac48-9d656947d08e",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "CREATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "details": {
+        "name": "Gemini AI "
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:02:57.805Z"
+    },
+    {
+      "id": "14a30563-c448-40c7-9d49-208cfabcfcb8",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "details": {
+        "featured": false
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:03:01.552Z"
+    },
+    {
+      "id": "572265d8-082e-4c6c-9da8-fe5d0cf141ef",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "details": {
+        "featured": true
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:03:02.608Z"
+    },
+    {
+      "id": "73b575da-8321-45ef-aeb4-d4b12c3f6bcd",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "12a5dd27-1945-40d2-9511-3e9a3374b358",
+      "details": {
+        "deletedValue": "netflix_vip2@store.com|SuperPass102"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:03:38.181Z"
+    },
+    {
+      "id": "1ad86dd9-f52c-479d-9e55-54b58398a225",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "ee92eff2-e959-4c11-aa82-00f57f614ee3",
+      "details": {
+        "deletedValue": "netflix_vip1@store.com|SuperPass101"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:03:39.837Z"
+    },
+    {
+      "id": "1078144c-59b9-4667-97cd-e32dfaac85ef",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s15",
+      "details": {
+        "deletedValue": "https://discord.gift/XQ99-KLM2-PV78-SHIRYU"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:03:41.860Z"
+    },
+    {
+      "id": "44ca1709-4a92-4874-9e18-d74cb56da2e7",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s14",
+      "details": {
+        "deletedValue": "spot.vip.user1@tuneshub.me|AudioKing99!"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:39.154Z"
+    },
+    {
+      "id": "397f8e00-001c-4169-9f37-4ae655f8d823",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s13",
+      "details": {
+        "deletedValue": "vpn.nord.pro99@safezone.org|NordUltraSecure#321"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:40.940Z"
+    },
+    {
+      "id": "22e4dca5-5535-4e93-9dc7-e3ef14bb5fb4",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s12",
+      "details": {
+        "deletedValue": "prime.video01@streamvault.co|AmazonPass#551"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:44.630Z"
+    },
+    {
+      "id": "05e7b0bd-7afb-4b9b-b986-a894b1c721cf",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s11",
+      "details": {
+        "deletedValue": "hbo.max01@streamvault.co|WarnerCinema#321"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:46.383Z"
+    },
+    {
+      "id": "d594a521-42b0-4833-87d8-8f5404e10a35",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s10",
+      "details": {
+        "deletedValue": "wink.vip01@streamvault.co|RetouchVideo#77"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:48.308Z"
+    },
+    {
+      "id": "bfbea30f-37a9-45da-899e-9d7a94f56282",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s9",
+      "details": {
+        "deletedValue": "ai.gemini01@neuralmail.net|GoogleAiPass$2026"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:50.052Z"
+    },
+    {
+      "id": "52c36e3c-ddc0-443a-b8f6-0d30c368d5e4",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s8",
+      "details": {
+        "deletedValue": "alight.vip01@streamvault.co|MotionDesign#99"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:52.029Z"
+    },
+    {
+      "id": "727c6376-5469-40da-9c19-d267bd35e0bc",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s7",
+      "details": {
+        "deletedValue": "https://www.canva.com/brand/join?token=CNV-PRO-INVITE-7781-SHIRYU"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:53.667Z"
+    },
+    {
+      "id": "c144b4d7-05e0-46d7-adc0-1cc7518ed2d0",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s6",
+      "details": {
+        "deletedValue": "net.vip.bravo@streamvault.co|CinemaPass#4412|Profile: 2 (PIN: 9021)"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:55.479Z"
+    },
+    {
+      "id": "3b12c9e4-4e61-44ae-93c7-e158e6383f04",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s5",
+      "details": {
+        "deletedValue": "net.vip.alpha@streamvault.co|CinemaPass#9921|Profile: 3 (PIN: 1842)"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:57.482Z"
+    },
+    {
+      "id": "e2bba859-bae7-4851-9980-41758c032395",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s4",
+      "details": {
+        "deletedValue": "yt.premium02@cloudpass.io|StreamVideo$882"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:05:59.395Z"
+    },
+    {
+      "id": "187e12ca-363f-454e-bb0e-d648df93dcdb",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s3",
+      "details": {
+        "deletedValue": "yt.premium01@cloudpass.io|StreamVideo$881"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:06:01.315Z"
+    },
+    {
+      "id": "72688ed0-10be-4001-9c45-46b1c301771e",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s2",
+      "details": {
+        "deletedValue": "capcut.pro02@streamvault.co|CapCutPass#4412"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:06:03.187Z"
+    },
+    {
+      "id": "8e6ad984-70f0-4ea8-9d33-97650f7ddd0b",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "s1",
+      "details": {
+        "deletedValue": "capcut.pro01@streamvault.co|CapCutPass#9921"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:06:05.164Z"
+    },
+    {
+      "id": "54b436a9-a3e3-4a1c-9fe4-5cae7d2f1a9a",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "ADD_STOCK_BULK",
+      "target_type": "STOCK",
+      "target_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "details": {
+        "count": 1
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:06:50.592Z"
+    },
+    {
+      "id": "8e0d523b-d796-442d-85a0-c7c2e4346f6f",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "details": {
+        "compare_price": 19.99,
+        "features": [
+          "1 Million Token Context Window",
+          "Multimodal Reasoning & Python Execution",
+          "High Speed Instant Auto-Delivery",
+          "Full Warranty 100%"
+        ],
+        "faq": [
+          {
+            "a": "Credentials are delivered immediately on screen upon checkout.",
+            "q": "How do I access Gemini Pro?"
+          },
+          {
+            "a": "Yes, full multimodal vision and code generation support.",
+            "q": "Does it support code and images?"
+          }
+        ],
+        "name": "Gemini AI 1.5 Pro & Advanced",
+        "price": 2.5,
+        "description": "Google Gemini 1.5 Pro with 1M+ context window, deep multimodal reasoning, and coding intelligence.\n\n. 1 Million Context Window\n. Code & Document Analysis\n. Full Term Replacement Warranty"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:08:32.650Z"
+    },
+    {
+      "id": "87016068-6772-47e0-85f1-ea0545bfa01c",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "details": {
+        "name": "Gemini AI 1.5 Pro & Advanced",
+        "price": 2.5,
+        "compare_price": 19.99,
+        "category_id": "c3",
+        "product_type": "Subscription",
+        "delivery_type": "Automatic",
+        "duration": "18 Month",
+        "image": "blob:https://gemini.google.com/29666fc2-e929-4337-bacd-d8af0692aa06",
+        "description": "Google Gemini 1.5 Pro with 1M+ context window, deep multimodal reasoning, and coding intelligence.\n\n. 1 Million Context Window\n. Code & Document Analysis\n. Full Term Replacement Warranty",
+        "featured": true,
+        "popular": true,
+        "status": "active",
+        "features": [
+          "1 Million Token Context Window",
+          "Multimodal Reasoning & Python Execution",
+          "High Speed Instant Auto-Delivery",
+          "Full Warranty 100%"
+        ],
+        "faq": [
+          {
+            "a": "Credentials are delivered immediately on screen upon checkout.",
+            "q": "How do I access Gemini Pro?"
+          },
+          {
+            "a": "Yes, full multimodal vision and code generation support.",
+            "q": "Does it support code and images?"
+          }
+        ]
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:13:17.105Z"
+    },
+    {
+      "id": "1c10c484-d98d-442e-938b-fcc1759fcbb7",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "details": {
+        "name": "Gemini AI 1.5 Pro & Advanced",
+        "price": 2.5,
+        "compare_price": 19.99,
+        "category_id": "c3",
+        "product_type": "Subscription",
+        "delivery_type": "Automatic",
+        "duration": "18 Month",
+        "image": "https://gemini.google.com/29666fc2-e929-4337-bacd-d8af0692aa06",
+        "description": "Google Gemini 1.5 Pro with 1M+ context window, deep multimodal reasoning, and coding intelligence.\n\n. 1 Million Context Window\n. Code & Document Analysis\n. Full Term Replacement Warranty",
+        "featured": true,
+        "popular": true,
+        "status": "active",
+        "features": [
+          "1 Million Token Context Window",
+          "Multimodal Reasoning & Python Execution",
+          "High Speed Instant Auto-Delivery",
+          "Full Warranty 100%"
+        ],
+        "faq": [
+          {
+            "a": "Credentials are delivered immediately on screen upon checkout.",
+            "q": "How do I access Gemini Pro?"
+          },
+          {
+            "a": "Yes, full multimodal vision and code generation support.",
+            "q": "Does it support code and images?"
+          }
+        ]
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:13:43.190Z"
+    },
+    {
+      "id": "8c77787c-cb4f-4ce5-9e5a-10a8beee3997",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "details": {
+        "name": "Gemini AI 1.5 Pro & Advanced",
+        "price": 2.5,
+        "compare_price": 19.99,
+        "category_id": "c3",
+        "product_type": "Subscription",
+        "delivery_type": "Automatic",
+        "duration": "18 Month",
+        "image": "https://img.sanishtech.com/u/593edb0183971582f39d2e86cc66d789.png",
+        "description": "Google Gemini 1.5 Pro with 1M+ context window, deep multimodal reasoning, and coding intelligence.\n\n. 1 Million Context Window\n. Code & Document Analysis\n. Full Term Replacement Warranty",
+        "featured": true,
+        "popular": true,
+        "status": "active",
+        "features": [
+          "1 Million Token Context Window",
+          "Multimodal Reasoning & Python Execution",
+          "High Speed Instant Auto-Delivery",
+          "Full Warranty 100%"
+        ],
+        "faq": [
+          {
+            "a": "Credentials are delivered immediately on screen upon checkout.",
+            "q": "How do I access Gemini Pro?"
+          },
+          {
+            "a": "Yes, full multimodal vision and code generation support.",
+            "q": "Does it support code and images?"
+          }
+        ]
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:15:09.348Z"
+    },
+    {
+      "id": "32c64b49-ae37-4838-8e66-573764a8767d",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "2a1e53c3-f1b6-46e4-ae80-e59e4442b5bd",
+      "details": {
+        "deletedValue": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q=="
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:16:10.355Z"
+    },
+    {
+      "id": "0a56729f-b8dd-4419-aebb-8f02194b93bb",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "details": {
+        "name": "Gemini AI 1.5 Pro & Advanced",
+        "price": 2.5,
+        "compare_price": 19.99,
+        "category_id": "c3",
+        "product_type": "Gift Card",
+        "delivery_type": "Automatic",
+        "duration": "18 Month",
+        "image": "https://img.sanishtech.com/u/593edb0183971582f39d2e86cc66d789.png",
+        "description": "Google Gemini 1.5 Pro with 1M+ context window, deep multimodal reasoning, and coding intelligence.\n\n. 1 Million Context Window\n. Code & Document Analysis\n. Full Term Replacement Warranty",
+        "featured": true,
+        "popular": true,
+        "status": "active",
+        "features": [
+          "1 Million Token Context Window",
+          "Multimodal Reasoning & Python Execution",
+          "High Speed Instant Auto-Delivery",
+          "Full Warranty 100%"
+        ],
+        "faq": [
+          {
+            "a": "Credentials are delivered immediately on screen upon checkout.",
+            "q": "How do I access Gemini Pro?"
+          },
+          {
+            "a": "Yes, full multimodal vision and code generation support.",
+            "q": "Does it support code and images?"
+          }
+        ]
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:18:12.894Z"
+    },
+    {
+      "id": "722896f5-b205-454d-8ab6-1bf3444595a2",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "ADD_STOCK_BULK",
+      "target_type": "STOCK",
+      "target_id": "7f0cd041-a598-4679-9408-177e433c45ef",
+      "details": {
+        "count": 1
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T16:32:50.376Z"
+    },
+    {
+      "id": "79a373e1-4e3a-4a76-b2b9-db27957ecd48",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "ADJUST_WALLET_BALANCE",
+      "target_type": "WALLET",
+      "target_id": "u0000000-0000-0000-0000-000000000002",
+      "details": {
+        "action": "add",
+        "amount": 25,
+        "previousBalance": 90.5,
+        "newBalance": 115.5,
+        "note": "Admin VIP Test Bonus"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T17:57:38.853Z"
+    },
+    {
+      "id": "0da01418-cfde-41ee-9338-c7754b2a44cb",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p_gemini_pro",
+      "details": {
+        "name": "Gemini AI Pro 18 Free Gift Cards",
+        "price": 7.99,
+        "compare_price": 24.99,
+        "category_id": "c3",
+        "product_type": "Gift Card",
+        "delivery_type": "Automatic",
+        "duration": "18 Free Gift Cards (1 Year VIP Access)",
+        "image": "/uploads/gemini-ai-pro-18-giftcards.png",
+        "gallery": [
+          "/uploads/gemini-ai-pro-18-giftcards.png"
+        ],
+        "description": "Google Gemini 1.5 Pro & Advanced VIP Bundle ជាមួយ 18 Free Gift Cards Included! សមត្ថភាពវិភាគកូដ, 1M+ Context Window, Multimodal Vision និងការឆ្លើយតបឆ្លាតវៃបំផុត។ ទទួលបានកូដកាដូ Gift Cards ចំនួន 18 សន្លឹកភ្លាមៗបន្ទាប់ពី Checkout ដោយស្វ័យប្រវត្តិ។",
+        "featured": true,
+        "popular": true,
+        "status": "active",
+        "features": [
+          "18 Free Gift Cards / Redeem Activation Keys",
+          "Google Gemini 1.5 Pro & Advanced Intelligence",
+          "1 Million Token Context Window & Multimodal Vision",
+          "Python Workspace Execution & Deep Reasoning",
+          "Instant Automatic Delivery to Screen & Email"
+        ],
+        "faq": [
+          {
+            "q": "How do I redeem my 18 Free Gift Cards?",
+            "a": "Each gift card key is delivered automatically to your screen and order history right after checkout. Simply click Reveal Credentials and apply the gift voucher code on the Google Gemini redeem portal."
+          },
+          {
+            "q": "Are the gift cards stackable or shareable with friends?",
+            "a": "Yes! All 18 gift cards can be redeemed consecutively on your own account or shared individually with family and team members."
+          },
+          {
+            "q": "Is delivery instant?",
+            "a": "Yes, our automated stock system dispatches your codes in less than 2 seconds!"
+          }
+        ]
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T18:22:26.949Z"
+    },
+    {
+      "id": "2f11c652-a37f-434b-950d-849f51631fd2",
+      "admin_id": "u0000000-0000-0000-0000-000000000001",
+      "admin_name": "Shiryu Admin",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "p_gemini_pro",
+      "details": {
+        "variants": [
+          {
+            "id": "1m",
+            "name": "1 ខែ (1 Month Private - 1 Device)",
+            "duration": "1 Month",
+            "price": 7.99,
+            "compare_price": 9.99,
+            "badge": ""
+          },
+          {
+            "id": "3m",
+            "name": "3 ខែ (3 Months Private)",
+            "duration": "3 Months",
+            "price": 21.57,
+            "compare_price": 26.99,
+            "badge": "Save 10%"
+          },
+          {
+            "id": "6m",
+            "name": "6 ខែ (6 Months Individual Private)",
+            "duration": "6 Months",
+            "price": 39.95,
+            "compare_price": 49.99,
+            "badge": "Popular"
+          },
+          {
+            "id": "1y",
+            "name": "1 ឆ្នាំ (1 Year Full Term Guarantee)",
+            "duration": "1 Year",
+            "price": 75.91,
+            "compare_price": 99.99,
+            "badge": "Best Value"
+          }
+        ]
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-21T18:29:36.234Z"
+    }
+  ]
+}

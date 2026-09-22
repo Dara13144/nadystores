@@ -1,0 +1,4615 @@
+{
+  "users": [
+    {
+      "id": "u0000000-0000-0000-0000-000000000099",
+      "email": "mdara9695@gmail.com",
+      "password_hash": "$2a$10$LCbKVCVrhsRL7uMTtXA27uRomtntZwpT6qU4CFgxMjkmEifH68wwK",
+      "username": "mdara9695",
+      "full_name": "",
+      "phone": "",
+      "avatar": "/uploads/1790106980782-58cb043d.png",
+      "role": "admin",
+      "status": "active",
+      "email_verified": true,
+      "google_id": "107288615453584527109",
+      "created_at": "2026-09-22T18:45:23.882Z",
+      "updated_at": "2026-09-22T20:23:06.722Z",
+      "wallet_balance": 68
+    }
+  ],
+  "categories": [
+    {
+      "id": "c1",
+      "name": "Movie / TV / Show",
+      "slug": "movie-tv-show",
+      "description": "Ultra HD 4K streaming accounts for Netflix, Prime Video, HBO Max with instant automatic delivery.",
+      "image": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=600",
+      "icon": "Tv",
+      "status": "active",
+      "sort_order": 1
+    },
+    {
+      "id": "c2",
+      "name": "Designing / Video Editing",
+      "slug": "designing-video-editing",
+      "description": "CapCut Pro, Canva Pro, Alight Motion, and Wink VIP editing subscriptions.",
+      "image": "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600",
+      "icon": "Sparkles",
+      "status": "active",
+      "sort_order": 2
+    },
+    {
+      "id": "c3",
+      "name": "Ai / ChatBot",
+      "slug": "ai-chatbot",
+      "description": "Gemini AI Pro, ChatGPT Plus, and advanced intelligence tokens.",
+      "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=600",
+      "icon": "Bot",
+      "status": "active",
+      "sort_order": 3
+    },
+    {
+      "id": "c4",
+      "name": "VPN / Security",
+      "slug": "vpn-security",
+      "description": "High-speed VPN Nord, ExpressVPN, and private proxies for encrypted safe browsing.",
+      "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600",
+      "icon": "ShieldCheck",
+      "status": "active",
+      "sort_order": 4
+    },
+    {
+      "id": "c5",
+      "name": "Music & Audio",
+      "slug": "music",
+      "description": "Spotify Premium, YouTube Music ad-free high bitrate audio accounts.",
+      "image": "https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=600",
+      "icon": "Music",
+      "status": "active",
+      "sort_order": 5
+    },
+    {
+      "id": "c6",
+      "name": "Subscription & Gaming",
+      "slug": "subscription",
+      "description": "Discord Nitro, Telegram Premium, Steam and Game Pass subscriptions.",
+      "image": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=600",
+      "icon": "Gamepad2",
+      "status": "active",
+      "sort_order": 6
+    }
+  ],
+  "products": [
+    {
+      "id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "name": "Gemini AI",
+      "slug": "gemini-ai",
+      "description": "High speed instant automated delivery. Enjoy premium perks without interruptions.\n\n• Ultra HD 4K Quality\n• 100% Private Profile\n• Full term warranty guaranteed",
+      "short_description": "",
+      "category_id": "c3",
+      "price": 2.5,
+      "compare_price": 20.99,
+      "currency": "USD",
+      "product_type": "License",
+      "delivery_type": "Automatic",
+      "duration": "18 Month",
+      "image": "/uploads/1790104356512-d05f1df4.png",
+      "gallery": [
+        "/uploads/1790104340165-da2f3b3d.png"
+      ],
+      "stock_count": 1,
+      "status": "active",
+      "featured": false,
+      "popular": false,
+      "is_digital": true,
+      "features": [
+        "Instant automated delivery 24/7",
+        "Full term replacement guarantee",
+        "Ultra HD 4K Streaming / Premium Access"
+      ],
+      "faq": [
+        {
+          "q": "How fast is delivery?",
+          "a": "Credentials appear instantly on your screen upon checkout completion."
+        }
+      ],
+      "variants": [
+        {
+          "id": "1y",
+          "name": "18 Month",
+          "duration": "18 Month",
+          "price": 2.5,
+          "compare_price": 19.99,
+          "badge": "Best Value"
+        }
+      ],
+      "created_at": "2026-09-22T19:11:55.930Z",
+      "updated_at": "2026-09-22T20:08:44.830Z"
+    }
+  ],
+  "digital_stock": [
+    {
+      "id": "b6790ee6-84e6-4117-8c76-6ed842a21aeb",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
+      "type": "Link",
+      "status": "sold",
+      "created_at": "2026-09-22T19:46:48.515Z",
+      "order_id": "11b9c415-de6a-4818-82c7-ff54f9daa49b",
+      "sold_at": "2026-09-22T19:47:00.463Z",
+      "updated_at": "2026-09-22T19:47:00.463Z"
+    },
+    {
+      "id": "f5bcf541-e1d7-41c2-8b15-f03b60bd5f03",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
+      "type": "Link",
+      "status": "sold",
+      "created_at": "2026-09-22T19:47:23.296Z",
+      "order_id": "1993e4e7-052d-46d6-8bea-e0887ddef577",
+      "sold_at": "2026-09-22T19:47:35.661Z",
+      "updated_at": "2026-09-22T19:47:35.661Z"
+    },
+    {
+      "id": "1577a596-8052-4a3a-b2ef-3edc3ce78a41",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q11",
+      "type": "Link",
+      "status": "sold",
+      "created_at": "2026-09-22T19:47:23.297Z",
+      "order_id": "f114124c-3433-49ec-9ed9-d1811d861fa9",
+      "sold_at": "2026-09-22T19:47:46.757Z",
+      "updated_at": "2026-09-22T19:47:46.757Z"
+    },
+    {
+      "id": "62d0f8a3-940e-42c1-af3e-67ede2f1a35c",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q11",
+      "type": "Link",
+      "status": "sold",
+      "created_at": "2026-09-22T19:57:31.857Z",
+      "order_id": "3f133e04-3edb-4ae5-b32b-73768c20060d",
+      "sold_at": "2026-09-22T19:59:37.335Z",
+      "updated_at": "2026-09-22T19:59:37.335Z"
+    },
+    {
+      "id": "6a6ff2c5-173b-40a3-a442-8b3c4c0363d0",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q1122",
+      "type": "Link",
+      "status": "sold",
+      "created_at": "2026-09-22T19:57:31.858Z",
+      "order_id": "3f133e04-3edb-4ae5-b32b-73768c20060d",
+      "sold_at": "2026-09-22T19:59:37.336Z",
+      "updated_at": "2026-09-22T19:59:37.336Z"
+    },
+    {
+      "id": "38a80514-d14a-4c72-9923-337b1d80b0e9",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q1133",
+      "type": "Link",
+      "status": "sold",
+      "created_at": "2026-09-22T19:57:31.859Z",
+      "order_id": "845ce7cb-12d2-4887-82b7-b9dcc0555915",
+      "sold_at": "2026-09-22T20:01:16.630Z",
+      "updated_at": "2026-09-22T20:01:16.630Z"
+    },
+    {
+      "id": "479c261d-241d-45e4-8cff-072ca12ebe11",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q11",
+      "type": "Link",
+      "status": "sold",
+      "created_at": "2026-09-22T20:01:58.361Z",
+      "order_id": "850b1f14-4782-43df-98dc-af142d26b466",
+      "sold_at": "2026-09-22T20:02:10.734Z",
+      "updated_at": "2026-09-22T20:02:10.734Z"
+    },
+    {
+      "id": "ab4662b7-f0ec-4837-8725-698d6ecb5991",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q22",
+      "type": "Link",
+      "status": "sold",
+      "created_at": "2026-09-22T20:01:58.362Z",
+      "order_id": "61aa2216-6fd2-4c30-8d6d-d0877f7306a6",
+      "sold_at": "2026-09-22T20:02:25.060Z",
+      "updated_at": "2026-09-22T20:02:25.060Z"
+    },
+    {
+      "id": "cf9f10a0-b697-4c91-a380-62c928e882b1",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q33",
+      "type": "Link",
+      "status": "sold",
+      "created_at": "2026-09-22T20:01:58.363Z",
+      "order_id": "f3c6d11b-701b-4c6b-bd32-74fc71ce07b0",
+      "sold_at": "2026-09-22T20:07:20.432Z",
+      "updated_at": "2026-09-22T20:07:20.432Z"
+    },
+    {
+      "id": "d934ba0c-2f1e-4726-adc6-47c629b9462e",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q33",
+      "type": "Link",
+      "status": "sold",
+      "created_at": "2026-09-22T20:08:44.829Z",
+      "order_id": "2e2c3e19-0af7-4a3d-b042-4c476e5e6622",
+      "sold_at": "2026-09-22T20:08:58.341Z",
+      "updated_at": "2026-09-22T20:08:58.341Z"
+    }
+  ],
+  "coupons": [
+    {
+      "id": "cp1",
+      "code": "PREMIUM10",
+      "type": "percentage",
+      "value": 10,
+      "minimum_amount": 0.5,
+      "maximum_discount": 15,
+      "usage_limit": 500,
+      "used_count": 0,
+      "expires_at": "2027-12-31T23:59:59Z",
+      "active": true
+    },
+    {
+      "id": "cp2",
+      "code": "NADY20",
+      "type": "percentage",
+      "value": 20,
+      "minimum_amount": 1,
+      "maximum_discount": 10,
+      "usage_limit": 200,
+      "used_count": 0,
+      "expires_at": "2027-12-31T23:59:59Z",
+      "active": true
+    },
+    {
+      "id": "cp3",
+      "code": "WELCOME10",
+      "type": "percentage",
+      "value": 10,
+      "minimum_amount": 0.5,
+      "maximum_discount": 10,
+      "usage_limit": 1000,
+      "used_count": 0,
+      "expires_at": "2027-12-31T23:59:59Z",
+      "active": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "f1c189c9-c39f-4ae1-b087-c7cfbd678ded",
+      "order_number": "ORD-20260922-836869",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-836869",
+      "coupon_code": null,
+      "created_at": "2026-09-22T19:29:53.367Z",
+      "updated_at": "2026-09-22T19:29:53.374Z"
+    },
+    {
+      "id": "a6db3f54-7d67-415a-b38c-741c154d31e3",
+      "order_number": "ORD-20260922-234563",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "pending",
+      "payment_status": "pending",
+      "delivery_status": "pending",
+      "payment_method": "aba_payway",
+      "transaction_id": "ABA_ORD-20260922-234563_1790105463446",
+      "coupon_code": null,
+      "created_at": "2026-09-22T19:31:03.444Z",
+      "updated_at": "2026-09-22T19:31:03.446Z"
+    },
+    {
+      "id": "5070895c-18a4-4186-9426-adc03f0e0632",
+      "order_number": "ORD-20260922-451651",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 5,
+      "discount": 0,
+      "fee": 0,
+      "total": 5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-451651",
+      "coupon_code": null,
+      "created_at": "2026-09-22T19:39:47.330Z",
+      "updated_at": "2026-09-22T19:39:47.336Z"
+    },
+    {
+      "id": "11b9c415-de6a-4818-82c7-ff54f9daa49b",
+      "order_number": "ORD-20260922-290151",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-290151",
+      "coupon_code": null,
+      "created_at": "2026-09-22T19:47:00.458Z",
+      "updated_at": "2026-09-22T19:47:00.465Z"
+    },
+    {
+      "id": "1993e4e7-052d-46d6-8bea-e0887ddef577",
+      "order_number": "ORD-20260922-735491",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-735491",
+      "coupon_code": null,
+      "created_at": "2026-09-22T19:47:35.657Z",
+      "updated_at": "2026-09-22T19:47:35.662Z"
+    },
+    {
+      "id": "f114124c-3433-49ec-9ed9-d1811d861fa9",
+      "order_number": "ORD-20260922-468149",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-468149",
+      "coupon_code": null,
+      "created_at": "2026-09-22T19:47:46.753Z",
+      "updated_at": "2026-09-22T19:47:46.759Z"
+    },
+    {
+      "id": "3f133e04-3edb-4ae5-b32b-73768c20060d",
+      "order_number": "ORD-20260922-120259",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 5,
+      "discount": 0,
+      "fee": 0,
+      "total": 5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-120259",
+      "coupon_code": null,
+      "created_at": "2026-09-22T19:59:37.330Z",
+      "updated_at": "2026-09-22T19:59:37.338Z"
+    },
+    {
+      "id": "845ce7cb-12d2-4887-82b7-b9dcc0555915",
+      "order_number": "ORD-20260922-500885",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-500885",
+      "coupon_code": null,
+      "created_at": "2026-09-22T20:01:16.625Z",
+      "updated_at": "2026-09-22T20:01:16.632Z"
+    },
+    {
+      "id": "850b1f14-4782-43df-98dc-af142d26b466",
+      "order_number": "ORD-20260922-360009",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-360009",
+      "coupon_code": null,
+      "created_at": "2026-09-22T20:02:10.728Z",
+      "updated_at": "2026-09-22T20:02:10.736Z"
+    },
+    {
+      "id": "61aa2216-6fd2-4c30-8d6d-d0877f7306a6",
+      "order_number": "ORD-20260922-210625",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-210625",
+      "coupon_code": null,
+      "created_at": "2026-09-22T20:02:25.055Z",
+      "updated_at": "2026-09-22T20:02:25.062Z"
+    },
+    {
+      "id": "b9134926-75db-4542-ac14-184ba3fc2235",
+      "order_number": "ORD-20260922-420011",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "pending",
+      "payment_status": "pending",
+      "delivery_status": "pending",
+      "payment_method": "aba_payway",
+      "transaction_id": "ABA_ORD-20260922-420011_1790107418304",
+      "coupon_code": null,
+      "created_at": "2026-09-22T20:03:38.300Z",
+      "updated_at": "2026-09-22T20:03:38.304Z"
+    },
+    {
+      "id": "f3c6d11b-701b-4c6b-bd32-74fc71ce07b0",
+      "order_number": "ORD-20260922-778456",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-778456",
+      "coupon_code": null,
+      "created_at": "2026-09-22T20:07:20.425Z",
+      "updated_at": "2026-09-22T20:07:20.434Z"
+    },
+    {
+      "id": "2e2c3e19-0af7-4a3d-b042-4c476e5e6622",
+      "order_number": "ORD-20260922-187163",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "customer_email": "mdara9695@gmail.com",
+      "customer_name": "mdara9695",
+      "customer_phone": "",
+      "subtotal": 2.5,
+      "discount": 0,
+      "fee": 0,
+      "total": 2.5,
+      "currency": "USD",
+      "status": "completed",
+      "payment_status": "paid",
+      "delivery_status": "delivered",
+      "payment_method": "wallet",
+      "transaction_id": "PAY-ORD-20260922-187163",
+      "coupon_code": null,
+      "created_at": "2026-09-22T20:08:58.335Z",
+      "updated_at": "2026-09-22T20:08:58.343Z"
+    }
+  ],
+  "order_items": [
+    {
+      "id": "d68bd061-34be-417b-87ae-ffe8102fd49d",
+      "order_id": "f1c189c9-c39f-4ae1-b087-c7cfbd678ded",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
+          "delivered_at": "2026-09-22T19:29:53.373Z"
+        }
+      ],
+      "created_at": "2026-09-22T19:29:53.368Z",
+      "updated_at": "2026-09-22T19:29:53.374Z"
+    },
+    {
+      "id": "0417aa76-6c16-40e2-8ab5-4ed423e18b80",
+      "order_id": "a6db3f54-7d67-415a-b38c-741c154d31e3",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [],
+      "created_at": "2026-09-22T19:31:03.445Z"
+    },
+    {
+      "id": "72a3e972-a441-4a32-8eb5-80af02ee0a61",
+      "order_id": "5070895c-18a4-4186-9426-adc03f0e0632",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "subtotal": 5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
+          "delivered_at": "2026-09-22T19:39:47.335Z"
+        },
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
+          "delivered_at": "2026-09-22T19:39:47.335Z"
+        }
+      ],
+      "created_at": "2026-09-22T19:39:47.331Z",
+      "updated_at": "2026-09-22T19:39:47.335Z"
+    },
+    {
+      "id": "3a1b6e86-e5d4-4e84-9dd3-4ba3c03cf054",
+      "order_id": "11b9c415-de6a-4818-82c7-ff54f9daa49b",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
+          "delivered_at": "2026-09-22T19:47:00.464Z"
+        }
+      ],
+      "created_at": "2026-09-22T19:47:00.459Z",
+      "updated_at": "2026-09-22T19:47:00.464Z"
+    },
+    {
+      "id": "6af32894-f051-4629-9840-a67d7754d020",
+      "order_id": "1993e4e7-052d-46d6-8bea-e0887ddef577",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q==",
+          "delivered_at": "2026-09-22T19:47:35.661Z"
+        }
+      ],
+      "created_at": "2026-09-22T19:47:35.658Z",
+      "updated_at": "2026-09-22T19:47:35.661Z"
+    },
+    {
+      "id": "60228bc0-1acf-492a-af85-e741b6e57428",
+      "order_id": "f114124c-3433-49ec-9ed9-d1811d861fa9",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q11",
+          "delivered_at": "2026-09-22T19:47:46.758Z"
+        }
+      ],
+      "created_at": "2026-09-22T19:47:46.754Z",
+      "updated_at": "2026-09-22T19:47:46.758Z"
+    },
+    {
+      "id": "867dc350-35cf-4779-8fee-ee593f2ec485",
+      "order_id": "3f133e04-3edb-4ae5-b32b-73768c20060d",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 2,
+      "unit_price": 2.5,
+      "subtotal": 5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q11",
+          "delivered_at": "2026-09-22T19:59:37.336Z"
+        },
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q1122",
+          "delivered_at": "2026-09-22T19:59:37.337Z"
+        }
+      ],
+      "created_at": "2026-09-22T19:59:37.330Z",
+      "updated_at": "2026-09-22T19:59:37.337Z"
+    },
+    {
+      "id": "cd7c6afe-0c2b-4dfb-8190-267c97e41d83",
+      "order_id": "845ce7cb-12d2-4887-82b7-b9dcc0555915",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q1133",
+          "delivered_at": "2026-09-22T20:01:16.631Z"
+        }
+      ],
+      "created_at": "2026-09-22T20:01:16.627Z",
+      "updated_at": "2026-09-22T20:01:16.631Z"
+    },
+    {
+      "id": "d0caa463-8aaf-4cd6-8edb-7fe8ca22bf12",
+      "order_id": "850b1f14-4782-43df-98dc-af142d26b466",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q11",
+          "delivered_at": "2026-09-22T20:02:10.735Z"
+        }
+      ],
+      "created_at": "2026-09-22T20:02:10.729Z",
+      "updated_at": "2026-09-22T20:02:10.735Z"
+    },
+    {
+      "id": "8f30040e-bfbc-4bcc-b094-2707f5efe6a0",
+      "order_id": "61aa2216-6fd2-4c30-8d6d-d0877f7306a6",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q22",
+          "delivered_at": "2026-09-22T20:02:25.061Z"
+        }
+      ],
+      "created_at": "2026-09-22T20:02:25.056Z",
+      "updated_at": "2026-09-22T20:02:25.061Z"
+    },
+    {
+      "id": "5fa5abbf-bb67-458c-b8f7-586e6abcb6db",
+      "order_id": "b9134926-75db-4542-ac14-184ba3fc2235",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [],
+      "created_at": "2026-09-22T20:03:38.302Z"
+    },
+    {
+      "id": "0bb24f70-2dcb-4546-be7c-b39a8637c6c1",
+      "order_id": "f3c6d11b-701b-4c6b-bd32-74fc71ce07b0",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q33",
+          "delivered_at": "2026-09-22T20:07:20.433Z"
+        }
+      ],
+      "created_at": "2026-09-22T20:07:20.426Z",
+      "updated_at": "2026-09-22T20:07:20.433Z"
+    },
+    {
+      "id": "0b59fbda-7a0b-46ed-87ed-64f89c956d6a",
+      "order_id": "2e2c3e19-0af7-4a3d-b042-4c476e5e6622",
+      "product_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "product_name": "Gemini AI (18 Month)",
+      "quantity": 1,
+      "unit_price": 2.5,
+      "subtotal": 2.5,
+      "delivery_type": "Automatic",
+      "delivered_data": [
+        {
+          "type": "Link",
+          "value": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q33",
+          "delivered_at": "2026-09-22T20:08:58.342Z"
+        }
+      ],
+      "created_at": "2026-09-22T20:08:58.336Z",
+      "updated_at": "2026-09-22T20:08:58.342Z"
+    }
+  ],
+  "wallets": [
+    {
+      "id": "w_admin_99",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "balance": 68,
+      "currency": "USD",
+      "total_deposited": 100.5,
+      "total_spent": 32.5,
+      "created_at": "2026-09-22T18:45:23.882Z",
+      "updated_at": "2026-09-22T20:23:06.721Z"
+    },
+    {
+      "id": "c3ca11ca-e042-4d04-9e4b-9bafe9b959d4",
+      "user_id": "6c02abc1-83c0-42be-860d-a6bab82f6483",
+      "balance": 0,
+      "currency": "USD",
+      "total_deposited": 0,
+      "total_spent": 0,
+      "created_at": "2026-09-22T18:53:00.901Z",
+      "updated_at": "2026-09-22T18:53:00.901Z"
+    }
+  ],
+  "wallet_transactions": [
+    {
+      "id": "85f112aa-af7c-4147-a832-1acf972206c0",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 2,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-239370",
+      "transaction_id": "HTl9xvPyUSyTyOj7wkpiBUMD2jEgD3vH",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($2.00)",
+      "created_at": "2026-09-22T18:54:01.305Z"
+    },
+    {
+      "id": "1e9c43c0-2e2c-4838-8748-22f37a66e0dd",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 2,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-304819",
+      "transaction_id": "cpfeIxZorIWlDjkmtI2UHcR7DlxcNqVj",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($2.00)",
+      "created_at": "2026-09-22T18:55:06.254Z"
+    },
+    {
+      "id": "f1b65b88-6c75-430a-b680-e595d908a924",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 2,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-379235",
+      "transaction_id": "UZqQDdE1Ck9wmSHYVYjjE01oyf5BLi9F",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($2.00)",
+      "created_at": "2026-09-22T18:56:21.378Z"
+    },
+    {
+      "id": "33b39c64-9826-40b7-a775-ed167c4df41a",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 2,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-450571",
+      "transaction_id": "6xmiN59IqJXeWiutvwS0hzvdB80cNfGO",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($2.00)",
+      "created_at": "2026-09-22T18:57:32.222Z"
+    },
+    {
+      "id": "35c80e3f-215a-40bb-8845-7f84c26ef654",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 2,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-833706",
+      "transaction_id": "7HtS6UqeB4cdrhNDeMqO4pqXT63jFqzC",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($2.00)",
+      "created_at": "2026-09-22T19:03:55.972Z"
+    },
+    {
+      "id": "dde2025e-a676-45e6-8736-85387d3600d5",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 2,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-921762",
+      "transaction_id": "0jwQ7q0fpZfOt4XPFQs1zzt55YIN68aF",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($2.00)",
+      "created_at": "2026-09-22T19:05:23.778Z"
+    },
+    {
+      "id": "9f4a6458-40ab-44a5-969a-4426a21ef6cc",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 2,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-008526",
+      "transaction_id": "LdCSNlaKk0Sm2Hhd7ScZy3B73tB3MhrJ",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($2.00)",
+      "created_at": "2026-09-22T19:06:50.071Z"
+    },
+    {
+      "id": "d654c23c-e035-4a03-8581-fe2b1385ebf7",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 2,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-076286",
+      "transaction_id": "D7SqgfPl3yhUIIaSOfYqlJsicpHkVgkk",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($2.00)",
+      "created_at": "2026-09-22T19:07:57.585Z"
+    },
+    {
+      "id": "c42296be-98d3-4f38-ae9e-5a6eb17f03cc",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 0.1,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-089013",
+      "transaction_id": "Tv7cIWc7Tjje2r5RKSZlD7a3kHEaQDqq",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($0.10)",
+      "created_at": "2026-09-22T19:08:10.173Z"
+    },
+    {
+      "id": "b4d0166e-a696-46f9-8293-3fe83732a1fd",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 100,
+      "balance_after": 97.5,
+      "reference": "PAY-ORD-20260922-836869",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260922-836869",
+      "created_at": "2026-09-22T19:29:53.370Z"
+    },
+    {
+      "id": "52babb12-2f90-47d7-9cd3-575b3ba4fa78",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 5,
+      "balance_before": 97.5,
+      "balance_after": 92.5,
+      "reference": "PAY-ORD-20260922-451651",
+      "status": "completed",
+      "description": "Payment for Order #ORD-20260922-451651",
+      "created_at": "2026-09-22T19:39:47.332Z"
+    },
+    {
+      "id": "ee0b102c-f4c6-4600-b79c-96618cd998b6",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 92.5,
+      "balance_after": 90,
+      "reference": "PAY-ORD-20260922-290151",
+      "status": "completed",
+      "description": "Purchase for Order #ORD-20260922-290151",
+      "created_at": "2026-09-22T19:47:00.460Z"
+    },
+    {
+      "id": "9bf2ea0e-845d-4e33-bfea-cac8032ad87f",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 90,
+      "balance_after": 87.5,
+      "reference": "PAY-ORD-20260922-735491",
+      "status": "completed",
+      "description": "Purchase for Order #ORD-20260922-735491",
+      "created_at": "2026-09-22T19:47:35.659Z"
+    },
+    {
+      "id": "a38acf7b-eed6-4251-9f93-d730fa5242f4",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 87.5,
+      "balance_after": 85,
+      "reference": "PAY-ORD-20260922-468149",
+      "status": "completed",
+      "description": "Purchase for Order #ORD-20260922-468149",
+      "created_at": "2026-09-22T19:47:46.756Z"
+    },
+    {
+      "id": "e0d1d889-b742-48b1-a672-a9160182cbf2",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 5,
+      "balance_before": 85,
+      "balance_after": 80,
+      "reference": "PAY-ORD-20260922-120259",
+      "status": "completed",
+      "description": "Purchase for Order #ORD-20260922-120259",
+      "created_at": "2026-09-22T19:59:37.332Z"
+    },
+    {
+      "id": "1197216f-01a9-4c35-b455-5e8d0696620e",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 80,
+      "balance_after": 77.5,
+      "reference": "PAY-ORD-20260922-500885",
+      "status": "completed",
+      "description": "Purchase for Order #ORD-20260922-500885",
+      "created_at": "2026-09-22T20:01:16.628Z"
+    },
+    {
+      "id": "0f462a6a-545c-4912-b6f0-cd86a66f33dd",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 77.5,
+      "balance_after": 75,
+      "reference": "PAY-ORD-20260922-360009",
+      "status": "completed",
+      "description": "Purchase for Order #ORD-20260922-360009",
+      "created_at": "2026-09-22T20:02:10.731Z"
+    },
+    {
+      "id": "e8fa89d5-7741-4b2b-b28a-fcb477d37e0d",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 75,
+      "balance_after": 72.5,
+      "reference": "PAY-ORD-20260922-210625",
+      "status": "completed",
+      "description": "Purchase for Order #ORD-20260922-210625",
+      "created_at": "2026-09-22T20:02:25.057Z"
+    },
+    {
+      "id": "87bf0d6e-7f49-40ad-a278-7c88ec96fb25",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 2,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-442508",
+      "transaction_id": "tj1hcG0ltcZZsPgJUcGtUd4okCimHgTn",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($2.00)",
+      "created_at": "2026-09-22T20:04:03.737Z"
+    },
+    {
+      "id": "c56c45cf-434b-44d6-96d2-16beee6ef7ad",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 72.5,
+      "balance_after": 70,
+      "reference": "PAY-ORD-20260922-778456",
+      "status": "completed",
+      "description": "Purchase for Order #ORD-20260922-778456",
+      "created_at": "2026-09-22T20:07:20.429Z"
+    },
+    {
+      "id": "68864bb7-9c09-4c79-8937-c5c4fbec1463",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "purchase",
+      "amount": 2.5,
+      "balance_before": 70,
+      "balance_after": 67.5,
+      "reference": "PAY-ORD-20260922-187163",
+      "status": "completed",
+      "description": "Purchase for Order #ORD-20260922-187163",
+      "created_at": "2026-09-22T20:08:58.338Z"
+    },
+    {
+      "id": "bbb2fc02-dde7-4ee6-ba0d-d11d55a6a4cb",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 0.1,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-762042",
+      "transaction_id": "veon8nCZvQsndZ5jxVi3ysF7YJwOuwYV",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($0.10)",
+      "created_at": "2026-09-22T20:09:23.917Z"
+    },
+    {
+      "id": "b42c7eb2-fd52-4b4a-971b-2f87e3b226db",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 0.1,
+      "balance_before": 67.5,
+      "balance_after": 67.6,
+      "reference": "WALLET-762042",
+      "status": "completed",
+      "description": "CutLuy KHQR Auto Top-up ($0.10)",
+      "created_at": "2026-09-22T20:09:44.074Z"
+    },
+    {
+      "id": "70404ed8-490d-4df0-a5f2-f7b236ba36f6",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 0.1,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-791691",
+      "transaction_id": "iBsnL0VcRJIZXgGex0UoFFLt5f4xrkvc",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($0.10)",
+      "created_at": "2026-09-22T20:09:52.701Z"
+    },
+    {
+      "id": "23c47937-7b10-4491-854b-ffcd222dfe40",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 0.1,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-845630",
+      "transaction_id": "O14trtfTDbaJByibVUlWoXvk02DNjNba",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($0.10)",
+      "created_at": "2026-09-22T20:10:47.091Z"
+    },
+    {
+      "id": "ba443c8d-de2a-4fe3-a72a-12aedcd1ca5d",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 0.1,
+      "balance_before": 67.6,
+      "balance_after": 67.7,
+      "reference": "WALLET-845630",
+      "status": "completed",
+      "description": "CutLuy KHQR Auto Top-up ($0.10)",
+      "created_at": "2026-09-22T20:11:19.754Z"
+    },
+    {
+      "id": "bed1492b-b61e-4fb0-85a4-5b0e445526bf",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 0.1,
+      "balance_before": 0,
+      "balance_after": 0,
+      "reference": "WALLET-113270",
+      "transaction_id": "G5olJT4gzFER7bfsfx5MC0f9u9Zaz8C5",
+      "status": "pending",
+      "description": "Pending wallet deposit via CutLuy KHQR ($0.10)",
+      "created_at": "2026-09-22T20:15:14.695Z"
+    },
+    {
+      "id": "49596510-7156-4f50-848d-519c76f2a3c4",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 0.1,
+      "balance_before": 67.7,
+      "balance_after": 67.8,
+      "reference": "WALLET-113270",
+      "status": "completed",
+      "description": "CutLuy KHQR Auto Top-up ($0.10)",
+      "created_at": "2026-09-22T20:15:31.849Z"
+    },
+    {
+      "id": "8339ac75-166c-435f-ab3c-6e85635a846e",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 0.1,
+      "balance_before": 67.8,
+      "balance_after": 67.9,
+      "reference": "WALLET-378334",
+      "transaction_id": "hwSZ3aQilBiqKqcJmWALlUqh4rD1qSv4",
+      "status": "completed",
+      "description": "CutLuy KHQR Auto Top-up ($0.10)",
+      "created_at": "2026-09-22T20:19:39.260Z",
+      "updated_at": "2026-09-22T20:20:20.993Z"
+    },
+    {
+      "id": "5e9edd02-493d-4b26-ba63-75bc75a1468c",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "type": "deposit",
+      "amount": 0.1,
+      "balance_before": 67.9,
+      "balance_after": 68,
+      "reference": "WALLET-559022",
+      "transaction_id": "cLrDGz5dac81gCvtvaM96DdTTz61PfjW",
+      "status": "completed",
+      "description": "CutLuy KHQR Auto Top-up ($0.10)",
+      "created_at": "2026-09-22T20:22:40.550Z",
+      "updated_at": "2026-09-22T20:23:06.723Z"
+    }
+  ],
+  "payment_events": [
+    {
+      "id": "5519b524-1dcf-4fbf-9be4-f6f9af125a35",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-836869",
+      "order_id": "f1c189c9-c39f-4ae1-b087-c7cfbd678ded",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-836869",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T19:29:53.371Z"
+    },
+    {
+      "id": "184f284b-b120-47dd-9dab-bae40c4b2419",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-451651",
+      "order_id": "5070895c-18a4-4186-9426-adc03f0e0632",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-451651",
+        "status": "paid",
+        "autoConfirmed": true
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T19:39:47.333Z"
+    },
+    {
+      "id": "ac55876b-a5a1-44a0-831c-dd49fd480e37",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-290151",
+      "order_id": "11b9c415-de6a-4818-82c7-ff54f9daa49b",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-290151",
+        "status": "paid",
+        "autoConfirmed": true,
+        "balanceBefore": 92.5,
+        "balanceAfter": 90
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T19:47:00.462Z"
+    },
+    {
+      "id": "b7d1b4ab-afcd-43f8-b1f5-fcf125851865",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-735491",
+      "order_id": "1993e4e7-052d-46d6-8bea-e0887ddef577",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-735491",
+        "status": "paid",
+        "autoConfirmed": true,
+        "balanceBefore": 90,
+        "balanceAfter": 87.5
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T19:47:35.660Z"
+    },
+    {
+      "id": "b37431ee-48f2-4f46-928f-710337e1502e",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-468149",
+      "order_id": "f114124c-3433-49ec-9ed9-d1811d861fa9",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-468149",
+        "status": "paid",
+        "autoConfirmed": true,
+        "balanceBefore": 87.5,
+        "balanceAfter": 85
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T19:47:46.756Z"
+    },
+    {
+      "id": "802bfb34-68c0-4768-a19c-d53d559370df",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-120259",
+      "order_id": "3f133e04-3edb-4ae5-b32b-73768c20060d",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-120259",
+        "status": "paid",
+        "autoConfirmed": true,
+        "balanceBefore": 85,
+        "balanceAfter": 80
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T19:59:37.333Z"
+    },
+    {
+      "id": "8362a72c-4b16-45d0-941a-57066278b448",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-500885",
+      "order_id": "845ce7cb-12d2-4887-82b7-b9dcc0555915",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-500885",
+        "status": "paid",
+        "autoConfirmed": true,
+        "balanceBefore": 80,
+        "balanceAfter": 77.5
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T20:01:16.628Z"
+    },
+    {
+      "id": "08fc4466-1002-4b53-89fb-54d5bcd27701",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-360009",
+      "order_id": "850b1f14-4782-43df-98dc-af142d26b466",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-360009",
+        "status": "paid",
+        "autoConfirmed": true,
+        "balanceBefore": 77.5,
+        "balanceAfter": 75
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T20:02:10.732Z"
+    },
+    {
+      "id": "f179388f-fbfe-4090-81b2-79a5d8979f7a",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-210625",
+      "order_id": "61aa2216-6fd2-4c30-8d6d-d0877f7306a6",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-210625",
+        "status": "paid",
+        "autoConfirmed": true,
+        "balanceBefore": 75,
+        "balanceAfter": 72.5
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T20:02:25.058Z"
+    },
+    {
+      "id": "7ca7e939-80f1-45f0-ba3c-16ed3034c0e0",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-778456",
+      "order_id": "f3c6d11b-701b-4c6b-bd32-74fc71ce07b0",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-778456",
+        "status": "paid",
+        "autoConfirmed": true,
+        "balanceBefore": 72.5,
+        "balanceAfter": 70
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T20:07:20.430Z"
+    },
+    {
+      "id": "8deeff92-2969-41a5-8b99-e76779a99379",
+      "provider": "wallet",
+      "provider_tx_id": "PAY-ORD-20260922-187163",
+      "order_id": "2e2c3e19-0af7-4a3d-b042-4c476e5e6622",
+      "event_type": "PAYMENT_SUCCESS",
+      "payload": {
+        "provider": "wallet",
+        "transactionId": "PAY-ORD-20260922-187163",
+        "status": "paid",
+        "autoConfirmed": true,
+        "balanceBefore": 70,
+        "balanceAfter": 67.5
+      },
+      "status": "processed",
+      "created_at": "2026-09-22T20:08:58.339Z"
+    }
+  ],
+  "reviews": [],
+  "notifications": [
+    {
+      "id": "eccfd304-ba97-4f8a-af71-3e89422d2961",
+      "user_id": "6c02abc1-83c0-42be-860d-a6bab82f6483",
+      "title": "Welcome to Digital Store!",
+      "message": "Your account has been created. Top-up your wallet anytime with Bakong / KHQR to purchase subscriptions.",
+      "type": "info",
+      "is_read": false,
+      "created_at": "2026-09-22T18:53:00.901Z"
+    },
+    {
+      "id": "b73ccdb3-03be-4db9-bd3a-459a14450fe6",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-836869 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/f1c189c9-c39f-4ae1-b087-c7cfbd678ded",
+      "created_at": "2026-09-22T19:29:53.375Z"
+    },
+    {
+      "id": "8adddce4-21c7-4cab-955e-fe4a5348363f",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-451651 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/5070895c-18a4-4186-9426-adc03f0e0632",
+      "created_at": "2026-09-22T19:39:47.336Z"
+    },
+    {
+      "id": "2eff39ad-f64c-45c9-8cfb-38cafd55c317",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-290151 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/11b9c415-de6a-4818-82c7-ff54f9daa49b",
+      "created_at": "2026-09-22T19:47:00.465Z"
+    },
+    {
+      "id": "8f1ded55-925f-4700-b243-c15a77ea6915",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-735491 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/1993e4e7-052d-46d6-8bea-e0887ddef577",
+      "created_at": "2026-09-22T19:47:35.663Z"
+    },
+    {
+      "id": "4e7af295-b85b-40c6-bfe4-468d53078b17",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-468149 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/f114124c-3433-49ec-9ed9-d1811d861fa9",
+      "created_at": "2026-09-22T19:47:46.760Z"
+    },
+    {
+      "id": "5e4eab39-192e-47a2-9335-4db939c02d2e",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-120259 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/3f133e04-3edb-4ae5-b32b-73768c20060d",
+      "created_at": "2026-09-22T19:59:37.339Z"
+    },
+    {
+      "id": "94f85018-c069-4367-877e-020755547aee",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-500885 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/845ce7cb-12d2-4887-82b7-b9dcc0555915",
+      "created_at": "2026-09-22T20:01:16.633Z"
+    },
+    {
+      "id": "970ea95c-0364-44f8-ae57-5a04146ffd56",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-360009 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/850b1f14-4782-43df-98dc-af142d26b466",
+      "created_at": "2026-09-22T20:02:10.737Z"
+    },
+    {
+      "id": "18b0f564-b01c-49ba-95ae-1a0d2476df13",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-210625 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/61aa2216-6fd2-4c30-8d6d-d0877f7306a6",
+      "created_at": "2026-09-22T20:02:25.062Z"
+    },
+    {
+      "id": "cd0c591c-26a7-4848-84c4-89bd5df9062a",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-778456 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/f3c6d11b-701b-4c6b-bd32-74fc71ce07b0",
+      "created_at": "2026-09-22T20:07:20.434Z"
+    },
+    {
+      "id": "aa5971d6-3efe-47f9-a53f-d60fe027ea68",
+      "user_id": "u0000000-0000-0000-0000-000000000099",
+      "title": "Order #ORD-20260922-187163 Delivered!",
+      "message": "Your digital subscription credentials have been unlocked and are ready in your account.",
+      "type": "order",
+      "is_read": false,
+      "link": "/orders/2e2c3e19-0af7-4a3d-b042-4c476e5e6622",
+      "created_at": "2026-09-22T20:08:58.343Z"
+    }
+  ],
+  "support_tickets": [],
+  "audit_logs": [
+    {
+      "id": "454357c9-84c0-45f5-ac55-c6e5aef933bd",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "Mao Dara",
+      "action": "CREATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "details": {
+        "name": "Gemini AI"
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:11:55.931Z"
+    },
+    {
+      "id": "e7a8b1fa-9ff7-4f14-a37e-a5f2d1f9e638",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "Mao Dara",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "details": {
+        "name": "Gemini AI",
+        "price": 2.5,
+        "compare_price": 20.99,
+        "category_id": "c3",
+        "product_type": "License",
+        "delivery_type": "Automatic",
+        "duration": "18 Month",
+        "image": "/uploads/1790104356512-d05f1df4.png",
+        "gallery": [
+          "/uploads/1790104340165-da2f3b3d.png"
+        ],
+        "description": "High speed instant automated delivery. Enjoy premium perks without interruptions.\n\n• Ultra HD 4K Quality\n• 100% Private Profile\n• Full term warranty guaranteed",
+        "featured": false,
+        "popular": false,
+        "status": "active",
+        "features": [
+          "Instant automated delivery 24/7",
+          "Full term replacement guarantee",
+          "Ultra HD 4K Streaming / Premium Access"
+        ],
+        "faq": [
+          {
+            "q": "How fast is delivery?",
+            "a": "Credentials appear instantly on your screen upon checkout completion."
+          }
+        ],
+        "variants": [
+          {
+            "id": "1m",
+            "name": "1 ខែ (1 Month Private - 1 Device)",
+            "duration": "1 Month",
+            "price": 7.99,
+            "compare_price": 9.99,
+            "badge": ""
+          },
+          {
+            "id": "3m",
+            "name": "3 ខែ (3 Months Private)",
+            "duration": "3 Months",
+            "price": 21.57,
+            "compare_price": 23.97,
+            "badge": "Save 10%"
+          },
+          {
+            "id": "6m",
+            "name": "6 ខែ (6 Months Individual Private)",
+            "duration": "6 Months",
+            "price": 39.95,
+            "compare_price": 47.94,
+            "badge": "Popular"
+          },
+          {
+            "id": "1y",
+            "name": "1 ឆ្នាំ (1 Year Full Term Guarantee)",
+            "duration": "1 Year",
+            "price": 75.91,
+            "compare_price": 95.88,
+            "badge": "Best Value"
+          }
+        ]
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:12:38.173Z"
+    },
+    {
+      "id": "34aec7f4-f1a5-4e7e-bf09-336556ab3040",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "Mao Dara",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "details": {
+        "name": "Gemini AI",
+        "price": 2.5,
+        "compare_price": 20.99,
+        "category_id": "c3",
+        "product_type": "License",
+        "delivery_type": "Automatic",
+        "duration": "18 Month",
+        "image": "/uploads/1790104356512-d05f1df4.png",
+        "gallery": [
+          "/uploads/1790104340165-da2f3b3d.png"
+        ],
+        "description": "High speed instant automated delivery. Enjoy premium perks without interruptions.\n\n• Ultra HD 4K Quality\n• 100% Private Profile\n• Full term warranty guaranteed",
+        "featured": false,
+        "popular": false,
+        "status": "active",
+        "features": [
+          "Instant automated delivery 24/7",
+          "Full term replacement guarantee",
+          "Ultra HD 4K Streaming / Premium Access"
+        ],
+        "faq": [
+          {
+            "q": "How fast is delivery?",
+            "a": "Credentials appear instantly on your screen upon checkout completion."
+          }
+        ],
+        "variants": [
+          {
+            "id": "1y",
+            "name": "18 Month (18 Month Full Term Guarantee)",
+            "duration": "18 Month",
+            "price": 2.5,
+            "compare_price": 19.99,
+            "badge": "Best Value"
+          }
+        ]
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:23:08.899Z"
+    },
+    {
+      "id": "c9abc1a7-1c11-4404-a34a-edba282d26c2",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "Mao Dara",
+      "action": "UPDATE_PRODUCT",
+      "target_type": "PRODUCT",
+      "target_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "details": {
+        "name": "Gemini AI",
+        "price": 2.5,
+        "compare_price": 20.99,
+        "category_id": "c3",
+        "product_type": "License",
+        "delivery_type": "Automatic",
+        "duration": "18 Month",
+        "image": "/uploads/1790104356512-d05f1df4.png",
+        "gallery": [
+          "/uploads/1790104340165-da2f3b3d.png"
+        ],
+        "description": "High speed instant automated delivery. Enjoy premium perks without interruptions.\n\n• Ultra HD 4K Quality\n• 100% Private Profile\n• Full term warranty guaranteed",
+        "featured": false,
+        "popular": false,
+        "status": "active",
+        "features": [
+          "Instant automated delivery 24/7",
+          "Full term replacement guarantee",
+          "Ultra HD 4K Streaming / Premium Access"
+        ],
+        "faq": [
+          {
+            "q": "How fast is delivery?",
+            "a": "Credentials appear instantly on your screen upon checkout completion."
+          }
+        ],
+        "variants": [
+          {
+            "id": "1y",
+            "name": "18 Month",
+            "duration": "18 Month",
+            "price": 2.5,
+            "compare_price": 19.99,
+            "badge": "Best Value"
+          }
+        ]
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:23:53.950Z"
+    },
+    {
+      "id": "02cca44c-423a-4915-af06-a8cf4f080862",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "Mao Dara",
+      "action": "ADD_STOCK_BULK",
+      "target_type": "STOCK",
+      "target_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "details": {
+        "count": 3
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:29:41.322Z"
+    },
+    {
+      "id": "390f4d05-fd39-49f2-8ea0-1d8b733d2f7a",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "Mao Dara",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "71b44293-7502-41b4-b0ab-2195da474f6b",
+      "details": {
+        "deletedValue": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q=="
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:46:38.298Z"
+    },
+    {
+      "id": "5627b327-70dc-4e8b-99f7-84ebdbfd40d0",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "Mao Dara",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "871a886a-c406-4414-b71a-677cd6aab633",
+      "details": {
+        "deletedValue": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q=="
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:46:40.347Z"
+    },
+    {
+      "id": "44e1b96e-1721-41ec-a9d7-b4e529ff78dc",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "Mao Dara",
+      "action": "DELETE_STOCK",
+      "target_type": "STOCK",
+      "target_id": "ed4091b6-179d-4283-b3ce-5853dbf8b61d",
+      "details": {
+        "deletedValue": "https://serviceactivation.google.com/subscription/new/AQCpiIH9Z7nrp9GGa3U9uILeVHTGUsXda4SgF9yQyqMIDzD-i3KVyi8H9CGNQN_x7zof36GvWioGJEM4isJMhcAkoWSLDFMY-eD_-vTKE_59xwIMIhI9K77wIaYq8t8mtES85UbBHbTGtN09WNR1cag_EFhk5-DpZEEnL-GTGrm2Z3iZmF3z8wA8U3Q3orPayE_0aMCtSj6fa0O_LVvaBpGmI_SPQWZ-m3XuvhyW_9aWtm381lHPxHZMrZtLmhGoyy6iATgL_9KrUIZn4Q=="
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:46:42.316Z"
+    },
+    {
+      "id": "ca1d06ab-02d3-4861-9579-84c5495863e7",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "Mao Dara",
+      "action": "ADD_STOCK_BULK",
+      "target_type": "STOCK",
+      "target_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "details": {
+        "count": 1
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:46:48.517Z"
+    },
+    {
+      "id": "e320bdf9-0e5f-4ddf-9038-92641d16363d",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "Mao Dara",
+      "action": "ADD_STOCK_BULK",
+      "target_type": "STOCK",
+      "target_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "details": {
+        "count": 2
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:47:23.298Z"
+    },
+    {
+      "id": "bbe16d83-24b3-48c8-961a-57d218fc6735",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "System Admin",
+      "action": "ADD_STOCK_BULK",
+      "target_type": "STOCK",
+      "target_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "details": {
+        "count": 3
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T19:57:31.860Z"
+    },
+    {
+      "id": "d8a8df48-8a01-4305-99e7-8bf863fb9145",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "System Admin",
+      "action": "ADD_STOCK_BULK",
+      "target_type": "STOCK",
+      "target_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "details": {
+        "count": 3
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T20:01:58.364Z"
+    },
+    {
+      "id": "02e80c7e-d999-4ca7-bd36-f2de2a65de01",
+      "admin_id": "u0000000-0000-0000-0000-000000000099",
+      "admin_name": "System Admin",
+      "action": "ADD_STOCK_BULK",
+      "target_type": "STOCK",
+      "target_id": "05dc10bb-e0c3-4c48-983f-b08cad6d5edc",
+      "details": {
+        "count": 1
+      },
+      "ip_address": "127.0.0.1",
+      "created_at": "2026-09-22T20:08:44.831Z"
+    }
+  ],
+  "security_events": [
+    {
+      "id": "97f1f12f-6a7f-4ec9-8cf1-9e3ce0d8b8a5",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "SUSPICIOUS_UA",
+      "endpoint": "/api/products",
+      "method": "GET",
+      "user_agent": "sqlmap/1.5.2#stable",
+      "status_code": 403,
+      "request_count": 1,
+      "action": "BLOCKED_MALICIOUS_SCANNER",
+      "metadata": {
+        "matchedPattern": "/sqlmap/i"
+      },
+      "created_at": "2026-09-22T19:35:44.372Z"
+    },
+    {
+      "id": "2244b65a-dec4-4df8-990c-b529a557da9b",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "ATTACK_DETECTED",
+      "endpoint": "/api/products?config=../../.env",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 400,
+      "request_count": 1,
+      "action": "BLOCKED_EXPLOIT_PAYLOAD",
+      "metadata": {
+        "matchedPattern": "/\\.\\.\\//"
+      },
+      "created_at": "2026-09-22T19:35:44.428Z"
+    },
+    {
+      "id": "113fc856-ac74-465b-b935-2a6d867919d5",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "nonexistent_attacker_target_999@example.com"
+      },
+      "created_at": "2026-09-22T19:35:44.465Z"
+    },
+    {
+      "id": "f28e06dd-6d72-4da9-8a19-d19689f02680",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:35:44.472Z"
+    },
+    {
+      "id": "bae78750-681b-4a33-b8ef-6f09faa00a34",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790105744513@example.com"
+      },
+      "created_at": "2026-09-22T19:35:44.523Z"
+    },
+    {
+      "id": "0234e399-2cd6-4ade-bed6-6bf9bc6bd3b5",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:35:44.527Z"
+    },
+    {
+      "id": "e9e41c8d-6ce2-4de5-b6b6-66aba07b6272",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790105744513@example.com"
+      },
+      "created_at": "2026-09-22T19:35:44.556Z"
+    },
+    {
+      "id": "08e752f0-e7f2-40ab-aaa8-6c2c6e712cd8",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:35:44.560Z"
+    },
+    {
+      "id": "3db98c10-c56d-4ca0-8b71-28ec3ea64c12",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790105744513@example.com"
+      },
+      "created_at": "2026-09-22T19:35:44.585Z"
+    },
+    {
+      "id": "6d29e08a-0005-42fa-a270-83f3f2cf782e",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:35:44.590Z"
+    },
+    {
+      "id": "574ab129-76f3-4fe4-b20c-b271d65c374a",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790105744513@example.com"
+      },
+      "created_at": "2026-09-22T19:35:44.613Z"
+    },
+    {
+      "id": "2a8452c3-3872-4ae0-9c73-f29db1f84495",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:35:44.617Z"
+    },
+    {
+      "id": "80caed66-6f7e-496e-af3f-44e7bad0232a",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "ACCOUNT_LOCKED",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "LOCKED_15M",
+      "metadata": {
+        "email": "ratelimit_test_1790105744513@example.com",
+        "attempts": 5
+      },
+      "created_at": "2026-09-22T19:35:44.670Z"
+    },
+    {
+      "id": "ac63fe92-3c46-4398-bb35-8e367ae508c4",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790105744513@example.com"
+      },
+      "created_at": "2026-09-22T19:35:44.672Z"
+    },
+    {
+      "id": "7a841f7d-2ff3-4b86-b50d-9e0741da4aa8",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:35:44.677Z"
+    },
+    {
+      "id": "d8302070-bc8f-4b4c-b474-4a135bee7d0f",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T19:35:44.816Z"
+    },
+    {
+      "id": "3450d714-2646-4e0f-8e0e-298d1eb7ea26",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T19:35:44.832Z"
+    },
+    {
+      "id": "ed96e708-b165-4773-8419-8fa96d39b5a5",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "MALICIOUS_UPLOAD_ATTEMPT",
+      "endpoint": "/api/upload",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "DISALLOWED_MIME_TYPE",
+      "metadata": {
+        "mimeType": "application/x-php",
+        "filename": "exploit.php"
+      },
+      "created_at": "2026-09-22T19:35:44.883Z"
+    },
+    {
+      "id": "1d84c689-ca91-404b-a64b-eddb997eed78",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "SUSPICIOUS_UA",
+      "endpoint": "/api/products",
+      "method": "GET",
+      "user_agent": "sqlmap/1.5.2#stable",
+      "status_code": 403,
+      "request_count": 1,
+      "action": "BLOCKED_MALICIOUS_SCANNER",
+      "metadata": {
+        "matchedPattern": "/sqlmap/i"
+      },
+      "created_at": "2026-09-22T19:40:49.704Z"
+    },
+    {
+      "id": "f1a1681f-94f4-435c-8dd3-3c19334881d1",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "ATTACK_DETECTED",
+      "endpoint": "/api/products?config=../../.env",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 400,
+      "request_count": 1,
+      "action": "BLOCKED_EXPLOIT_PAYLOAD",
+      "metadata": {
+        "matchedPattern": "/\\.\\.\\//"
+      },
+      "created_at": "2026-09-22T19:40:49.747Z"
+    },
+    {
+      "id": "113aaa6b-bcc4-40d1-977e-62acfbe14b58",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "nonexistent_attacker_target_999@example.com"
+      },
+      "created_at": "2026-09-22T19:40:49.782Z"
+    },
+    {
+      "id": "bc557f15-6f92-4d8d-b0c5-220ced5dd7cb",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:49.787Z"
+    },
+    {
+      "id": "c835df62-f209-4e50-8f61-330e069ad47d",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com"
+      },
+      "created_at": "2026-09-22T19:40:49.823Z"
+    },
+    {
+      "id": "647bcf4b-c7c4-4900-ba62-ced44f9abfbd",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:49.827Z"
+    },
+    {
+      "id": "3b7135fc-8b3b-4025-bb3a-2abe6e3046d4",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com"
+      },
+      "created_at": "2026-09-22T19:40:49.847Z"
+    },
+    {
+      "id": "20c0ef46-398b-42e3-bd44-64d7ac532c17",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:49.851Z"
+    },
+    {
+      "id": "8f24ba3f-2de8-458c-a3ec-87ac0f73055f",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com"
+      },
+      "created_at": "2026-09-22T19:40:49.890Z"
+    },
+    {
+      "id": "43c6e6c9-380a-4bf1-ad57-95f47ff20920",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:49.893Z"
+    },
+    {
+      "id": "82f8321f-9557-4e18-a318-fc54ae63b92a",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com"
+      },
+      "created_at": "2026-09-22T19:40:49.916Z"
+    },
+    {
+      "id": "55669158-04f2-4f83-900f-d50b75a99aee",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:49.919Z"
+    },
+    {
+      "id": "d419288f-4bf3-445c-a82d-298b98bdf772",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com"
+      },
+      "created_at": "2026-09-22T19:40:49.936Z"
+    },
+    {
+      "id": "1f8fc088-de4a-40bc-bcf7-f114e85fdd4a",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:49.940Z"
+    },
+    {
+      "id": "98362160-5c68-402d-ba57-89068db3f071",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com"
+      },
+      "created_at": "2026-09-22T19:40:49.985Z"
+    },
+    {
+      "id": "4cd7b4a1-6b7e-496b-825f-f085253c3bd9",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:49.987Z"
+    },
+    {
+      "id": "2acb31d3-6fef-477c-bfc6-a1174bafce3d",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com"
+      },
+      "created_at": "2026-09-22T19:40:50.025Z"
+    },
+    {
+      "id": "ddc4ef81-131e-4de2-8a5f-ce5dbaefc974",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:50.028Z"
+    },
+    {
+      "id": "a2f019bf-a276-4a41-93d3-8f1942235b1b",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com"
+      },
+      "created_at": "2026-09-22T19:40:50.060Z"
+    },
+    {
+      "id": "c3cd9398-bbe5-492d-9fbb-37dd1881cf8e",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:50.063Z"
+    },
+    {
+      "id": "d99257e4-35a0-4e5c-828b-96a4d1b3d776",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com"
+      },
+      "created_at": "2026-09-22T19:40:50.087Z"
+    },
+    {
+      "id": "db9f43e0-d27a-4a1c-98d9-4f467b7f4b4d",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:50.090Z"
+    },
+    {
+      "id": "62d6c15a-f4f6-4c90-94ff-88e180dfc0d9",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "ACCOUNT_LOCKED",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "LOCKED_5M",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com",
+        "attempts": 10
+      },
+      "created_at": "2026-09-22T19:40:50.113Z"
+    },
+    {
+      "id": "3a75d37f-f31c-44f3-bcce-ffb67e55a186",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106049815@example.com"
+      },
+      "created_at": "2026-09-22T19:40:50.115Z"
+    },
+    {
+      "id": "38ad6ea6-3fef-4756-a2af-6d9f8905a5c7",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:40:50.119Z"
+    },
+    {
+      "id": "8db37f82-67cd-49e1-9959-0a42412f35bd",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "MALICIOUS_UPLOAD_ATTEMPT",
+      "endpoint": "/api/upload",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "DISALLOWED_MIME_TYPE",
+      "metadata": {
+        "mimeType": "application/x-php",
+        "filename": "exploit.php"
+      },
+      "created_at": "2026-09-22T19:40:50.199Z"
+    },
+    {
+      "id": "bf7c4804-e712-4ebc-ac1e-784c1e77ec5c",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "SUSPICIOUS_UA",
+      "endpoint": "/api/products",
+      "method": "GET",
+      "user_agent": "sqlmap/1.5.2#stable",
+      "status_code": 403,
+      "request_count": 1,
+      "action": "BLOCKED_MALICIOUS_SCANNER",
+      "metadata": {
+        "matchedPattern": "/sqlmap/i"
+      },
+      "created_at": "2026-09-22T19:41:10.177Z"
+    },
+    {
+      "id": "f18fa9ab-eab7-4a86-8f94-9cf8a8b0fe2a",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "ATTACK_DETECTED",
+      "endpoint": "/api/products?config=../../.env",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 400,
+      "request_count": 1,
+      "action": "BLOCKED_EXPLOIT_PAYLOAD",
+      "metadata": {
+        "matchedPattern": "/\\.\\.\\//"
+      },
+      "created_at": "2026-09-22T19:41:10.217Z"
+    },
+    {
+      "id": "29199441-b858-4443-8a53-2e69094c4a56",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "nonexistent_attacker_target_999@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.250Z"
+    },
+    {
+      "id": "21f9943e-f286-4299-a8e6-6368615af25c",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.256Z"
+    },
+    {
+      "id": "cdcee91c-81a2-499e-8113-7be2afe975c8",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106070282@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.291Z"
+    },
+    {
+      "id": "431c96e7-3eaf-48d8-a7a9-3df87066549e",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.294Z"
+    },
+    {
+      "id": "906348e5-1a78-4d13-a72c-0bd42d1d2093",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106070282@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.314Z"
+    },
+    {
+      "id": "2f1564e3-eb81-435c-af44-d746ace3a90a",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.318Z"
+    },
+    {
+      "id": "6740029c-c005-4a98-8e02-5607d97adb14",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106070282@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.357Z"
+    },
+    {
+      "id": "14598705-1feb-4ffc-90f3-285b7532848f",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.360Z"
+    },
+    {
+      "id": "a19de116-7611-45b0-9a20-a1a02a7c5955",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106070282@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.381Z"
+    },
+    {
+      "id": "70d86c05-3e74-4f36-9d17-4cecf356aa3b",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.383Z"
+    },
+    {
+      "id": "ae4a4aec-3ca7-4ec3-a60a-6b0bbe21d14b",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106070282@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.399Z"
+    },
+    {
+      "id": "20784fca-2507-492d-af30-c97091bebfd8",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.401Z"
+    },
+    {
+      "id": "95ad9703-bf18-4644-9b6a-fc840b2d5c25",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106070282@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.426Z"
+    },
+    {
+      "id": "5cb05f11-c85f-47e9-b78f-65268f5e8629",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.429Z"
+    },
+    {
+      "id": "11c20410-4ef6-4fc2-bcf8-dc83706afc12",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106070282@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.520Z"
+    },
+    {
+      "id": "076fc4c4-6ab8-4b14-bd00-4ad01afe3bc9",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.525Z"
+    },
+    {
+      "id": "a3ec550c-5160-483e-9ffd-9d910192f556",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106070282@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.609Z"
+    },
+    {
+      "id": "e4c3d58a-9d04-4b7d-8b33-ee807a24d422",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.612Z"
+    },
+    {
+      "id": "7c39a063-bf13-4c76-bb4c-3215c4f84793",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106070282@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.658Z"
+    },
+    {
+      "id": "25146842-c091-44c6-a1f5-e44adee885fa",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.661Z"
+    },
+    {
+      "id": "8523449b-166e-477d-b04b-718b45917456",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790106070282@example.com"
+      },
+      "created_at": "2026-09-22T19:41:10.688Z"
+    },
+    {
+      "id": "b1a09a96-bcf5-42d4-9f10-8b86e1ae160b",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T19:41:10.692Z"
+    },
+    {
+      "id": "01373295-ff2f-41dd-9aee-77c8f30f4acb",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T19:41:10.724Z"
+    },
+    {
+      "id": "8f9f2925-a919-4774-b188-f0f233b1998e",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T19:41:10.755Z"
+    },
+    {
+      "id": "6b560efa-9cd6-41aa-a238-a0602fa0000c",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "MALICIOUS_UPLOAD_ATTEMPT",
+      "endpoint": "/api/upload",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "DISALLOWED_MIME_TYPE",
+      "metadata": {
+        "mimeType": "application/x-php",
+        "filename": "exploit.php"
+      },
+      "created_at": "2026-09-22T19:41:10.803Z"
+    },
+    {
+      "id": "c8e39bfd-7c82-439a-a407-c1d487ab8efd",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "SUSPICIOUS_UA",
+      "endpoint": "/api/products",
+      "method": "GET",
+      "user_agent": "sqlmap/1.5.2#stable",
+      "status_code": 403,
+      "request_count": 1,
+      "action": "BLOCKED_MALICIOUS_SCANNER",
+      "metadata": {
+        "matchedPattern": "/sqlmap/i"
+      },
+      "created_at": "2026-09-22T20:16:43.073Z"
+    },
+    {
+      "id": "c9244d8b-80f5-446b-ad52-935a9d694fa6",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "ATTACK_DETECTED",
+      "endpoint": "/api/products?config=../../.env",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 400,
+      "request_count": 1,
+      "action": "BLOCKED_EXPLOIT_PAYLOAD",
+      "metadata": {
+        "matchedPattern": "/\\.\\.\\//"
+      },
+      "created_at": "2026-09-22T20:16:43.115Z"
+    },
+    {
+      "id": "e6672a2d-a858-4adb-ac61-fcd2481edf48",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "nonexistent_attacker_target_999@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.142Z"
+    },
+    {
+      "id": "bbea5b3f-d284-4798-81f5-6275a30ab1d7",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.148Z"
+    },
+    {
+      "id": "447b3eb5-4c8f-4a49-b880-0885c784d4e5",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108203177@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.185Z"
+    },
+    {
+      "id": "44c8a58b-f8b8-4303-92a6-f88914c04745",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.189Z"
+    },
+    {
+      "id": "59d38102-e919-4058-8b1b-a631caf98c42",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108203177@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.210Z"
+    },
+    {
+      "id": "0ad52e7d-9a81-495c-ba6a-09817b527e24",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.214Z"
+    },
+    {
+      "id": "dc10ed1d-b5c4-4d69-bb21-989877a729e0",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108203177@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.238Z"
+    },
+    {
+      "id": "42bdb291-ee3d-4fd0-9531-4ee870fa4a84",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.241Z"
+    },
+    {
+      "id": "2a1e2224-3f57-414a-96f8-e661efa22e7c",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108203177@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.276Z"
+    },
+    {
+      "id": "cf23b1a1-13bf-4c11-ad00-66b7620af8c1",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.281Z"
+    },
+    {
+      "id": "16320f3e-d9bb-4ae4-bb91-aaef22c35c8b",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108203177@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.317Z"
+    },
+    {
+      "id": "85af153f-8c73-43ee-8314-2fadd7228651",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.320Z"
+    },
+    {
+      "id": "aaf9eb5e-5ccb-4914-a6e6-daa7bb8e0867",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108203177@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.337Z"
+    },
+    {
+      "id": "e451e7ce-d2a8-4df0-ba75-1a37bb96f7ce",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.340Z"
+    },
+    {
+      "id": "bf9980d3-8073-4add-8a02-7cdcf1b039d9",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108203177@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.365Z"
+    },
+    {
+      "id": "fc295bac-4e1e-4a44-9915-4650ecbd4aac",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.369Z"
+    },
+    {
+      "id": "073bac9d-5e8a-453e-b287-bb013e15f429",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108203177@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.433Z"
+    },
+    {
+      "id": "2b1459b0-1c4e-4770-93d0-60f6ef7573ed",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.436Z"
+    },
+    {
+      "id": "b8e6009e-ed2c-4ec6-9b23-bf8232414203",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108203177@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.488Z"
+    },
+    {
+      "id": "95309ec6-7d7f-440e-adda-3b99ac9036bf",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.491Z"
+    },
+    {
+      "id": "6d77a3ef-6afa-4593-a54e-4d8d68dedaa7",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108203177@example.com"
+      },
+      "created_at": "2026-09-22T20:16:43.535Z"
+    },
+    {
+      "id": "87be8bf0-2aa1-4a75-a737-b8b36f024408",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:16:43.538Z"
+    },
+    {
+      "id": "bc3a1417-abd7-4807-87a3-30c57382cd12",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T20:16:43.584Z"
+    },
+    {
+      "id": "925c3207-c270-471c-8b3e-0f8f0298859d",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T20:16:43.598Z"
+    },
+    {
+      "id": "3f17c230-3eed-4d79-850e-745f9bee6b59",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "MALICIOUS_UPLOAD_ATTEMPT",
+      "endpoint": "/api/upload",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "DISALLOWED_MIME_TYPE",
+      "metadata": {
+        "mimeType": "application/x-php",
+        "filename": "exploit.php"
+      },
+      "created_at": "2026-09-22T20:16:43.626Z"
+    },
+    {
+      "id": "69cce73b-7dd7-4439-aeff-c0cc59c355a9",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "SUSPICIOUS_UA",
+      "endpoint": "/api/products",
+      "method": "GET",
+      "user_agent": "sqlmap/1.5.2#stable",
+      "status_code": 403,
+      "request_count": 1,
+      "action": "BLOCKED_MALICIOUS_SCANNER",
+      "metadata": {
+        "matchedPattern": "/sqlmap/i"
+      },
+      "created_at": "2026-09-22T20:27:56.302Z"
+    },
+    {
+      "id": "68a76f06-9a48-4fdf-8a59-4d71754a9242",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "ATTACK_DETECTED",
+      "endpoint": "/api/products?config=../../.env",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 400,
+      "request_count": 1,
+      "action": "BLOCKED_EXPLOIT_PAYLOAD",
+      "metadata": {
+        "matchedPattern": "/\\.\\.\\//"
+      },
+      "created_at": "2026-09-22T20:27:56.341Z"
+    },
+    {
+      "id": "86dd8e76-15df-4496-b27f-d608aa0ff219",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "nonexistent_attacker_target_999@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.371Z"
+    },
+    {
+      "id": "021c7e79-9a83-41ee-8f0d-b78e6166b570",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.378Z"
+    },
+    {
+      "id": "6995a848-a2fb-43b0-973f-cc141357b85c",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108876410@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.419Z"
+    },
+    {
+      "id": "5495c97e-9e33-4949-83fd-37a34ec99347",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.422Z"
+    },
+    {
+      "id": "56bd08ea-2805-4330-babf-3b33d0bbac5f",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108876410@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.440Z"
+    },
+    {
+      "id": "99ae82ba-cf96-44b2-9061-a585ea2862dd",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.444Z"
+    },
+    {
+      "id": "a53a8168-237f-4405-99cf-395cf101444c",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108876410@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.466Z"
+    },
+    {
+      "id": "6226991c-40a1-4c02-b123-825dcc5dfe62",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.470Z"
+    },
+    {
+      "id": "f98d5fe8-deb3-4cb9-90ae-d94c51dc849b",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108876410@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.489Z"
+    },
+    {
+      "id": "0b899a1c-f6ce-4ac5-a527-7cae719eabfb",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.493Z"
+    },
+    {
+      "id": "f94ef673-e08f-4432-b85d-97f7f5860364",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108876410@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.524Z"
+    },
+    {
+      "id": "fe91f636-9f1f-4230-819a-2785bcc07542",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.528Z"
+    },
+    {
+      "id": "5b9143fb-98ab-46c5-9b6c-3a1ae1cb5fab",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108876410@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.557Z"
+    },
+    {
+      "id": "f2b9a192-fdeb-4161-9da6-7a242e8c6548",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.560Z"
+    },
+    {
+      "id": "cf311243-f3ac-45c3-9013-8bb341423819",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108876410@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.581Z"
+    },
+    {
+      "id": "7bfb691f-f7b2-40a7-95b9-6a1bf19abafe",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.586Z"
+    },
+    {
+      "id": "f88de887-2b71-4085-b0a7-939016642c4d",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108876410@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.604Z"
+    },
+    {
+      "id": "4c44ef8b-c24e-4cbe-804e-dcbed0690245",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.607Z"
+    },
+    {
+      "id": "32e8335c-0351-464e-b21f-aea8ef8821fb",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108876410@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.640Z"
+    },
+    {
+      "id": "d9e4d78b-53ff-4af7-90dd-f4ee0a606d6f",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.642Z"
+    },
+    {
+      "id": "c04b2a8b-6502-4b7f-8702-91bc00bd97db",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108876410@example.com"
+      },
+      "created_at": "2026-09-22T20:27:56.660Z"
+    },
+    {
+      "id": "de607774-6bbd-4733-a665-aca2bd5f6f0f",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:27:56.663Z"
+    },
+    {
+      "id": "c6d66e84-50ce-4739-9311-50eeabd73962",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T20:27:56.713Z"
+    },
+    {
+      "id": "003949bf-45d9-4780-9674-4ac7695f41b9",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T20:27:56.774Z"
+    },
+    {
+      "id": "abf83331-6cb8-426e-88d3-e80e0d02badd",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "MALICIOUS_UPLOAD_ATTEMPT",
+      "endpoint": "/api/upload",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "DISALLOWED_MIME_TYPE",
+      "metadata": {
+        "mimeType": "application/x-php",
+        "filename": "exploit.php"
+      },
+      "created_at": "2026-09-22T20:27:56.809Z"
+    },
+    {
+      "id": "1bfb5a26-1195-4a73-a63f-a51884fd617f",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "SUSPICIOUS_UA",
+      "endpoint": "/api/products",
+      "method": "GET",
+      "user_agent": "sqlmap/1.5.2#stable",
+      "status_code": 403,
+      "request_count": 1,
+      "action": "BLOCKED_MALICIOUS_SCANNER",
+      "metadata": {
+        "matchedPattern": "/sqlmap/i"
+      },
+      "created_at": "2026-09-22T20:29:46.808Z"
+    },
+    {
+      "id": "981ef1f3-1e52-4379-89c5-0399e3e9304a",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "ATTACK_DETECTED",
+      "endpoint": "/api/products?config=../../.env",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 400,
+      "request_count": 1,
+      "action": "BLOCKED_EXPLOIT_PAYLOAD",
+      "metadata": {
+        "matchedPattern": "/\\.\\.\\//"
+      },
+      "created_at": "2026-09-22T20:29:46.849Z"
+    },
+    {
+      "id": "71ed9a75-ea97-4c26-93be-c3a4c77896b6",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "nonexistent_attacker_target_999@example.com"
+      },
+      "created_at": "2026-09-22T20:29:46.877Z"
+    },
+    {
+      "id": "9faab9e2-fda8-4135-96ec-85b55c6fdab7",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:46.882Z"
+    },
+    {
+      "id": "516cf7f4-feed-4e8d-b4a2-e871c3905703",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108986913@example.com"
+      },
+      "created_at": "2026-09-22T20:29:46.923Z"
+    },
+    {
+      "id": "cc5c109b-7742-46e1-81a5-facedc6a8703",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:46.926Z"
+    },
+    {
+      "id": "65078c9f-87d7-45b7-b799-ce85db153da5",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108986913@example.com"
+      },
+      "created_at": "2026-09-22T20:29:46.951Z"
+    },
+    {
+      "id": "e45d6e0d-8a2e-470c-ad9f-2ff73f99681f",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:46.957Z"
+    },
+    {
+      "id": "7a9203ec-d86b-423b-b42d-7fe5d13ee091",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108986913@example.com"
+      },
+      "created_at": "2026-09-22T20:29:47.008Z"
+    },
+    {
+      "id": "2df79f5d-2860-4f3e-8601-aa281c53f0fa",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:47.013Z"
+    },
+    {
+      "id": "ba19a504-2c44-43e6-93cc-d183c6454a0e",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108986913@example.com"
+      },
+      "created_at": "2026-09-22T20:29:47.071Z"
+    },
+    {
+      "id": "6cc71ea0-3831-4957-8b91-98848872ec06",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:47.078Z"
+    },
+    {
+      "id": "6431cc0a-990d-41dd-8b9d-1606a37acc51",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108986913@example.com"
+      },
+      "created_at": "2026-09-22T20:29:47.144Z"
+    },
+    {
+      "id": "e646ebe7-606c-497f-a3eb-b427e8b362c6",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:47.147Z"
+    },
+    {
+      "id": "86409f4f-dd1a-4e57-b546-52b7c6feeffe",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108986913@example.com"
+      },
+      "created_at": "2026-09-22T20:29:47.166Z"
+    },
+    {
+      "id": "0264a9a6-fad0-4d4a-a8b1-381b49cf5ee9",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:47.169Z"
+    },
+    {
+      "id": "392e617f-191c-4a83-b28e-b608915525dd",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108986913@example.com"
+      },
+      "created_at": "2026-09-22T20:29:47.188Z"
+    },
+    {
+      "id": "c1573205-13c3-4630-bd2d-ac73697fda1a",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:47.192Z"
+    },
+    {
+      "id": "c99c5a71-4a21-4c71-a825-8e800cf4691c",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108986913@example.com"
+      },
+      "created_at": "2026-09-22T20:29:47.221Z"
+    },
+    {
+      "id": "07ad489c-bbd5-45fe-94a1-c56b82a87bb0",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:47.224Z"
+    },
+    {
+      "id": "4566fd02-ebdc-4f75-ab71-be8ac36bb4b2",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108986913@example.com"
+      },
+      "created_at": "2026-09-22T20:29:47.252Z"
+    },
+    {
+      "id": "cf895c7c-28c6-4ca9-b502-8ee24abbc152",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:47.255Z"
+    },
+    {
+      "id": "03847af1-45c3-4797-9b46-7538e08f7c7e",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790108986913@example.com"
+      },
+      "created_at": "2026-09-22T20:29:47.278Z"
+    },
+    {
+      "id": "e11dfb39-e864-4d62-b8e7-0519c3db57d8",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:29:47.281Z"
+    },
+    {
+      "id": "07e7319e-8fe0-49cb-ad1f-158b4e8e2852",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T20:29:47.297Z"
+    },
+    {
+      "id": "4b45b1f6-b37e-480b-8d9c-83a0544c43fc",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T20:29:47.335Z"
+    },
+    {
+      "id": "df9f122a-60c1-4081-bacc-3d498d07a70a",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "MALICIOUS_UPLOAD_ATTEMPT",
+      "endpoint": "/api/upload",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "DISALLOWED_MIME_TYPE",
+      "metadata": {
+        "mimeType": "application/x-php",
+        "filename": "exploit.php"
+      },
+      "created_at": "2026-09-22T20:29:47.369Z"
+    },
+    {
+      "id": "542268d4-08ff-4908-b519-125a7fa214f2",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "SUSPICIOUS_UA",
+      "endpoint": "/api/products",
+      "method": "GET",
+      "user_agent": "sqlmap/1.5.2#stable",
+      "status_code": 403,
+      "request_count": 1,
+      "action": "BLOCKED_MALICIOUS_SCANNER",
+      "metadata": {
+        "matchedPattern": "/sqlmap/i"
+      },
+      "created_at": "2026-09-22T20:30:03.201Z"
+    },
+    {
+      "id": "5f2a36bb-f918-43ff-9644-c8a2a9e0c95a",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "ATTACK_DETECTED",
+      "endpoint": "/api/products?config=../../.env",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 400,
+      "request_count": 1,
+      "action": "BLOCKED_EXPLOIT_PAYLOAD",
+      "metadata": {
+        "matchedPattern": "/\\.\\.\\//"
+      },
+      "created_at": "2026-09-22T20:30:03.240Z"
+    },
+    {
+      "id": "2478b251-d1df-4498-b982-dbe3f7c71a9d",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "nonexistent_attacker_target_999@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.272Z"
+    },
+    {
+      "id": "3dfd6247-e48a-4506-a689-487b04b3c789",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.279Z"
+    },
+    {
+      "id": "5d553a5b-b3f5-4a3a-a642-24fb75bb2f63",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790109003321@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.328Z"
+    },
+    {
+      "id": "964172fa-f084-4101-82d0-d08dca68c977",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.332Z"
+    },
+    {
+      "id": "2f46a7c1-04b0-4b2c-81b5-6449aa81cdfc",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790109003321@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.351Z"
+    },
+    {
+      "id": "c710d964-aa23-41bc-8931-fa4f5ffe311b",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.355Z"
+    },
+    {
+      "id": "c3672afe-7ced-4bf5-a617-ff3b5c5ab4c2",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790109003321@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.376Z"
+    },
+    {
+      "id": "81002877-23e1-46f0-96ac-163f877aae44",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.380Z"
+    },
+    {
+      "id": "f9e7a485-3d44-419c-adfd-bac19a044d56",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790109003321@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.427Z"
+    },
+    {
+      "id": "fa32b757-a8aa-4631-b13a-eb2c162eded4",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.430Z"
+    },
+    {
+      "id": "244f2eda-7889-4517-877d-0912dbd74ef4",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790109003321@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.455Z"
+    },
+    {
+      "id": "f48c3935-c996-4e01-bd7a-7185d36debb1",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.459Z"
+    },
+    {
+      "id": "fc1b7e12-968d-4c93-91ba-6cf706f2b7b0",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790109003321@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.477Z"
+    },
+    {
+      "id": "04c9320d-c64a-44a4-a9d8-ae4c73a03e53",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.480Z"
+    },
+    {
+      "id": "e729cf87-7749-448b-aebd-fa3d9843d8ff",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790109003321@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.512Z"
+    },
+    {
+      "id": "d90fe378-436c-4169-a61b-7c0f717192f5",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.515Z"
+    },
+    {
+      "id": "b857848c-cb50-43bc-9f8c-086f9555b4fe",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790109003321@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.576Z"
+    },
+    {
+      "id": "65111b92-0ddf-4770-a03c-4274e5c59461",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.579Z"
+    },
+    {
+      "id": "5fb43293-6232-4cad-a29d-969667f018ff",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790109003321@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.618Z"
+    },
+    {
+      "id": "67001340-f3e3-408b-8a26-578a2fc6c3e0",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.621Z"
+    },
+    {
+      "id": "3451794b-9187-4f96-9f60-6634cfa1dde8",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "FAILED_LOGIN",
+      "endpoint": "",
+      "method": "GET",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "INVALID_CREDENTIALS",
+      "metadata": {
+        "email": "ratelimit_test_1790109003321@example.com"
+      },
+      "created_at": "2026-09-22T20:30:03.678Z"
+    },
+    {
+      "id": "5e7be031-d74e-47e0-bd64-585152225989",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "UNAUTHORIZED_ACCESS",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 401,
+      "request_count": 1,
+      "action": "Invalid email or password.",
+      "metadata": {},
+      "created_at": "2026-09-22T20:30:03.681Z"
+    },
+    {
+      "id": "ed55416f-b755-4bea-a304-2e641cae8129",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T20:30:03.732Z"
+    },
+    {
+      "id": "957ca933-66fb-46a2-8917-83bf03c1eb5c",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "RATE_LIMIT_EXCEEDED",
+      "endpoint": "/api/auth/login",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 429,
+      "request_count": 1,
+      "action": "RATE_LIMIT_LOGIN",
+      "metadata": {
+        "limiterType": "login"
+      },
+      "created_at": "2026-09-22T20:30:03.773Z"
+    },
+    {
+      "id": "3c1e142c-caa5-4fdb-9819-40a0167d3646",
+      "user_id": null,
+      "ip_address": "::ffff:127.0.0.1",
+      "event_type": "MALICIOUS_UPLOAD_ATTEMPT",
+      "endpoint": "/api/upload",
+      "method": "POST",
+      "user_agent": "",
+      "status_code": 200,
+      "request_count": 1,
+      "action": "DISALLOWED_MIME_TYPE",
+      "metadata": {
+        "mimeType": "application/x-php",
+        "filename": "exploit.php"
+      },
+      "created_at": "2026-09-22T20:30:03.838Z"
+    }
+  ],
+  "account_lockouts": [
+    {
+      "id": "736da584-6cdb-4bd8-9591-6a5af4226a63",
+      "email": "nonexistent_attacker_target_999@example.com",
+      "failed_attempts": 7,
+      "last_failed_at": "2026-09-22T20:30:03.270Z",
+      "locked_until": null,
+      "created_at": "2026-09-22T19:35:44.464Z",
+      "updated_at": "2026-09-22T20:30:03.270Z"
+    },
+    {
+      "id": "9560b063-67fa-4811-8d01-1a4c6a2b119b",
+      "email": "ratelimit_test_1790105744513@example.com",
+      "failed_attempts": 5,
+      "last_failed_at": "2026-09-22T19:35:44.670Z",
+      "locked_until": "2026-09-22T19:50:44.670Z",
+      "created_at": "2026-09-22T19:35:44.522Z",
+      "updated_at": "2026-09-22T19:35:44.672Z"
+    },
+    {
+      "id": "27c17cf6-b537-405a-8ec2-31dfd06250d7",
+      "email": "ratelimit_test_1790106049815@example.com",
+      "failed_attempts": 10,
+      "last_failed_at": "2026-09-22T19:40:50.113Z",
+      "locked_until": "2026-09-22T19:45:50.113Z",
+      "created_at": "2026-09-22T19:40:49.822Z",
+      "updated_at": "2026-09-22T19:40:50.114Z"
+    },
+    {
+      "id": "da729228-2818-450b-a015-55d8fe38375f",
+      "email": "ratelimit_test_1790106070282@example.com",
+      "failed_attempts": 10,
+      "last_failed_at": "2026-09-22T19:41:10.688Z",
+      "locked_until": null,
+      "created_at": "2026-09-22T19:41:10.290Z",
+      "updated_at": "2026-09-22T19:41:10.688Z"
+    },
+    {
+      "id": "1635a290-e7ab-4c9f-bef5-2e8ae6b36629",
+      "email": "ratelimit_test_1790108203177@example.com",
+      "failed_attempts": 10,
+      "last_failed_at": "2026-09-22T20:16:43.534Z",
+      "locked_until": null,
+      "created_at": "2026-09-22T20:16:43.184Z",
+      "updated_at": "2026-09-22T20:16:43.534Z"
+    },
+    {
+      "id": "e3ea98da-3f1f-409e-881e-d5285fa70418",
+      "email": "ratelimit_test_1790108876410@example.com",
+      "failed_attempts": 10,
+      "last_failed_at": "2026-09-22T20:27:56.658Z",
+      "locked_until": null,
+      "created_at": "2026-09-22T20:27:56.418Z",
+      "updated_at": "2026-09-22T20:27:56.658Z"
+    },
+    {
+      "id": "f5c01618-c92a-4571-bb0b-4ac1d04f7be9",
+      "email": "ratelimit_test_1790108986913@example.com",
+      "failed_attempts": 10,
+      "last_failed_at": "2026-09-22T20:29:47.277Z",
+      "locked_until": null,
+      "created_at": "2026-09-22T20:29:46.922Z",
+      "updated_at": "2026-09-22T20:29:47.277Z"
+    },
+    {
+      "id": "6fbb6782-9438-4075-a020-f18c04ee7703",
+      "email": "ratelimit_test_1790109003321@example.com",
+      "failed_attempts": 10,
+      "last_failed_at": "2026-09-22T20:30:03.677Z",
+      "locked_until": null,
+      "created_at": "2026-09-22T20:30:03.327Z",
+      "updated_at": "2026-09-22T20:30:03.677Z"
+    }
+  ]
+}
