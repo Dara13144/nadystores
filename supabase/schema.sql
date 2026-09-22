@@ -748,19 +748,28 @@ ALTER TABLE wallet_transactions ENABLE ROW LEVEL SECURITY;
 ALTER TABLE digital_stock ENABLE ROW LEVEL SECURITY;
 ALTER TABLE security_events ENABLE ROW LEVEL SECURITY;
 ALTER TABLE blocked_ips ENABLE ROW LEVEL SECURITY;
+ALTER TABLE products ENABLE ROW LEVEL SECURITY;
+ALTER TABLE categories ENABLE ROW LEVEL SECURITY;
 
 -- Anonymous / Service role public read on active products & categories
-ALTER TABLE products ENABLE ROW LEVEL SECURITY;
+DROP POLICY IF EXISTS "Public read active products" ON products;
 CREATE POLICY "Public read active products" ON products FOR SELECT USING (status = 'active');
-ALTER TABLE categories ENABLE ROW LEVEL SECURITY;
+
+DROP POLICY IF EXISTS "Public read active categories" ON categories;
 CREATE POLICY "Public read active categories" ON categories FOR SELECT USING (status = 'active');
 
 -- Users can view and manage their own orders & wallet
+DROP POLICY IF EXISTS "Users can view own orders" ON orders;
 CREATE POLICY "Users can view own orders" ON orders FOR SELECT USING (auth.uid()::text = user_id);
+
+DROP POLICY IF EXISTS "Users can view own wallet" ON wallets;
 CREATE POLICY "Users can view own wallet" ON wallets FOR SELECT USING (auth.uid()::text = user_id);
+
+DROP POLICY IF EXISTS "Users can view own transactions" ON wallet_transactions;
 CREATE POLICY "Users can view own transactions" ON wallet_transactions FOR SELECT USING (auth.uid()::text = user_id);
 
 -- Admin full access on security events
+DROP POLICY IF EXISTS "Admins full access on security_events" ON security_events;
 CREATE POLICY "Admins full access on security_events" ON security_events
     FOR ALL USING (
         EXISTS (SELECT 1 FROM users WHERE users.id = auth.uid()::text AND users.role IN ('admin', 'superadmin'))
