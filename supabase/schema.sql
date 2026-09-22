@@ -323,327 +323,327 @@ ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name;
 
 -- SEED PRODUCTS
 INSERT INTO products (id, name, slug, description, short_description, category_id, price, compare_price, currency, product_type, delivery_type, duration, image, gallery, stock_count, status, featured, popular, rating, reviews_count, is_digital, features, faq, created_at, updated_at)
-VALUES ('p_gemini_pro', 'Gemini AI Pro 18 Free Gift Cards', 'gemini-ai-pro', 'Google Gemini 1.5 Pro & Advanced VIP Bundle ជាមួយ 18 Free Gift Cards Included! សមត្ថភាពវិភាគកូដ, 1M+ Context Window, Multimodal Vision និងការឆ្លើយតបឆ្លាតវៃបំផុត។ ទទួលបានកូដកាដូ Gift Cards ចំនួន 18 សន្លឹកភ្លាមៗបន្ទាប់ពី Checkout ដោយស្វ័យប្រវត្តិ។', 'Gemini AI Pro 18 Free Gift Cards Bundle. 1M+ context window, deep reasoning & instant code delivery.', 'c3', 7.99, 24.99, 'USD', 'Gift Card', 'Automatic', '18 Free Gift Cards (1 Year VIP Access)', '/uploads/gemini-ai-pro-18-giftcards.png', '["/uploads/gemini-ai-pro-18-giftcards.png","https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800","https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800"]'::jsonb, 18, 'active', TRUE, TRUE, 5, 58, TRUE, '["18 Free Gift Cards / Redeem Activation Keys","Google Gemini 1.5 Pro & Advanced Intelligence","1 Million Token Context Window & Multimodal Vision","Python Workspace Execution & Deep Reasoning","Instant Automatic Delivery to Screen & Email"]'::jsonb, '[{"q":"How do I redeem my 18 Free Gift Cards?","a":"Each gift card key is delivered automatically to your screen and order history right after checkout. Simply click Reveal Credentials and apply the gift voucher code on the Google Gemini redeem portal."},{"q":"Are the gift cards stackable or shareable with friends?","a":"Yes! All 18 gift cards can be redeemed consecutively on your own account or shared individually with family and team members."},{"q":"Is delivery instant?","a":"Yes, our automated stock system dispatches your codes in less than 2 seconds!"}]'::jsonb, NOW(), NOW())
-ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
+VALUES ('p6', 'Gemini AI Pro 18 Free Gift Cards', 'gemini-ai-pro', 'Google Gemini 1.5 Pro & Advanced VIP Bundle ជាមួយ 18 Free Gift Cards Included! សមត្ថភាពវិភាគកូដ, 1M+ Context Window, Multimodal Vision និងការឆ្លើយតបឆ្លាតវៃបំផុត។ ទទួលបានកូដកាដូ Gift Cards ចំនួន 18 សន្លឹកភ្លាមៗបន្ទាប់ពី Checkout ដោយស្វ័យប្រវត្តិ។', 'Gemini AI Pro 18 Free Gift Cards Bundle. 1M+ context window, deep reasoning & instant code delivery.', 'c3', 7.99, 24.99, 'USD', 'Gift Card', 'Automatic', '18 Free Gift Cards (1 Year VIP Access)', '/uploads/gemini-ai-pro-18-giftcards.png', '["/uploads/gemini-ai-pro-18-giftcards.png","https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800","https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800"]'::jsonb, 18, 'active', TRUE, TRUE, 5, 58, TRUE, '["18 Free Gift Cards / Redeem Activation Keys","Google Gemini 1.5 Pro & Advanced Intelligence","1 Million Token Context Window & Multimodal Vision","Python Workspace Execution & Deep Reasoning","Instant Automatic Delivery to Screen & Email"]'::jsonb, '[{"q":"How do I redeem my 18 Free Gift Cards?","a":"Each gift card key is delivered automatically to your screen and order history right after checkout. Simply click Reveal Credentials and apply the gift voucher code on the Google Gemini redeem portal."},{"q":"Are the gift cards stackable or shareable with friends?","a":"Yes! All 18 gift cards can be redeemed consecutively on your own account or shared individually with family and team members."},{"q":"Is delivery instant?","a":"Yes, our automated stock system dispatches your codes in less than 2 seconds!"}]'::jsonb, NOW(), NOW())
+ON CONFLICT (slug) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
 INSERT INTO products (id, name, slug, description, short_description, category_id, price, compare_price, currency, product_type, delivery_type, duration, image, gallery, stock_count, status, featured, popular, rating, reviews_count, is_digital, features, faq, created_at, updated_at)
-VALUES ('p_capcut', 'CapCut Pro (Private Account)', 'capcut-pro', 'CapCut Pro Private Account សម្រាប់ Edit វីដេអូកម្រិតខ្ពស់។ Maximum login for 1 private account is 1 device. ទទួលបានគណនី Email + Password ភ្លាមៗបន្ទាប់ពីទូទាត់។', 'CapCut Pro Private Account - Maximum 1 device, instant delivery.', 'c2', 0.5, 1, 'USD', 'Account', 'Automatic', '1 Month', 'https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 4.9, 39, TRUE, '["Auto Captions VIP","Smooth Slow-Motion","All Pro Transitions","Instant Auto Delivery"]'::jsonb, '[{"q":"How many devices can login?","a":"Maximum 1 device per account."}]'::jsonb, NOW(), NOW())
-ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
+VALUES ('p1', 'CapCut Pro (Private Account)', 'capcut-pro', 'CapCut Pro Private Account សម្រាប់ Edit វីដេអូកម្រិតខ្ពស់។ Maximum login for 1 private account is 1 device. ទទួលបានគណនី Email + Password ភ្លាមៗបន្ទាប់ពីទូទាត់។', 'CapCut Pro Private Account - Maximum 1 device, instant delivery.', 'c2', 0.5, 1, 'USD', 'Account', 'Automatic', '1 Month', 'https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1574717024653-61fd2cf4d44d?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 4.9, 39, TRUE, '["Auto Captions VIP","Smooth Slow-Motion","All Pro Transitions","Instant Auto Delivery"]'::jsonb, '[{"q":"How many devices can login?","a":"Maximum 1 device per account."}]'::jsonb, NOW(), NOW())
+ON CONFLICT (slug) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
 INSERT INTO products (id, name, slug, description, short_description, category_id, price, compare_price, currency, product_type, delivery_type, duration, image, gallery, stock_count, status, featured, popular, rating, reviews_count, is_digital, features, faq, created_at, updated_at)
-VALUES ('p_youtube', 'YouTube Premium (Ad-Free + Background Play)', 'youtube-premium', 'គណនី YouTube Premium ថ្មី (New Account)។ អ្នកនឹងទទួលបាន Email + Password សម្រាប់ចូលប្រើប្រាស់។ គ្មានការរំខានដោយពាណិជ្ជកម្ម និង Background Play នៅពេលបិទអេក្រង់។', 'គណនី YouTube Premium ថ្មី (New Account) គ្មាន Ads និង Background Play.', 'c1', 1.5, 4.99, 'USD', 'Account', 'Automatic', '1 Month', 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 4.8, 48, TRUE, '["Ad-free videos","Play in background","YouTube Music Premium included","Instant Delivery"]'::jsonb, '[{"q":"Does it include YouTube Music?","a":"Yes, full YouTube Music Premium is included."}]'::jsonb, NOW(), NOW())
-ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
+VALUES ('p2', 'YouTube Premium (Ad-Free + Background Play)', 'youtube-premium', 'គណនី YouTube Premium ថ្មី (New Account)។ អ្នកនឹងទទួលបាន Email + Password សម្រាប់ចូលប្រើប្រាស់។ គ្មានការរំខានដោយពាណិជ្ជកម្ម និង Background Play នៅពេលបិទអេក្រង់។', 'គណនី YouTube Premium ថ្មី (New Account) គ្មាន Ads និង Background Play.', 'c1', 1.5, 4.99, 'USD', 'Account', 'Automatic', '1 Month', 'https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 4.8, 48, TRUE, '["Ad-free videos","Play in background","YouTube Music Premium included","Instant Delivery"]'::jsonb, '[{"q":"Does it include YouTube Music?","a":"Yes, full YouTube Music Premium is included."}]'::jsonb, NOW(), NOW())
+ON CONFLICT (slug) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
 INSERT INTO products (id, name, slug, description, short_description, category_id, price, compare_price, currency, product_type, delivery_type, duration, image, gallery, stock_count, status, featured, popular, rating, reviews_count, is_digital, features, faq, created_at, updated_at)
-VALUES ('p_netflix', 'Netflix Premium 4K UHD (Private Profile)', 'netflix-premium', 'បន្ទាប់ពីការទូទាត់ខ្ញុំនឹងផ្តល់ឱ្យ អ៊ីមែល និងពាក្យសម្ងាត់ ដូច្នេះអ្នកអាចចូលបាន។ ធានាពេញមួយខែជាមួយ Private PIN Profile ផ្ទាល់ខ្លួន 4K Ultra HD.', 'Private 4K profile with personal PIN. Instant credentials & full warranty.', 'c1', 2.5, 9.99, 'USD', 'Account', 'Automatic', '1 Month', 'https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 5, 52, TRUE, '["Ultra HD 4K & Spatial Audio","Private dedicated profile & PIN","Works on TV, Mobile, PC","Full Month Warranty"]'::jsonb, '[{"q":"Can I change my profile PIN?","a":"Yes, you can set your own 4-digit PIN."}]'::jsonb, NOW(), NOW())
-ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
+VALUES ('p3', 'Netflix Premium 4K UHD (Private Profile)', 'netflix-premium', 'បន្ទាប់ពីការទូទាត់ខ្ញុំនឹងផ្តល់ឱ្យ អ៊ីមែល និងពាក្យសម្ងាត់ ដូច្នេះអ្នកអាចចូលបាន។ ធានាពេញមួយខែជាមួយ Private PIN Profile ផ្ទាល់ខ្លួន 4K Ultra HD.', 'Private 4K profile with personal PIN. Instant credentials & full warranty.', 'c1', 2.5, 9.99, 'USD', 'Account', 'Automatic', '1 Month', 'https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 5, 52, TRUE, '["Ultra HD 4K & Spatial Audio","Private dedicated profile & PIN","Works on TV, Mobile, PC","Full Month Warranty"]'::jsonb, '[{"q":"Can I change my profile PIN?","a":"Yes, you can set your own 4-digit PIN."}]'::jsonb, NOW(), NOW())
+ON CONFLICT (slug) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
 INSERT INTO products (id, name, slug, description, short_description, category_id, price, compare_price, currency, product_type, delivery_type, duration, image, gallery, stock_count, status, featured, popular, rating, reviews_count, is_digital, features, faq, created_at, updated_at)
-VALUES ('p_canva', 'Canva Pro (EDU / Pro Lifetime)', 'canva-pro', 'រីករាយជាមួយលក្ខណៈពិសេស Canva Pro & EDU។ Brand Kits, Background Remover, Magic Eraser, និង Premium templates រាប់លាន។', 'Full Canva Pro design perks, brand kit, background remover.', 'c2', 0.5, 2, 'USD', 'Subscription', 'Automatic', '1 Year', 'https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 4.7, 26, TRUE, '["100M+ Premium Stock Photos","Instant Background Remover","Magic Switch AI Tools","Instant Activation"]'::jsonb, '[{"q":"Can I use my existing Canva account?","a":"Yes, an invite link is provided to join the Pro team."}]'::jsonb, NOW(), NOW())
-ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
+VALUES ('p4', 'Canva Pro (EDU / Pro Lifetime)', 'canva-pro', 'រីករាយជាមួយលក្ខណៈពិសេស Canva Pro & EDU។ Brand Kits, Background Remover, Magic Eraser, និង Premium templates រាប់លាន។', 'Full Canva Pro design perks, brand kit, background remover.', 'c2', 0.5, 2, 'USD', 'Subscription', 'Automatic', '1 Year', 'https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1626785774573-4b799315345d?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 4.7, 26, TRUE, '["100M+ Premium Stock Photos","Instant Background Remover","Magic Switch AI Tools","Instant Activation"]'::jsonb, '[{"q":"Can I use my existing Canva account?","a":"Yes, an invite link is provided to join the Pro team."}]'::jsonb, NOW(), NOW())
+ON CONFLICT (slug) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
 INSERT INTO products (id, name, slug, description, short_description, category_id, price, compare_price, currency, product_type, delivery_type, duration, image, gallery, stock_count, status, featured, popular, rating, reviews_count, is_digital, features, faq, created_at, updated_at)
-VALUES ('p_alight', 'Alight Motion Premium VIP', 'alight-motion-premium', 'Alight Motion Premium គ្មាន Watermark, គាំទ្រ XML Presets និង Motion Graphics លំដាប់ខ្ពស់។', 'No watermark, export 4K 60FPS, XML presets supported.', 'c2', 2.99, 5.99, 'USD', 'Account', 'Automatic', '1 Year', 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', FALSE, TRUE, 4.8, 14, TRUE, '["No watermark on export","Full XML preset import","Vector graphics support","Instant Delivery"]'::jsonb, '[]'::jsonb, NOW(), NOW())
-ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
+VALUES ('p5', 'Alight Motion Premium VIP', 'alight-motion-premium', 'Alight Motion Premium គ្មាន Watermark, គាំទ្រ XML Presets និង Motion Graphics លំដាប់ខ្ពស់។', 'No watermark, export 4K 60FPS, XML presets supported.', 'c2', 2.99, 5.99, 'USD', 'Account', 'Automatic', '1 Year', 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', FALSE, TRUE, 4.8, 14, TRUE, '["No watermark on export","Full XML preset import","Vector graphics support","Instant Delivery"]'::jsonb, '[]'::jsonb, NOW(), NOW())
+ON CONFLICT (slug) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
 INSERT INTO products (id, name, slug, description, short_description, category_id, price, compare_price, currency, product_type, delivery_type, duration, image, gallery, stock_count, status, featured, popular, rating, reviews_count, is_digital, features, faq, created_at, updated_at)
-VALUES ('p_vpn', 'VPN Nord (2-Year Ultra Security)', 'vpn-nord', 'VPN Nord AES-256 encryption, 6400+ high-speed servers in 111 countries, Threat Protection, and zero logs.', 'Military AES-256 encryption, 6400+ global servers, zero logs.', 'c4', 1.5, 3.5, 'USD', 'Account', 'Automatic', '1 Month', 'https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', FALSE, TRUE, 4.9, 31, TRUE, '["Connect on PC, Android, iOS","Zero logs audited","Unblock any geo-restriction","Instant delivery"]'::jsonb, '[]'::jsonb, NOW(), NOW())
-ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
+VALUES ('p10', 'VPN Nord (2-Year Ultra Security)', 'vpn-nord', 'VPN Nord AES-256 encryption, 6400+ high-speed servers in 111 countries, Threat Protection, and zero logs.', 'Military AES-256 encryption, 6400+ global servers, zero logs.', 'c4', 1.5, 3.5, 'USD', 'Account', 'Automatic', '1 Month', 'https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1563986768609-322da13575f3?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', FALSE, TRUE, 4.9, 31, TRUE, '["Connect on PC, Android, iOS","Zero logs audited","Unblock any geo-restriction","Instant delivery"]'::jsonb, '[]'::jsonb, NOW(), NOW())
+ON CONFLICT (slug) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
 INSERT INTO products (id, name, slug, description, short_description, category_id, price, compare_price, currency, product_type, delivery_type, duration, image, gallery, stock_count, status, featured, popular, rating, reviews_count, is_digital, features, faq, created_at, updated_at)
-VALUES ('p_spotify', 'Spotify Premium Individual', 'spotify-premium', 'Ad-free 320kbps extreme audio streaming, offline song downloads, and unlimited skips on mobile and desktop.', 'Zero ads, unlimited skips, offline song downloads.', 'c5', 2.5, 6.99, 'USD', 'Subscription', 'Automatic', '3 Months', 'https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 4.8, 42, TRUE, '["Zero advertisements","320kbps Extreme audio","Offline song cache","Direct account activation"]'::jsonb, '[]'::jsonb, NOW(), NOW())
-ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
+VALUES ('p11', 'Spotify Premium Individual', 'spotify-premium', 'Ad-free 320kbps extreme audio streaming, offline song downloads, and unlimited skips on mobile and desktop.', 'Zero ads, unlimited skips, offline song downloads.', 'c5', 2.5, 6.99, 'USD', 'Subscription', 'Automatic', '3 Months', 'https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1614680376593-902f749f7ffc?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 4.8, 42, TRUE, '["Zero advertisements","320kbps Extreme audio","Offline song cache","Direct account activation"]'::jsonb, '[]'::jsonb, NOW(), NOW())
+ON CONFLICT (slug) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
 INSERT INTO products (id, name, slug, description, short_description, category_id, price, compare_price, currency, product_type, delivery_type, duration, image, gallery, stock_count, status, featured, popular, rating, reviews_count, is_digital, features, faq, created_at, updated_at)
-VALUES ('p_discord', 'Discord Nitro 1-Year Full Gift Link', 'discord-nitro', 'Discord Nitro with 2 Server Boosts, 500MB upload limits, custom emojis anywhere, and 4K 60FPS streaming.', '2 Server boosts, 500MB uploads, HD streaming & custom emojis.', 'c6', 4.99, 9.99, 'USD', 'Gift Card', 'Automatic', '1 Month', 'https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 4.9, 29, TRUE, '["Direct gift link redemption","2 Server Boosts included","Custom emojis globally","Instant automatic delivery"]'::jsonb, '[]'::jsonb, NOW(), NOW())
-ON CONFLICT (id) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
+VALUES ('p12', 'Discord Nitro 1-Year Full Gift Link', 'discord-nitro', 'Discord Nitro with 2 Server Boosts, 500MB upload limits, custom emojis anywhere, and 4K 60FPS streaming.', '2 Server boosts, 500MB uploads, HD streaming & custom emojis.', 'c6', 4.99, 9.99, 'USD', 'Gift Card', 'Automatic', '1 Month', 'https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=600&auto=format&fit=crop', '["https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?w=600&auto=format&fit=crop"]'::jsonb, 10, 'active', TRUE, TRUE, 4.9, 29, TRUE, '["Direct gift link redemption","2 Server Boosts included","Custom emojis globally","Instant automatic delivery"]'::jsonb, '[]'::jsonb, NOW(), NOW())
+ON CONFLICT (slug) DO UPDATE SET name = EXCLUDED.name, price = EXCLUDED.price, image = EXCLUDED.image, stock_count = EXCLUDED.stock_count;
 
 -- SEED DIGITAL STOCK
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_1', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-1000-1X9W | PIN: 1100', 'Gift Card', 'sold', NOW())
+VALUES ('s_gemini_1', 'p6', 'GEMINI-PRO-18GIFT-1000-1X9W | PIN: 1100', 'Gift Card', 'sold', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_2', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-1473-I0T7 | PIN: 1107', 'Gift Card', 'sold', NOW())
+VALUES ('s_gemini_2', 'p6', 'GEMINI-PRO-18GIFT-1473-I0T7 | PIN: 1107', 'Gift Card', 'sold', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_3', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-1946-029J | PIN: 1114', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_3', 'p6', 'GEMINI-PRO-18GIFT-1946-029J | PIN: 1114', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_4', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-2419-YZ00 | PIN: 1121', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_4', 'p6', 'GEMINI-PRO-18GIFT-2419-YZ00 | PIN: 1121', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_5', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-2892-8IMA | PIN: 1128', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_5', 'p6', 'GEMINI-PRO-18GIFT-2892-8IMA | PIN: 1128', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_6', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-3365-FVW8 | PIN: 1135', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_6', 'p6', 'GEMINI-PRO-18GIFT-3365-FVW8 | PIN: 1135', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_7', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-3838-WO94 | PIN: 1142', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_7', 'p6', 'GEMINI-PRO-18GIFT-3838-WO94 | PIN: 1142', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_8', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-4311-DN2V | PIN: 1149', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_8', 'p6', 'GEMINI-PRO-18GIFT-4311-DN2V | PIN: 1149', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_9', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-4784-98XN | PIN: 1156', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_9', 'p6', 'GEMINI-PRO-18GIFT-4784-98XN | PIN: 1156', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_10', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-5257-KAAV | PIN: 1163', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_10', 'p6', 'GEMINI-PRO-18GIFT-5257-KAAV | PIN: 1163', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_11', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-5730-GVV3 | PIN: 1170', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_11', 'p6', 'GEMINI-PRO-18GIFT-5730-GVV3 | PIN: 1170', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_12', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-6203-8OB8 | PIN: 1177', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_12', 'p6', 'GEMINI-PRO-18GIFT-6203-8OB8 | PIN: 1177', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_13', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-6676-MSU5 | PIN: 1184', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_13', 'p6', 'GEMINI-PRO-18GIFT-6676-MSU5 | PIN: 1184', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_14', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-7149-I1VI | PIN: 1191', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_14', 'p6', 'GEMINI-PRO-18GIFT-7149-I1VI | PIN: 1191', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_15', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-7622-DSG1 | PIN: 1198', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_15', 'p6', 'GEMINI-PRO-18GIFT-7622-DSG1 | PIN: 1198', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_16', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-8095-BHWN | PIN: 1205', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_16', 'p6', 'GEMINI-PRO-18GIFT-8095-BHWN | PIN: 1205', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_17', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-8568-D9CQ | PIN: 1212', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_17', 'p6', 'GEMINI-PRO-18GIFT-8568-D9CQ | PIN: 1212', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_gemini_18', 'p_gemini_pro', 'GEMINI-PRO-18GIFT-9041-CTB1 | PIN: 1219', 'Gift Card', 'available', NOW())
+VALUES ('s_gemini_18', 'p6', 'GEMINI-PRO-18GIFT-9041-CTB1 | PIN: 1219', 'Gift Card', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_capcut_1', 'p_capcut', 'capcut.user1@streamvault.co|CapCutPass#3000', 'Account', 'available', NOW())
+VALUES ('s_capcut_1', 'p1', 'capcut.user1@streamvault.co|CapCutPass#3000', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_capcut_2', 'p_capcut', 'capcut.user2@streamvault.co|CapCutPass#3019', 'Account', 'available', NOW())
+VALUES ('s_capcut_2', 'p1', 'capcut.user2@streamvault.co|CapCutPass#3019', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_capcut_3', 'p_capcut', 'capcut.user3@streamvault.co|CapCutPass#3038', 'Account', 'available', NOW())
+VALUES ('s_capcut_3', 'p1', 'capcut.user3@streamvault.co|CapCutPass#3038', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_capcut_4', 'p_capcut', 'capcut.user4@streamvault.co|CapCutPass#3057', 'Account', 'available', NOW())
+VALUES ('s_capcut_4', 'p1', 'capcut.user4@streamvault.co|CapCutPass#3057', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_capcut_5', 'p_capcut', 'capcut.user5@streamvault.co|CapCutPass#3076', 'Account', 'available', NOW())
+VALUES ('s_capcut_5', 'p1', 'capcut.user5@streamvault.co|CapCutPass#3076', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_capcut_6', 'p_capcut', 'capcut.user6@streamvault.co|CapCutPass#3095', 'Account', 'available', NOW())
+VALUES ('s_capcut_6', 'p1', 'capcut.user6@streamvault.co|CapCutPass#3095', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_capcut_7', 'p_capcut', 'capcut.user7@streamvault.co|CapCutPass#3114', 'Account', 'available', NOW())
+VALUES ('s_capcut_7', 'p1', 'capcut.user7@streamvault.co|CapCutPass#3114', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_capcut_8', 'p_capcut', 'capcut.user8@streamvault.co|CapCutPass#3133', 'Account', 'available', NOW())
+VALUES ('s_capcut_8', 'p1', 'capcut.user8@streamvault.co|CapCutPass#3133', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_capcut_9', 'p_capcut', 'capcut.user9@streamvault.co|CapCutPass#3152', 'Account', 'available', NOW())
+VALUES ('s_capcut_9', 'p1', 'capcut.user9@streamvault.co|CapCutPass#3152', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_capcut_10', 'p_capcut', 'capcut.user10@streamvault.co|CapCutPass#3171', 'Account', 'available', NOW())
+VALUES ('s_capcut_10', 'p1', 'capcut.user10@streamvault.co|CapCutPass#3171', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_yt_1', 'p_youtube', 'yt.premium1@cloudpass.io|StreamVideo$800', 'Account', 'available', NOW())
+VALUES ('s_yt_1', 'p2', 'yt.premium1@cloudpass.io|StreamVideo$800', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_yt_2', 'p_youtube', 'yt.premium2@cloudpass.io|StreamVideo$811', 'Account', 'available', NOW())
+VALUES ('s_yt_2', 'p2', 'yt.premium2@cloudpass.io|StreamVideo$811', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_yt_3', 'p_youtube', 'yt.premium3@cloudpass.io|StreamVideo$822', 'Account', 'available', NOW())
+VALUES ('s_yt_3', 'p2', 'yt.premium3@cloudpass.io|StreamVideo$822', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_yt_4', 'p_youtube', 'yt.premium4@cloudpass.io|StreamVideo$833', 'Account', 'available', NOW())
+VALUES ('s_yt_4', 'p2', 'yt.premium4@cloudpass.io|StreamVideo$833', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_yt_5', 'p_youtube', 'yt.premium5@cloudpass.io|StreamVideo$844', 'Account', 'available', NOW())
+VALUES ('s_yt_5', 'p2', 'yt.premium5@cloudpass.io|StreamVideo$844', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_yt_6', 'p_youtube', 'yt.premium6@cloudpass.io|StreamVideo$855', 'Account', 'available', NOW())
+VALUES ('s_yt_6', 'p2', 'yt.premium6@cloudpass.io|StreamVideo$855', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_yt_7', 'p_youtube', 'yt.premium7@cloudpass.io|StreamVideo$866', 'Account', 'available', NOW())
+VALUES ('s_yt_7', 'p2', 'yt.premium7@cloudpass.io|StreamVideo$866', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_yt_8', 'p_youtube', 'yt.premium8@cloudpass.io|StreamVideo$877', 'Account', 'available', NOW())
+VALUES ('s_yt_8', 'p2', 'yt.premium8@cloudpass.io|StreamVideo$877', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_yt_9', 'p_youtube', 'yt.premium9@cloudpass.io|StreamVideo$888', 'Account', 'available', NOW())
+VALUES ('s_yt_9', 'p2', 'yt.premium9@cloudpass.io|StreamVideo$888', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_yt_10', 'p_youtube', 'yt.premium10@cloudpass.io|StreamVideo$899', 'Account', 'available', NOW())
+VALUES ('s_yt_10', 'p2', 'yt.premium10@cloudpass.io|StreamVideo$899', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_net_1', 'p_netflix', 'net.vip1@streamvault.co|CinemaPass#4000|Profile: 1 (PIN: 1000)', 'Account', 'available', NOW())
+VALUES ('s_net_1', 'p3', 'net.vip1@streamvault.co|CinemaPass#4000|Profile: 1 (PIN: 1000)', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_net_2', 'p_netflix', 'net.vip2@streamvault.co|CinemaPass#4023|Profile: 2 (PIN: 1073)', 'Account', 'available', NOW())
+VALUES ('s_net_2', 'p3', 'net.vip2@streamvault.co|CinemaPass#4023|Profile: 2 (PIN: 1073)', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_net_3', 'p_netflix', 'net.vip3@streamvault.co|CinemaPass#4046|Profile: 3 (PIN: 1146)', 'Account', 'available', NOW())
+VALUES ('s_net_3', 'p3', 'net.vip3@streamvault.co|CinemaPass#4046|Profile: 3 (PIN: 1146)', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_net_4', 'p_netflix', 'net.vip4@streamvault.co|CinemaPass#4069|Profile: 4 (PIN: 1219)', 'Account', 'available', NOW())
+VALUES ('s_net_4', 'p3', 'net.vip4@streamvault.co|CinemaPass#4069|Profile: 4 (PIN: 1219)', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_net_5', 'p_netflix', 'net.vip5@streamvault.co|CinemaPass#4092|Profile: 1 (PIN: 1292)', 'Account', 'available', NOW())
+VALUES ('s_net_5', 'p3', 'net.vip5@streamvault.co|CinemaPass#4092|Profile: 1 (PIN: 1292)', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_net_6', 'p_netflix', 'net.vip6@streamvault.co|CinemaPass#4115|Profile: 2 (PIN: 1365)', 'Account', 'available', NOW())
+VALUES ('s_net_6', 'p3', 'net.vip6@streamvault.co|CinemaPass#4115|Profile: 2 (PIN: 1365)', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_net_7', 'p_netflix', 'net.vip7@streamvault.co|CinemaPass#4138|Profile: 3 (PIN: 1438)', 'Account', 'available', NOW())
+VALUES ('s_net_7', 'p3', 'net.vip7@streamvault.co|CinemaPass#4138|Profile: 3 (PIN: 1438)', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_net_8', 'p_netflix', 'net.vip8@streamvault.co|CinemaPass#4161|Profile: 4 (PIN: 1511)', 'Account', 'available', NOW())
+VALUES ('s_net_8', 'p3', 'net.vip8@streamvault.co|CinemaPass#4161|Profile: 4 (PIN: 1511)', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_net_9', 'p_netflix', 'net.vip9@streamvault.co|CinemaPass#4184|Profile: 1 (PIN: 1584)', 'Account', 'available', NOW())
+VALUES ('s_net_9', 'p3', 'net.vip9@streamvault.co|CinemaPass#4184|Profile: 1 (PIN: 1584)', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_net_10', 'p_netflix', 'net.vip10@streamvault.co|CinemaPass#4207|Profile: 2 (PIN: 1657)', 'Account', 'available', NOW())
+VALUES ('s_net_10', 'p3', 'net.vip10@streamvault.co|CinemaPass#4207|Profile: 2 (PIN: 1657)', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_canva_1', 'p_canva', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8000-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_canva_1', 'p4', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8000-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_canva_2', 'p_canva', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8037-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_canva_2', 'p4', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8037-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_canva_3', 'p_canva', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8074-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_canva_3', 'p4', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8074-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_canva_4', 'p_canva', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8111-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_canva_4', 'p4', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8111-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_canva_5', 'p_canva', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8148-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_canva_5', 'p4', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8148-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_canva_6', 'p_canva', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8185-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_canva_6', 'p4', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8185-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_canva_7', 'p_canva', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8222-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_canva_7', 'p4', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8222-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_canva_8', 'p_canva', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8259-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_canva_8', 'p4', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8259-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_canva_9', 'p_canva', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8296-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_canva_9', 'p4', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8296-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_canva_10', 'p_canva', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8333-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_canva_10', 'p4', 'https://www.canva.com/brand/join?token=CNV-PRO-INVITE-8333-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_alight_1', 'p_alight', 'alight.vip1@streamvault.co|MotionDesign#90', 'Account', 'available', NOW())
+VALUES ('s_alight_1', 'p5', 'alight.vip1@streamvault.co|MotionDesign#90', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_alight_2', 'p_alight', 'alight.vip2@streamvault.co|MotionDesign#91', 'Account', 'available', NOW())
+VALUES ('s_alight_2', 'p5', 'alight.vip2@streamvault.co|MotionDesign#91', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_alight_3', 'p_alight', 'alight.vip3@streamvault.co|MotionDesign#92', 'Account', 'available', NOW())
+VALUES ('s_alight_3', 'p5', 'alight.vip3@streamvault.co|MotionDesign#92', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_alight_4', 'p_alight', 'alight.vip4@streamvault.co|MotionDesign#93', 'Account', 'available', NOW())
+VALUES ('s_alight_4', 'p5', 'alight.vip4@streamvault.co|MotionDesign#93', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_alight_5', 'p_alight', 'alight.vip5@streamvault.co|MotionDesign#94', 'Account', 'available', NOW())
+VALUES ('s_alight_5', 'p5', 'alight.vip5@streamvault.co|MotionDesign#94', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_alight_6', 'p_alight', 'alight.vip6@streamvault.co|MotionDesign#95', 'Account', 'available', NOW())
+VALUES ('s_alight_6', 'p5', 'alight.vip6@streamvault.co|MotionDesign#95', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_alight_7', 'p_alight', 'alight.vip7@streamvault.co|MotionDesign#96', 'Account', 'available', NOW())
+VALUES ('s_alight_7', 'p5', 'alight.vip7@streamvault.co|MotionDesign#96', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_alight_8', 'p_alight', 'alight.vip8@streamvault.co|MotionDesign#97', 'Account', 'available', NOW())
+VALUES ('s_alight_8', 'p5', 'alight.vip8@streamvault.co|MotionDesign#97', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_alight_9', 'p_alight', 'alight.vip9@streamvault.co|MotionDesign#98', 'Account', 'available', NOW())
+VALUES ('s_alight_9', 'p5', 'alight.vip9@streamvault.co|MotionDesign#98', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_alight_10', 'p_alight', 'alight.vip10@streamvault.co|MotionDesign#99', 'Account', 'available', NOW())
+VALUES ('s_alight_10', 'p5', 'alight.vip10@streamvault.co|MotionDesign#99', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_vpn_1', 'p_vpn', 'vpn.nord.pro1@safezone.org|NordUltraSecure#500', 'Account', 'available', NOW())
+VALUES ('s_vpn_1', 'p10', 'vpn.nord.pro1@safezone.org|NordUltraSecure#500', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_vpn_2', 'p_vpn', 'vpn.nord.pro2@safezone.org|NordUltraSecure#513', 'Account', 'available', NOW())
+VALUES ('s_vpn_2', 'p10', 'vpn.nord.pro2@safezone.org|NordUltraSecure#513', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_vpn_3', 'p_vpn', 'vpn.nord.pro3@safezone.org|NordUltraSecure#526', 'Account', 'available', NOW())
+VALUES ('s_vpn_3', 'p10', 'vpn.nord.pro3@safezone.org|NordUltraSecure#526', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_vpn_4', 'p_vpn', 'vpn.nord.pro4@safezone.org|NordUltraSecure#539', 'Account', 'available', NOW())
+VALUES ('s_vpn_4', 'p10', 'vpn.nord.pro4@safezone.org|NordUltraSecure#539', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_vpn_5', 'p_vpn', 'vpn.nord.pro5@safezone.org|NordUltraSecure#552', 'Account', 'available', NOW())
+VALUES ('s_vpn_5', 'p10', 'vpn.nord.pro5@safezone.org|NordUltraSecure#552', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_vpn_6', 'p_vpn', 'vpn.nord.pro6@safezone.org|NordUltraSecure#565', 'Account', 'available', NOW())
+VALUES ('s_vpn_6', 'p10', 'vpn.nord.pro6@safezone.org|NordUltraSecure#565', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_vpn_7', 'p_vpn', 'vpn.nord.pro7@safezone.org|NordUltraSecure#578', 'Account', 'available', NOW())
+VALUES ('s_vpn_7', 'p10', 'vpn.nord.pro7@safezone.org|NordUltraSecure#578', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_vpn_8', 'p_vpn', 'vpn.nord.pro8@safezone.org|NordUltraSecure#591', 'Account', 'available', NOW())
+VALUES ('s_vpn_8', 'p10', 'vpn.nord.pro8@safezone.org|NordUltraSecure#591', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_vpn_9', 'p_vpn', 'vpn.nord.pro9@safezone.org|NordUltraSecure#604', 'Account', 'available', NOW())
+VALUES ('s_vpn_9', 'p10', 'vpn.nord.pro9@safezone.org|NordUltraSecure#604', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_vpn_10', 'p_vpn', 'vpn.nord.pro10@safezone.org|NordUltraSecure#617', 'Account', 'available', NOW())
+VALUES ('s_vpn_10', 'p10', 'vpn.nord.pro10@safezone.org|NordUltraSecure#617', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_spot_1', 'p_spotify', 'spot.vip1@tuneshub.me|AudioKing#700', 'Account', 'available', NOW())
+VALUES ('s_spot_1', 'p11', 'spot.vip1@tuneshub.me|AudioKing#700', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_spot_2', 'p_spotify', 'spot.vip2@tuneshub.me|AudioKing#717', 'Account', 'available', NOW())
+VALUES ('s_spot_2', 'p11', 'spot.vip2@tuneshub.me|AudioKing#717', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_spot_3', 'p_spotify', 'spot.vip3@tuneshub.me|AudioKing#734', 'Account', 'available', NOW())
+VALUES ('s_spot_3', 'p11', 'spot.vip3@tuneshub.me|AudioKing#734', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_spot_4', 'p_spotify', 'spot.vip4@tuneshub.me|AudioKing#751', 'Account', 'available', NOW())
+VALUES ('s_spot_4', 'p11', 'spot.vip4@tuneshub.me|AudioKing#751', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_spot_5', 'p_spotify', 'spot.vip5@tuneshub.me|AudioKing#768', 'Account', 'available', NOW())
+VALUES ('s_spot_5', 'p11', 'spot.vip5@tuneshub.me|AudioKing#768', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_spot_6', 'p_spotify', 'spot.vip6@tuneshub.me|AudioKing#785', 'Account', 'available', NOW())
+VALUES ('s_spot_6', 'p11', 'spot.vip6@tuneshub.me|AudioKing#785', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_spot_7', 'p_spotify', 'spot.vip7@tuneshub.me|AudioKing#802', 'Account', 'available', NOW())
+VALUES ('s_spot_7', 'p11', 'spot.vip7@tuneshub.me|AudioKing#802', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_spot_8', 'p_spotify', 'spot.vip8@tuneshub.me|AudioKing#819', 'Account', 'available', NOW())
+VALUES ('s_spot_8', 'p11', 'spot.vip8@tuneshub.me|AudioKing#819', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_spot_9', 'p_spotify', 'spot.vip9@tuneshub.me|AudioKing#836', 'Account', 'available', NOW())
+VALUES ('s_spot_9', 'p11', 'spot.vip9@tuneshub.me|AudioKing#836', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_spot_10', 'p_spotify', 'spot.vip10@tuneshub.me|AudioKing#853', 'Account', 'available', NOW())
+VALUES ('s_spot_10', 'p11', 'spot.vip10@tuneshub.me|AudioKing#853', 'Account', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_disc_1', 'p_discord', 'https://discord.gift/NITRO-18GIFT-1000-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_disc_1', 'p12', 'https://discord.gift/NITRO-18GIFT-1000-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_disc_2', 'p_discord', 'https://discord.gift/NITRO-18GIFT-1049-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_disc_2', 'p12', 'https://discord.gift/NITRO-18GIFT-1049-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_disc_3', 'p_discord', 'https://discord.gift/NITRO-18GIFT-1098-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_disc_3', 'p12', 'https://discord.gift/NITRO-18GIFT-1098-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_disc_4', 'p_discord', 'https://discord.gift/NITRO-18GIFT-1147-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_disc_4', 'p12', 'https://discord.gift/NITRO-18GIFT-1147-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_disc_5', 'p_discord', 'https://discord.gift/NITRO-18GIFT-1196-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_disc_5', 'p12', 'https://discord.gift/NITRO-18GIFT-1196-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_disc_6', 'p_discord', 'https://discord.gift/NITRO-18GIFT-1245-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_disc_6', 'p12', 'https://discord.gift/NITRO-18GIFT-1245-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_disc_7', 'p_discord', 'https://discord.gift/NITRO-18GIFT-1294-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_disc_7', 'p12', 'https://discord.gift/NITRO-18GIFT-1294-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_disc_8', 'p_discord', 'https://discord.gift/NITRO-18GIFT-1343-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_disc_8', 'p12', 'https://discord.gift/NITRO-18GIFT-1343-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_disc_9', 'p_discord', 'https://discord.gift/NITRO-18GIFT-1392-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_disc_9', 'p12', 'https://discord.gift/NITRO-18GIFT-1392-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 INSERT INTO digital_stock (id, product_id, value, type, status, created_at)
-VALUES ('s_disc_10', 'p_discord', 'https://discord.gift/NITRO-18GIFT-1441-SHIRYU', 'Link', 'available', NOW())
+VALUES ('s_disc_10', 'p12', 'https://discord.gift/NITRO-18GIFT-1441-SHIRYU', 'Link', 'available', NOW())
 ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 
 -- SEED WALLETS
@@ -673,19 +673,19 @@ ON CONFLICT (id) DO NOTHING;
 
 -- SEED REVIEWS
 INSERT INTO reviews (id, product_id, user_name, rating, comment, verified_purchase, created_at)
-VALUES ('r1', 'p_netflix', 'Sophea K.', 5, 'ទិញ Netflix 4K បានភ្លាមៗ ស្កេន Bakong KHQR ចប់ចេញ Credentials លើ Screen ភ្លាម។ សេវាកម្មរហ័ស 100%!', TRUE, NOW())
+VALUES ('r1', 'p3', 'Sophea K.', 5, 'ទិញ Netflix 4K បានភ្លាមៗ ស្កេន Bakong KHQR ចប់ចេញ Credentials លើ Screen ភ្លាម។ សេវាកម្មរហ័ស 100%!', TRUE, NOW())
 ON CONFLICT (id) DO NOTHING;
 INSERT INTO reviews (id, product_id, user_name, rating, comment, verified_purchase, created_at)
-VALUES ('r2', 'p_capcut', 'Mengly T.', 5, 'CapCut Pro $0.50 ប្រើបានពេញ 1 ខែ ស្រួលកាត់ត Video ខ្លាំងណាស់!', TRUE, NOW())
+VALUES ('r2', 'p1', 'Mengly T.', 5, 'CapCut Pro $0.50 ប្រើបានពេញ 1 ខែ ស្រួលកាត់ត Video ខ្លាំងណាស់!', TRUE, NOW())
 ON CONFLICT (id) DO NOTHING;
 INSERT INTO reviews (id, product_id, user_name, rating, comment, verified_purchase, created_at)
-VALUES ('r3', 'p_gemini_pro', 'Rithy V.', 5, 'Gemini AI Pro 18 Free Gift Cards ប្រើបានពិតៗ ទទួលបានកូដភ្លាមៗបន្ទាប់ពីបង់ប្រាក់! លឿនណាស់!', TRUE, NOW())
+VALUES ('r3', 'p6', 'Rithy V.', 5, 'Gemini AI Pro 18 Free Gift Cards ប្រើបានពិតៗ ទទួលបានកូដភ្លាមៗបន្ទាប់ពីបង់ប្រាក់! លឿនណាស់!', TRUE, NOW())
 ON CONFLICT (id) DO NOTHING;
 INSERT INTO reviews (id, product_id, user_name, rating, comment, verified_purchase, created_at)
-VALUES ('r4', 'p_youtube', 'Channa P.', 5, 'YouTube Premium គ្មាន Ads ស្រួលស្ដាប់ភ្លេង Background Play ណាស់!', TRUE, NOW())
+VALUES ('r4', 'p2', 'Channa P.', 5, 'YouTube Premium គ្មាន Ads ស្រួលស្ដាប់ភ្លេង Background Play ណាស់!', TRUE, NOW())
 ON CONFLICT (id) DO NOTHING;
 INSERT INTO reviews (id, product_id, user_name, rating, comment, verified_purchase, created_at)
-VALUES ('r5', 'p_canva', 'Davit S.', 5, 'Canva Pro ប្រើ Background Remover បានស្រួល អត់បាច់ពិបាកកាត់រូប!', TRUE, NOW())
+VALUES ('r5', 'p4', 'Davit S.', 5, 'Canva Pro ប្រើ Background Remover បានស្រួល អត់បាច់ពិបាកកាត់រូប!', TRUE, NOW())
 ON CONFLICT (id) DO NOTHING;
 
 -- ============================================================
