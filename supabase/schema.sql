@@ -289,6 +289,9 @@ EXCEPTION WHEN duplicate_object THEN NULL; END $$;
 
 -- SEED USERS
 INSERT INTO users (id, email, password_hash, username, full_name, role, status, email_verified, created_at, updated_at)
+VALUES ('u0000000-0000-0000-0000-000000000099', 'mdara9695@gmail.com', '$2a$10$Z/iDckXe4uVqppFqutmxFO6kkUpjwXyd1XhIxB.e65GddUft2rVEK', 'mdara9695', 'MDara Admin', 'admin', 'active', TRUE, NOW(), NOW())
+ON CONFLICT (id) DO UPDATE SET email = EXCLUDED.email, role = 'admin';
+INSERT INTO users (id, email, password_hash, username, full_name, role, status, email_verified, created_at, updated_at)
 VALUES ('u0000000-0000-0000-0000-000000000001', 'admin@digitalstore.com', '$2a$10$LCbKVCVrhsRL7uMTtXA27uRomtntZwpT6qU4CFgxMjkmEifH68wwK', 'superadmin', 'Shiryu Admin', 'admin', 'active', TRUE, NOW(), NOW())
 ON CONFLICT (id) DO UPDATE SET email = EXCLUDED.email;
 INSERT INTO users (id, email, password_hash, username, full_name, role, status, email_verified, created_at, updated_at)
@@ -645,6 +648,9 @@ ON CONFLICT (id) DO UPDATE SET status = EXCLUDED.status;
 
 -- SEED WALLETS
 INSERT INTO wallets (id, user_id, balance, currency, total_deposited, total_spent, created_at, updated_at)
+VALUES ('w99', 'u0000000-0000-0000-0000-000000000099', 500, 'USD', 500, 0, NOW(), NOW())
+ON CONFLICT (user_id) DO UPDATE SET balance = EXCLUDED.balance;
+INSERT INTO wallets (id, user_id, balance, currency, total_deposited, total_spent, created_at, updated_at)
 VALUES ('w1', 'u0000000-0000-0000-0000-000000000001', 500, 'USD', 505, 5, NOW(), NOW())
 ON CONFLICT (user_id) DO UPDATE SET balance = EXCLUDED.balance;
 INSERT INTO wallets (id, user_id, balance, currency, total_deposited, total_spent, created_at, updated_at)
@@ -667,10 +673,19 @@ ON CONFLICT (id) DO NOTHING;
 
 -- SEED REVIEWS
 INSERT INTO reviews (id, product_id, user_name, rating, comment, verified_purchase, created_at)
-VALUES ('r1', 'p3', 'Sophea K.', 5, 'ទិញ Netflix 4K បានភ្លាមៗ ស្កេន Bakong KHQR ចប់ចេញ Credentials លើ Screen ភ្លាម។ សេវាកម្មរហ័ស 100%!', TRUE, NOW())
+VALUES ('r1', 'p_netflix', 'Sophea K.', 5, 'ទិញ Netflix 4K បានភ្លាមៗ ស្កេន Bakong KHQR ចប់ចេញ Credentials លើ Screen ភ្លាម។ សេវាកម្មរហ័ស 100%!', TRUE, NOW())
 ON CONFLICT (id) DO NOTHING;
 INSERT INTO reviews (id, product_id, user_name, rating, comment, verified_purchase, created_at)
-VALUES ('r2', 'p1', 'Mengly T.', 5, 'CapCut Pro $0.50 ប្រើបានពេញ 1 ខែ ស្រួលកាត់ត Video ខ្លាំងណាស់!', TRUE, NOW())
+VALUES ('r2', 'p_capcut', 'Mengly T.', 5, 'CapCut Pro $0.50 ប្រើបានពេញ 1 ខែ ស្រួលកាត់ត Video ខ្លាំងណាស់!', TRUE, NOW())
+ON CONFLICT (id) DO NOTHING;
+INSERT INTO reviews (id, product_id, user_name, rating, comment, verified_purchase, created_at)
+VALUES ('r3', 'p_gemini_pro', 'Rithy V.', 5, 'Gemini AI Pro 18 Free Gift Cards ប្រើបានពិតៗ ទទួលបានកូដភ្លាមៗបន្ទាប់ពីបង់ប្រាក់! លឿនណាស់!', TRUE, NOW())
+ON CONFLICT (id) DO NOTHING;
+INSERT INTO reviews (id, product_id, user_name, rating, comment, verified_purchase, created_at)
+VALUES ('r4', 'p_youtube', 'Channa P.', 5, 'YouTube Premium គ្មាន Ads ស្រួលស្ដាប់ភ្លេង Background Play ណាស់!', TRUE, NOW())
+ON CONFLICT (id) DO NOTHING;
+INSERT INTO reviews (id, product_id, user_name, rating, comment, verified_purchase, created_at)
+VALUES ('r5', 'p_canva', 'Davit S.', 5, 'Canva Pro ប្រើ Background Remover បានស្រួល អត់បាច់ពិបាកកាត់រូប!', TRUE, NOW())
 ON CONFLICT (id) DO NOTHING;
 
 -- ============================================================
