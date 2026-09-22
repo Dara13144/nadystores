@@ -50,6 +50,8 @@ app.use(requestTimeoutMiddleware(30000));
 // 6. Strict Production CORS
 const allowedOrigins = [
   env.FRONTEND_URL,
+  'https://www.nadytopup.store',
+  'https://nadytopup.store',
   'http://localhost:5173',
   'http://127.0.0.1:5173',
   'http://localhost:3000',
@@ -61,7 +63,7 @@ app.use(cors({
   origin: (origin, callback) => {
     // Allow non-browser requests (tools, curl, server-to-server webhooks) with no origin
     if (!origin) return callback(null, true);
-    if (allowedOrigins.some(ao => origin === ao || origin.endsWith('.vercel.app') || origin.endsWith('.render.com') || origin.endsWith('.pages.dev'))) {
+    if (allowedOrigins.some(ao => origin === ao || origin.endsWith('.vercel.app') || origin.endsWith('.render.com') || origin.endsWith('.pages.dev') || origin.includes('nadytopup.store'))) {
       return callback(null, true);
     }
     return callback(null, true); // Permissive in dev, validated in production
